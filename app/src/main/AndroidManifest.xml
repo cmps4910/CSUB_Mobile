@@ -25,6 +25,25 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <!-- News Feed Activity -->
+        <activity android:name="com.example.quypng.csub.NewsActivity" ></activity>
+
+        <!-- Friends Activity -->
+        <activity android:name="com.example.quypng.csub.MapActivity" ></activity>
+
+        <!-- Messages Activity -->
+        <activity android:name="com.example.quypng.csub.DirectoryActivity" ></activity>
+
+        <!-- Places Activity -->
+        <activity android:name="com.example.quypng.csub.DiningActivity" ></activity>
+
+        <!-- Events Activity -->
+        <activity android:name="com.example.quypng.csub.EventsActivity" ></activity>
+
+        <!-- Photos Activity -->
+        <activity android:name="com.example.quypng.csub.SocialMediaActivity" ></activity>
+
     </application>
 
 </manifest>

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CSUB</string>
+    <string name="footer">www.csub.edu</string>
+    <string name="map">Map Screen</string>
+    <string name="news">News Screen</string>
+    <string name="directory">Directory Screen</string>
+    <string name="dining">Dining Screen</string>
+    <string name="events">Events Screen</string>
+    <string name="social_media">Social Media Screen</string>
 </resources>

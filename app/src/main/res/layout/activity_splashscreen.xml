@@ -8,10 +8,14 @@
     android:gravity="center"
     android:orientation="vertical" >
 
+
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/splash"
-        android:background="@drawable/csub_logo"/>
+        android:src="@drawable/csub_logo"
+        android:adjustViewBounds="false"
+        android:padding="20dp" />
 
 </LinearLayout>

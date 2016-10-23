@@ -1,0 +1,49 @@
+<com.example.quypng.csub.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="@color/CSUB_GOLD" >
+	<!--  News Feed Button -->
+    <Button
+        android:id="@+id/btn_news"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_news"
+        android:text="News" />
+    
+	<!--  Map Button -->
+    <Button
+        android:id="@+id/btn_map"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_map"
+        android:text="Map" />
+    
+	<!--  Directory Button -->
+    <Button
+        android:id="@+id/btn_dictory"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_directory"
+        android:text="Directory" />
+	
+    <!--  Dining Button -->
+    <Button
+        android:id="@+id/btn_dining"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_dining"
+        android:text="Dining" />
+
+    <!--  Events Button -->
+    <Button
+        android:id="@+id/btn_events"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_events"
+        android:text="Events" />
+
+    <!--  Social Media Button -->
+    <Button
+        android:id="@+id/btn_socialmedia"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/btn_socialmedia"
+        android:text="Social Media" />
+
+</com.example.quypng.csub.DashboardLayout>

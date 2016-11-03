@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quypng.csub"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.quypng.csub.Splashscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.quypng.csub.MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.quypng.csub.NewsActivity" />
+        <activity android:name="com.example.quypng.csub.MapActivity" />
+        <activity android:name="com.example.quypng.csub.DirectoryActivity" />
+        <activity android:name="com.example.quypng.csub.DiningActivity" />
+        <activity android:name="com.example.quypng.csub.EventsActivity" />
+        <activity android:name="com.example.quypng.csub.SocialMediaActivity" />
+        <activity android:name="com.example.quypng.csub.TransportationActivity" />
+        <activity android:name="com.example.quypng.csub.ScheduleActivity" />
+        <activity android:name="com.example.quypng.csub.Blackboard_MoodleActivity" />
+    </application>
+
+</manifest>

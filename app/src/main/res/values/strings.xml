@@ -7,6 +7,10 @@
     <string name="dining">Dining Screen</string>
     <string name="events">Events Screen</string>
     <string name="social_media">Social Media Screen</string>
+    <string name="transportation">Transportation Screen</string>
+    <string name="schedule">Schedule Screen</string>
+    <string name="blackboard_moodle">Blackboard/Moodle Screen</string>
+    <string name="button">Button</string>
 
 
 </resources>

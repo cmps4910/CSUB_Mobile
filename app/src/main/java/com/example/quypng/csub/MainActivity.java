@@ -39,29 +39,38 @@ public class MainActivity extends AppCompatActivity {
          * Creating all buttons instances
          * */
         // Dashboard News button
-        Button btn_newsfeed = (Button) findViewById(R.id.btn_news);
+        Button btn_news = (Button) findViewById(R.id.btn_news);
 
         // Dashboard Map button
-        Button btn_friends = (Button) findViewById(R.id.btn_map);
+        Button btn_map = (Button) findViewById(R.id.btn_map);
 
         // Dashboard Directory button
-        Button btn_messages = (Button) findViewById(R.id.btn_dictory);
+        Button btn_directory = (Button) findViewById(R.id.btn_directory);
 
         // Dashboard Dining button
-        Button btn_places = (Button) findViewById(R.id.btn_dining);
+        Button btn_dining = (Button) findViewById(R.id.btn_dining);
 
         // Dashboard Events button
         Button btn_events = (Button) findViewById(R.id.btn_events);
 
         // Dashboard Social Media button
-        Button btn_photos = (Button) findViewById(R.id.btn_socialmedia);
+        Button btn_social_media = (Button) findViewById(R.id.btn_social_media);
+
+        // Dashboard transportation button
+        Button btn_transportation = (Button) findViewById(R.id.btn_transportation);
+
+        // Dashboard Schedule button
+        Button btn_schedule = (Button) findViewById(R.id.btn_schedule);
+
+        // Dashboard Blackboard/Moodle button
+        Button btn_blackboard_moodle = (Button) findViewById(R.id.btn_blackboard_moodle);
 
         /**
          * Handling all button click events
          * */
 
         // Listening to News Feed button click
-        btn_newsfeed.setOnClickListener(new View.OnClickListener() {
+        btn_news.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -72,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Listening Map button click
-        btn_friends.setOnClickListener(new View.OnClickListener() {
+        btn_map.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -83,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Listening Directory button click
-        btn_messages.setOnClickListener(new View.OnClickListener() {
+        btn_directory.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -94,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Listening to Dining button click
-        btn_places.setOnClickListener(new View.OnClickListener() {
+        btn_dining.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -116,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Listening to Social Media button click
-        btn_photos.setOnClickListener(new View.OnClickListener() {
+        btn_social_media.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
@@ -126,6 +135,38 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        // Listening to Transportation button click
+        btn_transportation.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                // Launching Transportation Screen
+                Intent i = new Intent(getApplicationContext(), TransportationActivity.class);
+                startActivity(i);
+            }
+        });
+
+        // Listening to Schedule button click
+        btn_schedule.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                // Launching Schedule Screen
+                Intent i = new Intent(getApplicationContext(), ScheduleActivity.class);
+                startActivity(i);
+            }
+        });
+
+        // Listening to Moodle button click
+        btn_blackboard_moodle.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                // Launching Blackboard/Moodle Screen
+                Intent i = new Intent(getApplicationContext(), Blackboard_MoodleActivity.class);
+                startActivity(i);
+            }
+        });
     }
 
     private void get_data(String url, final List list) {

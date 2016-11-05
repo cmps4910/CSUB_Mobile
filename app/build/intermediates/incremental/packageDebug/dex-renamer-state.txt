@@ -1,4 +1,7 @@
-#Thu Nov 03 14:09:00 PDT 2016
-base.0=/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sat Nov 05 04:05:55 PDT 2016
+base.0=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_53773026e41166aeef79fa267964f91e81e1c1f4
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8d711e048eb042544626d7249607d8555a7f783\\classes.dex
+base.1=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8d711e048eb042544626d7249607d8555a7f783
+file.0=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_53773026e41166aeef79fa267964f91e81e1c1f4\\classes.dex

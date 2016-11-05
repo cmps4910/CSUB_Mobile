@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 05 04:05:55 PDT 2016
+#Sat Nov 05 04:27:27 PDT 2016
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\design_tint_password_toggle.xml
 14.set=ANDROID_RESOURCE

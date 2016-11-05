@@ -24,7 +24,8 @@
         app:layout_constraintBottom_toTopOf="@+id/btn_social_media"
         android:layout_marginBottom="16dp"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
+        android:layout_width="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Social Media Button -->
     <Button
@@ -41,7 +42,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginBottom="16dp"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
+        android:layout_width="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Dining Button -->
     <Button
@@ -58,7 +60,8 @@
         android:layout_marginStart="16dp"
         app:layout_constraintLeft_toRightOf="@+id/btn_social_media"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Map -->
     <Button
@@ -75,7 +78,8 @@
         app:layout_constraintBottom_toTopOf="@+id/btn_directory"
         android:layout_marginBottom="16dp"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Events Button -->
     <Button
@@ -92,7 +96,8 @@
         app:layout_constraintBottom_toTopOf="@+id/btn_dining"
         android:layout_marginBottom="16dp"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
+        android:layout_width="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Directory Button -->
     <Button
@@ -109,7 +114,8 @@
         app:layout_constraintRight_toLeftOf="@+id/btn_social_media"
         android:layout_marginEnd="16dp"
         android:layout_height="wrap_content"
-        android:layout_width="wrap_content" />
+        android:layout_width="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Schedule -->
     <Button
@@ -126,7 +132,8 @@
         android:layout_marginTop="16dp"
         app:layout_constraintTop_toBottomOf="@+id/btn_social_media"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="10sp" />
 
     <!--  Transportation -->
     <Button
@@ -143,7 +150,8 @@
         app:layout_constraintRight_toLeftOf="@+id/btn_schedule"
         android:layout_marginEnd="16dp"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="10sp" />
 
     <!-- Moodle -->
     <Button
@@ -160,6 +168,7 @@
         android:layout_marginStart="16dp"
         app:layout_constraintLeft_toRightOf="@+id/btn_schedule"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="10sp" />
 
 </android.support.constraint.ConstraintLayout>

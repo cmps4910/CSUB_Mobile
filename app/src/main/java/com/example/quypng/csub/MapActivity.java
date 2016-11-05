@@ -21,7 +21,7 @@ public class MapActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.map_layout);
         // runtime permission check~~~~~~
-        getPermissionToReadContacts();
+        getPermission();
 
         org.osmdroid.tileprovider.constants.OpenStreetMapTileProviderConstants.setUserAgentValue(BuildConfig.APPLICATION_ID);
         MapView map = (MapView) findViewById(R.id.mapview);
@@ -38,7 +38,7 @@ public class MapActivity extends Activity {
     // Please do not remove or change the below function. If you do, let me know - Jonathan
     //
     @TargetApi(Build.VERSION_CODES.M)
-    public void getPermissionToReadContacts() {
+    public void getPermission() {
         if (ContextCompat.checkSelfPermission(this,
                 Manifest.permission.ACCESS_FINE_LOCATION)
                 != PackageManager.PERMISSION_GRANTED) {

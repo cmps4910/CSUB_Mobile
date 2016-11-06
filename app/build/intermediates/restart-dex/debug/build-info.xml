@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="3043928248754"
+    token="4440679669333383294"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="382" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="259" />
+    <task
+        name="verifier"
+        duration="39" />
+
+    <artifact
+        location="/Users/quypng/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="3043928248754"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/quypng/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

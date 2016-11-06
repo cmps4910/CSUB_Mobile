@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/social_media.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/social_media.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/dining.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/dining.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/map.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/map.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/events.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/events.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/news.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/news.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/blackboard_moodle.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/blackboard_moodle.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/transportation.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/transportation.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/schedule.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/schedule.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/directory.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/directory.png"
+    }
+]

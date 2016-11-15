@@ -3002,7 +3002,7 @@ containing a value of this type.
         public static final int lecture_building=0x7f020086;
         public static final int lecture_building_b=0x7f020087;
         public static final int library=0x7f020088;
-        public static final int map=0x7f020089;
+        public static final int maps=0x7f020089;
         public static final int marker_default=0x7f02008a;
         public static final int marker_default_focused_base=0x7f02008b;
         public static final int moreinfo_arrow=0x7f02008c;

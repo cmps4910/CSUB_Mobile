@@ -5,29 +5,29 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3043928248754"
+    timestamp="7554727862658"
     token="4440679669333383294"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="382" />
+        duration="1661" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="259" />
+        duration="117" />
     <task
         name="verifier"
-        duration="39" />
+        duration="2" />
 
     <artifact
         location="/Users/quypng/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="3043928248754"
+        timestamp="7554727862658"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/quypng/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"

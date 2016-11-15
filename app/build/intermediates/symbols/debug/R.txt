@@ -721,7 +721,7 @@ int drawable leadership_development 0x7f020085
 int drawable lecture_building 0x7f020086
 int drawable lecture_building_b 0x7f020087
 int drawable library 0x7f020088
-int drawable map 0x7f020089
+int drawable maps 0x7f020089
 int drawable marker_default 0x7f02008a
 int drawable marker_default_focused_base 0x7f02008b
 int drawable moreinfo_arrow 0x7f02008c

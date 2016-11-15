@@ -4,16 +4,16 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/schedule.png"
     },
     {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/maps.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/maps.png"
+    },
+    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/events.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/events.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/transportation.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/transportation.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/map.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/map.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/directory.png",

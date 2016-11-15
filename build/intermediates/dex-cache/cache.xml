@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="25d5f50252085c46c91ad3c18094dd8e34c3fe7e">
+        sha1="dfe576e29a890fb79aa017483825c73ebea076a9">
         <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_86dba32c7c021f4dfc60c5fa75737f036b7d9997.jar" />
     </item>
     <item
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="29b7e1e9c3e22e55ccb5fc4972048a0b7d8da08e">
+        sha1="7f45af78d47416e80839b89514f84c53f84cf883">
         <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/instant-run_236e79222fdf6682ba3bdc4bdce3e3ef646cd9f5.jar" />
     </item>
     <item

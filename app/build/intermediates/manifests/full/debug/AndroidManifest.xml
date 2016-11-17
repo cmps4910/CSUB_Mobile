@@ -59,7 +59,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.quypng.csub.NewsActivity" />
         <activity android:name="com.example.quypng.csub.MapActivity" />
         <activity android:name="com.example.quypng.csub.DirectoryActivity" />
         <activity android:name="com.example.quypng.csub.DiningActivity" />
@@ -68,6 +67,10 @@
         <activity android:name="com.example.quypng.csub.TransportationActivity" />
         <activity android:name="com.example.quypng.csub.ScheduleActivity" />
         <activity android:name="com.example.quypng.csub.Blackboard_MoodleActivity" />
+        <activity
+            android:name="com.example.quypng.csub.NewsActivity"
+            android:label="@string/title_activity_news"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

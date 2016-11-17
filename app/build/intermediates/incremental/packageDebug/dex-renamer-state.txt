@@ -1,4 +1,4 @@
-#Sun Nov 06 02:05:27 PST 2016
-base.0=/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Nov 17 01:08:00 PST 2016
+base.0=/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

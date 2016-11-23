@@ -1,11 +1,23 @@
 [
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/directory.png"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dining.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/dining.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_schedule.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_schedule.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/events.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/events.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_dining.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_dining.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/map.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/map.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/map.png",
@@ -16,6 +28,30 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/maps.png"
     },
     {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/transportation.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/transportation.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_blackboard.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_blackboard.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/maps.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/maps.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_map.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_map.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_transportation.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_transportation.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blackboard_moodle.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/blackboard_moodle.png"
+    },
+    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/schedule.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/schedule.png"
     },
@@ -24,16 +60,56 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/transportation.png"
     },
     {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/schedule.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/schedule.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blackboard_moodle.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/blackboard_moodle.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/directory.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/directory.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_news.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_news.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_events.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_events.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_socialmedia.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_socialmedia.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_directory.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_directory.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/directory.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/directory.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/social_media.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/social_media.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/events.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/events.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi/news.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxhdpi/news.png"
+    },
+    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/news.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/news.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/social_media.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/social_media.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxhdpi/blackboard_moodle.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxhdpi/dining.png",

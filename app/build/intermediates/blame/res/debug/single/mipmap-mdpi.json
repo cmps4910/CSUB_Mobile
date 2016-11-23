@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

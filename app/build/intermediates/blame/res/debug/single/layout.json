@@ -1,282 +1,310 @@
 [
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/dining_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/dining_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/dashboard_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/dashboard_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/blackboard_moodle_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/blackboard_moodle_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/app_bar_news.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/app_bar_news.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/events_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/events_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/map_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/map_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_socialmedia.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_socialmedia.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/content_news.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/content_news.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/activity_splashscreen.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/activity_splashscreen.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/map_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/map_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/transportation_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/transportation_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/dining_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/dining_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/activity_news.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/activity_news.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/transportation_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/transportation_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_schedule.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_schedule.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/socialmedia_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/socialmedia_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/constraint_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/constraint_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/dashboard_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/dashboard_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/news_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/news_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/events_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/events_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/actionbar_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/actionbar_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/socialmedia_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/socialmedia_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_blackboardmoodle.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_blackboardmoodle.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_map.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_map.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/blackboard__moodle_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/blackboard__moodle_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_dining.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_dining.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/actionbar_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/actionbar_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_transportation.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_transportation.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/directory_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/directory_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/footer_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/footer_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/news_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/news_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/bonuspack_bubble.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/layout/bonuspack_bubble.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/bonuspack_bubble.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/layout/bonuspack_bubble.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/nav_header_news.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/nav_header_news.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/activity_splashscreen.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/activity_splashscreen.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/footer_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/footer_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_events.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_events.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/schedule_layout.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/layout/schedule_layout.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/nav_header_news.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/nav_header_news.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/schedule_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/schedule_layout.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_directory.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_directory.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/content_news.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/content_news.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/directory_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/directory_layout.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/app_toolbar.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/app_toolbar.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/layout/constraint_layout.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/layout/constraint_layout.xml"
     }
 ]

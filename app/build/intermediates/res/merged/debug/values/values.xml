@@ -663,6 +663,7 @@
     <string name="format_distance_miles">%s mi</string>
     <string name="format_distance_nautical_miles">%s nm</string>
     <string name="hills">Hills</string>
+    <string name="home">Home</string>
     <string name="map">Map Screen</string>
     <string name="map_mode">Map Source</string>
     <string name="mapbox">MapBox</string>
@@ -685,7 +686,15 @@
     <string name="set_mode_show_me">showing and tracking my current location</string>
     <string name="social_media">Social Media Screen</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_dining">Dining</string>
+    <string name="title_activity_directory">Directory</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_moodle">Blackboard/Moddle</string>
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_socialmedia">SocialMedia</string>
+    <string name="title_activity_transportation">Transportation</string>
     <string name="topo">Topographic</string>
     <string name="transportation">Transportation Screen</string>
     <string name="unknown">Unknown</string>
@@ -704,7 +713,7 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

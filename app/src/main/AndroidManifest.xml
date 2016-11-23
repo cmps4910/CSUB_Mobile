@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.quypng.csub">
+          package="com.example.quypng.csub">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -31,18 +31,43 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".MapActivity" />
-        <activity android:name=".DirectoryActivity" />
-        <activity android:name=".DiningActivity" />
-        <activity android:name=".EventsActivity" />
-        <activity android:name=".SocialMediaActivity" />
-        <activity android:name=".TransportationActivity" />
-        <activity android:name=".ScheduleActivity" />
-        <activity android:name=".Blackboard_MoodleActivity" />
-        <activity
-            android:name=".NewsActivity"
-            android:label="@string/title_activity_news"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+
+        <activity android:name=".MapActivity"
+                  android:label="@string/title_activity_map"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity"/>
+        <activity android:name=".NewsActivity"
+                  android:label="@string/title_activity_news"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity"/>
+        <activity android:name=".EventsActivity"
+                  android:label="@string/title_activity_events"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
+        <activity android:name=".DirectoryActivity"
+                  android:label="@string/title_activity_directory"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
+        <activity android:name=".SocialMediaActivity"
+                  android:label="@string/title_activity_socialmedia"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
+        <activity android:name=".DiningActivity"
+                  android:label="@string/title_activity_dining"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
+        <activity android:name=".TransportationActivity"
+                  android:label="@string/title_activity_transportation"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
+        <activity android:name=".ScheduleActivity"
+                  android:label="@string/title_activity_schedule"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
+        <activity android:name=".Blackboard_MoodleActivity"
+                  android:label="@string/title_activity_moodle"
+                  android:theme="@style/AppTheme.NoActionBar"
+                  android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

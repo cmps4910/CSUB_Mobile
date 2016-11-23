@@ -1,10 +1,9 @@
 package com.example.quypng.csub;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
+import android.support.v4.app.NavUtils;
 import android.view.Gravity;
-import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -20,18 +19,22 @@ public class NewsActivity extends AppCompatActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_news);
+        setContentView(R.layout.news_layout);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+/*        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setHomeAsUpIndicator(R.drawable.home_white);*/
+
+/*        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
-        });
+        });*/
 
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -39,7 +42,6 @@ public class NewsActivity extends AppCompatActivity
         drawer.addDrawerListener(toggle);
         toggle.syncState();
         toggle.setDrawerIndicatorEnabled(false);
-
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
@@ -58,7 +60,7 @@ public class NewsActivity extends AppCompatActivity
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.news, menu);
+        getMenuInflater().inflate(R.menu.main_menu, menu);
         return true;
     }
 
@@ -78,6 +80,9 @@ public class NewsActivity extends AppCompatActivity
             }
             return true;
         }
+        if (id == R.id.home) {
+            NavUtils.navigateUpFromSameTask(this);
+        }
         return super.onOptionsItemSelected(item);
     }
 
@@ -87,18 +92,42 @@ public class NewsActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
-            // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
-
-        } else if (id == R.id.nav_slideshow) {
-
-        } else if (id == R.id.nav_manage) {
-
-        } else if (id == R.id.nav_share) {
-
-        } else if (id == R.id.nav_send) {
-
+        if (id == R.id.nav_map) {
+            // Launching Map
+            Intent i = new Intent(getApplicationContext(), MapActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_news) {
+            // Launching News
+            Intent i = new Intent(getApplicationContext(), NewsActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_events) {
+            // Launching Events
+            Intent i = new Intent(getApplicationContext(), EventsActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_directory) {
+            // Launching Directory
+            Intent i = new Intent(getApplicationContext(), DirectoryActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_socialmedia) {
+            // Launching Social Media
+            Intent i = new Intent(getApplicationContext(), SocialMediaActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_dining) {
+            // Launching Dining
+            Intent i = new Intent(getApplicationContext(), DiningActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_transportation) {
+            // Launching Transportation
+            Intent i = new Intent(getApplicationContext(), TransportationActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_schedule) {
+            // Launching Schedule
+            Intent i = new Intent(getApplicationContext(), ScheduleActivity.class);
+            startActivity(i);
+        } else if (id == R.id.nav_blackboard) {
+            // Launching Blackboard/Moodle
+            Intent i = new Intent(getApplicationContext(), Blackboard_MoodleActivity.class);
+            startActivity(i);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

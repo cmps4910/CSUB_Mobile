@@ -11,12 +11,21 @@
     <string name="schedule">Schedule Screen</string>
     <string name="blackboard_moodle">Blackboard/Moodle Screen</string>
     <string name="button">Button</string>
-    <string name="title_activity_news">NewsActivity</string>
+
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_directory">Directory</string>
+    <string name="title_activity_socialmedia">SocialMedia</string>
+    <string name="title_activity_dining">Dining</string>
+    <string name="title_activity_transportation">Transportation</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_moodle">Blackboard/Moddle</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-
+    <string name="home">Home</string>
 
 </resources>

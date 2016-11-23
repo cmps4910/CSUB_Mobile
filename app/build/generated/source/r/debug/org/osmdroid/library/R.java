@@ -12,30 +12,30 @@ public final class R {
 		public static final int btn_moreinfo = 0x7f02005f;
 		public static final int center = 0x7f020067;
 		public static final int direction_arrow = 0x7f020070;
-		public static final int ic_menu_compass = 0x7f020083;
-		public static final int ic_menu_mapmode = 0x7f020086;
-		public static final int ic_menu_mylocation = 0x7f020087;
-		public static final int ic_menu_offline = 0x7f020088;
-		public static final int marker_default = 0x7f020093;
-		public static final int marker_default_focused_base = 0x7f020094;
-		public static final int moreinfo_arrow = 0x7f020095;
-		public static final int moreinfo_arrow_pressed = 0x7f020096;
-		public static final int navto_small = 0x7f020098;
-		public static final int next = 0x7f02009a;
-		public static final int person = 0x7f0200a5;
-		public static final int previous = 0x7f0200a8;
-		public static final int zoom_in = 0x7f0200b9;
-		public static final int zoom_out = 0x7f0200ba;
+		public static final int ic_menu_compass = 0x7f020084;
+		public static final int ic_menu_mapmode = 0x7f020087;
+		public static final int ic_menu_mylocation = 0x7f020088;
+		public static final int ic_menu_offline = 0x7f020089;
+		public static final int marker_default = 0x7f020094;
+		public static final int marker_default_focused_base = 0x7f020095;
+		public static final int moreinfo_arrow = 0x7f020096;
+		public static final int moreinfo_arrow_pressed = 0x7f020097;
+		public static final int navto_small = 0x7f020099;
+		public static final int next = 0x7f02009b;
+		public static final int person = 0x7f0200a6;
+		public static final int previous = 0x7f0200a9;
+		public static final int zoom_in = 0x7f0200ba;
+		public static final int zoom_out = 0x7f0200bb;
 	}
 	public static final class id {
-		public static final int bubble_description = 0x7f0c0079;
-		public static final int bubble_image = 0x7f0c0076;
-		public static final int bubble_moreinfo = 0x7f0c0078;
-		public static final int bubble_subdescription = 0x7f0c007a;
-		public static final int bubble_title = 0x7f0c0077;
+		public static final int bubble_description = 0x7f0c007a;
+		public static final int bubble_image = 0x7f0c0077;
+		public static final int bubble_moreinfo = 0x7f0c0079;
+		public static final int bubble_subdescription = 0x7f0c007b;
+		public static final int bubble_title = 0x7f0c0078;
 	}
 	public static final class layout {
-		public static final int bonuspack_bubble = 0x7f04001e;
+		public static final int bonuspack_bubble = 0x7f040020;
 	}
 	public static final class string {
 		public static final int about = 0x7f060015;

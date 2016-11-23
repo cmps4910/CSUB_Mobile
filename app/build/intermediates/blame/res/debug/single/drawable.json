@@ -24,12 +24,12 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/buildings/drawable/pa070078.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/navto_small.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/navto_small.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/home_white.png",
@@ -418,6 +418,10 @@
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/btn_map.xml",
         "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable/btn_map.xml"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/ic_list_white_24dp.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable/ic_list_white_24dp.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable/person.png",

@@ -5,33 +5,40 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="48677150194535"
-    token="7892212114162497838"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="28297223389614"
+    token="4440679669333383294"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="542" />
+        duration="559" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="10" />
     <task
         name="instant-run-transform"
-        duration="40" />
+        duration="29" />
     <task
         name="verifier"
-        duration="5" />
+        duration="2" />
 
     <artifact
-        location="/Users/quypng/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="48677150194535"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="27993697368838"
+        verifier="CLASS_ADDED" >
         <artifact
             location="/Users/quypng/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="28297223389614"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

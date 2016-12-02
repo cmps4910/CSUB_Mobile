@@ -1,71 +1,11 @@
 [
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/transportation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/transportation.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/blackboard_moodle.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/blackboard_moodle.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/social_media.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/social_media.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/directory.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/dining.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_socialmedia.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_socialmedia.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/schedule.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/schedule.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_blackboard.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_blackboard.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/transportation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/transportation.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/maps.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/maps.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_events.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_events.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/map.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/map.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/map.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/map.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/news.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/news.png"
-    },
-    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_map.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_map.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/maps.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/maps.png"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/blackboard_moodle.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/blackboard_moodle.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_schedule.png",
@@ -80,12 +20,12 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_directory.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/dining.png"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/directory.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/directory.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/events.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/events.png"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/dining.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/dining.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/schedule.png",
@@ -96,6 +36,14 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/social_media.png"
     },
     {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_socialmedia.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_socialmedia.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_blackboard.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_blackboard.png"
+    },
+    {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_transportation.png",
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_transportation.png"
     },
@@ -104,12 +52,24 @@
         "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/events.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_dining.png"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/transportation.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/transportation.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.5/app/src/main/res/drawable-xxxhdpi/directory.png"
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/maps.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/maps.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_events.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_events.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/map.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/map.png"
+    },
+    {
+        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_dining.png",
+        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_dining.png"
     },
     {
         "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/news.png",

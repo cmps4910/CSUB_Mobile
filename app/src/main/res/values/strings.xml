@@ -28,4 +28,7 @@
     <string name="action_settings">Settings</string>
     <string name="home">Home</string>
 
+    <string name="access_token">pk.eyJ1IjoicXV5cG5nIiwiYSI6ImNpdzdmbjZsMzAwMWMyd2xrcDFla2R5dTAifQ.Er6cEscvlKaD89-IWVcy-g</string>
+    <string name="my_style_mapbox">mapbox://styles/quypng/civhzb2c9002x2ko4xb3qzcv2</string>
+
 </resources>

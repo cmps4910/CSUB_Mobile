@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="011040d2b63eeeeaf091d1574a7b939093889e0b">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_86dba32c7c021f4dfc60c5fa75737f036b7d9997.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +30,138 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.0_4aae5d8156339bad98345551eadfd6ad92e9901d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta3_ba69692b0199be0a20e84f871849d0e5f94acc01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_7da79c62efbdf5fa848823a45c6c8ba4b202a848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_84db71e8011b0b46dab44f67f94ad5597c7df838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/okio-1.9.0_637153da061f7cef6bb9dda8bc14cc02dfb75b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_932fc97384c0cebcdee8fa8e0a097dbfce974d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_bc4609aedb2c700f50e4ce56e4a7813ed902261f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f29a9d61b09a657f3aee4c34b177051e49245a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta3_a4861c1c472fb914e555179d2b137b7dd5e50aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.mapzen.android-lost-1.1.1_ebff6379ba4218aedd120983cea152f55721f450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a6693ce3c28a78c075504379c891f9f048b8cbd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/gson-2.7_bb615e5cec0e74c816d41fba5b082934667c262f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.1_e178223cc7e02c635dcbbb5dab77a57d61acc164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1b7b5481f387741610eda19903c6da816cbce617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_476722882ebd0719c31a5d4da9b45a589300994b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,6 +192,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9a2fc479c333dd654e922ab696a2ef60437c6d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,6 +219,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_f54d8dfd8c0079d3a6b6b5baf299b1177060c917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_33fcdc58e252e81707f3ca241eeffe3d262f605c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -75,11 +246,20 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="92bfc3179c0bb6e950bbffa761ac96c93e7580cc">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_990ce8506d718d44aacd5539f6cdc218852a9a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="654ab4fc91cf3890bb9ad513d2cae695b4fdfb9f">
+        sha1="c20168e4fb7622f2e36884cae95f9eaad5d5eada">
         <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/instant-run_236e79222fdf6682ba3bdc4bdce3e3ef646cd9f5.jar" />
     </item>
     <item
@@ -102,93 +282,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_02af683f16ae0c909c05dc72fc65f8dacea16007.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2b94e1e478f45ef35212e1725e458400ef6d909d">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_86dba32c7c021f4dfc60c5fa75737f036b7d9997.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_7da79c62efbdf5fa848823a45c6c8ba4b202a848.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta3_ba69692b0199be0a20e84f871849d0e5f94acc01.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta3_a4861c1c472fb914e555179d2b137b7dd5e50aa8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a6693ce3c28a78c075504379c891f9f048b8cbd3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1b7b5481f387741610eda19903c6da816cbce617.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9a2fc479c333dd654e922ab696a2ef60437c6d16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_33fcdc58e252e81707f3ca241eeffe3d262f605c.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="27817500586893687f35a2d97b2c5c39a6e56011">
         <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/osmdroid-android-5.5-release_f1ed5ff136220a5d620aa1f7fc266c0123c8b2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/1.3.1/6bda5f2cf57af827c1a9703a77ed9e451e6d6d25/mapbox-java-services-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6bda5f2cf57af827c1a9703a77ed9e451e6d6d25">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/mapbox-java-services-1.3.1_8e2ceba8c7e4f3f0d160455cda5d11698cfc3d41.jar" />
     </item>
     <item
         is-multidex="false"
@@ -207,6 +315,24 @@
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cdb1f3953a8110ecb79ec1224748b6618db88aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_02af683f16ae0c909c05dc72fc65f8dacea16007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_87135bc54c784d834d0fedff8052a69684c2c45e.jar" />
     </item>
 
 </items>

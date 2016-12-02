@@ -2,12 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.example.quypng.csub">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <uses-feature android:name="android.hardware.location.gps"/>
 
     <application
         android:allowBackup="true"
@@ -17,57 +19,73 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Splashscreen">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"/>
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"/>
 
-                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MapActivity"
+            android:label="@string/title_activity_map"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".NewsActivity"
+            android:label="@string/title_activity_news"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".EventsActivity"
+            android:label="@string/title_activity_events"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".DirectoryActivity"
+            android:label="@string/title_activity_directory"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".SocialMediaActivity"
+            android:label="@string/title_activity_socialmedia"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".DiningActivity"
+            android:label="@string/title_activity_dining"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".TransportationActivity"
+            android:label="@string/title_activity_transportation"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".ScheduleActivity"
+            android:label="@string/title_activity_schedule"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Blackboard_MoodleActivity"
+            android:label="@string/title_activity_moodle"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
 
-        <activity android:name=".MapActivity"
-                  android:label="@string/title_activity_map"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity"/>
-        <activity android:name=".NewsActivity"
-                  android:label="@string/title_activity_news"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity"/>
-        <activity android:name=".EventsActivity"
-                  android:label="@string/title_activity_events"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
-        <activity android:name=".DirectoryActivity"
-                  android:label="@string/title_activity_directory"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
-        <activity android:name=".SocialMediaActivity"
-                  android:label="@string/title_activity_socialmedia"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
-        <activity android:name=".DiningActivity"
-                  android:label="@string/title_activity_dining"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
-        <activity android:name=".TransportationActivity"
-                  android:label="@string/title_activity_transportation"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
-        <activity android:name=".ScheduleActivity"
-                  android:label="@string/title_activity_schedule"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
-        <activity android:name=".Blackboard_MoodleActivity"
-                  android:label="@string/title_activity_moodle"
-                  android:theme="@style/AppTheme.NoActionBar"
-                  android:parentActivityName=".MainActivity" />
+        // telemetry service for MapBox
+        <service android:name="com.mapbox.mapboxsdk.telemetry.TelemetryService" /><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+
     </application>
 
 </manifest>

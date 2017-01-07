@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

@@ -1,78 +1,42 @@
 [
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/dining.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\news.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\news.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/news.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/news.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\schedule.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\schedule.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/transportation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/transportation.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_media.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\social_media.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/map.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\blackboard_moodle.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\blackboard_moodle.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/news.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/news.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\map.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/social_media.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/social_media.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\maps.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\maps.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/transportation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/transportation.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\directory.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\directory.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/map.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\transportation.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\transportation.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/blackboard_moodle.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\events.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\events.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/maps.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/maps.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/schedule.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/schedule.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/schedule.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/schedule.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/events.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/events.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/social_media.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/social_media.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/directory.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/blackboard_moodle.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-hdpi/dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable-hdpi/dining.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/directory.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable-hdpi/events.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable-hdpi/events.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dining.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-hdpi\\dining.png"
     }
 ]

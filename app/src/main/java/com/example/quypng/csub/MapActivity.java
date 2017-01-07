@@ -44,14 +44,11 @@ public class MapActivity extends Activity {
                 != PackageManager.PERMISSION_GRANTED) {
             if (ActivityCompat.shouldShowRequestPermissionRationale(this,
                     Manifest.permission.ACCESS_FINE_LOCATION)) {
-
                 // show explaination to user here
-
             } else {
                 ActivityCompat.requestPermissions(this,
                         new String[]{Manifest.permission.ACCESS_FINE_LOCATION},
                         1);
-
             }
         }
 
@@ -60,14 +57,11 @@ public class MapActivity extends Activity {
                 != PackageManager.PERMISSION_GRANTED) {
             if (ActivityCompat.shouldShowRequestPermissionRationale(this,
                     Manifest.permission.ACCESS_COARSE_LOCATION)) {
-
                 // show explaination to user here
-
             } else {
                 ActivityCompat.requestPermissions(this,
                         new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},
                         1);
-
             }
         }
 
@@ -76,14 +70,11 @@ public class MapActivity extends Activity {
                 != PackageManager.PERMISSION_GRANTED) {
             if (ActivityCompat.shouldShowRequestPermissionRationale(this,
                     Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
-
                 // show explaination to user here
-
             } else {
                 ActivityCompat.requestPermissions(this,
                         new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
                         1);
-
             }
         }
     }
@@ -96,16 +87,12 @@ public class MapActivity extends Activity {
                 // If request is cancelled, the result arrays are empty.
                 if (grantResults.length > 0
                         && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-
                     // stupid 6.0 bug... requires restarting of the activity or it will crash
                     finish();
                     startActivity(getIntent());
-
                 } else {
-
                     // permission denied. do stuffs here
                 }
-
                 return;
             }
 

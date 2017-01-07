@@ -1,1030 +1,522 @@
 [
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/student_union.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/student_union.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\president.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\president.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\fab_b.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/human_resource.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/human_resource.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100035.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100035.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_moreinfo.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/btn_moreinfo.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blackboard_moodle.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_blackboard_moodle.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/writing_labplus.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/writing_labplus.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_dining.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_dining.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\telecommunications.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\telecommunications.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facultytower.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\facultytower.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/sci_2b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/sci_2b.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_parent_rounded_corner.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\bg_parent_rounded_corner.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/sci_2b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/sci_2b.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\police.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\police.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_social_media.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_social_media.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/finearts.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/finearts.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_events.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_events.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\previous.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/ic_menu_offline.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_offline.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\human_resource.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\human_resource.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/bus_dev_off.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/bus_dev_off.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blackboard_moodle.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\blackboard_moodle.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/center.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/center.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_events.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_events.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lecture_building_b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\lecture_building_b.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/marker_default.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/marker_default.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\next.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/pe.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/pe.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\news.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/pa100024.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/pa100024.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\csubakersfield_logo.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\csubakersfield_logo.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/marker_default_focused_base.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/marker_default_focused_base.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/direction_arrow.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/direction_arrow.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_news.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_news.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/icarrdo.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/icarrdo.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\studentrec.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\studentrec.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/person.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/person.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_default_focused_base.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\marker_default_focused_base.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_dining.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_dining.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus_dev_off.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\bus_dev_off.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/performingarts_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/performingarts_b.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lecture_building.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\lecture_building.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/highschool_equivalency.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/highschool_equivalency.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_2b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_2b.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/person.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/person.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100029.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100029.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/social_media.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/social_media.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/bicyclestation.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/bicyclestation.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100024.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100024.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peets.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\peets.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/zoom_in.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/zoom_in.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\student_union.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\student_union.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/pa100030.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/pa100030.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\highschool_equivalency.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\highschool_equivalency.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/center.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/center.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_events.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_events.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/classroom_bduilding.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/classroom_bduilding.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin_east.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\admin_east.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/previous.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/previous.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/educational_oppourtunity.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/educational_oppourtunity.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_directory.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_directory.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/navto_small.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/navto_small.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100030.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100030.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/marker_default.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/marker_default.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_default.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\marker_default.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/lecture_building_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/lecture_building_b.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\repographics.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\repographics.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/cafe.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/cafe.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_map.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_map.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leadership_development.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\leadership_development.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/fab_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/fab_b.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/directory.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dining.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_dining.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pe.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pe.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extended_university.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\extended_university.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_news.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_news.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_moreinfo.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\btn_moreinfo.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/zoom_out.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/zoom_out.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_transportation.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_transportation.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/csubakersfield_logo.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/csubakersfield_logo.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/side_nav_bar.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\educational_oppourtunity.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\educational_oppourtunity.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\csub_logo.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\csub_logo.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book_store.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\book_store.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/map.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/map.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_schedule.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_schedule.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonuspack_bubble.9.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\bonuspack_bubble.9.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\fab.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\education_b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\education_b.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/donahoe_hall.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/donahoe_hall.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\actionbar_background.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/president.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/president.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\performingarts_b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\performingarts_b.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/ic_menu_offline.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_offline.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_1.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_1.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/ic_menu_compass.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_compass.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/social_media.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/social_media.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\social_media.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\social_media.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/pa100029.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/pa100029.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_white_24dp.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\ic_list_white_24dp.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transportation.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\transportation.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moreinfo_arrow.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\moreinfo_arrow.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/education.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/education.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/ic_menu_compass.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_compass.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_3b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_3b.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_2.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_2.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/library.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/library.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disabilities_services.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\disabilities_services.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_map.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_map.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/telecommunications.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/telecommunications.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schedule.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\schedule.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/cafe.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/cafe.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_out.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\zoom_out.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/blackboard_moodle.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_directory.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_directory.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/leadership_development.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/leadership_development.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\studentservices.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\studentservices.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/sci_1.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/sci_1.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navto_small.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\navto_small.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finearts.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\finearts.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/fab.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/fab.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mapmode.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_mapmode.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/transportation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/transportation.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/repographics.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/repographics.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dining.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\dining.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/studentservices.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/studentservices.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\writingresourcelab.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\writingresourcelab.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/counselling.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/counselling.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/marker_default_focused_base.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/marker_default_focused_base.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/highschool_equivalency.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/highschool_equivalency.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_in.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\zoom_in.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\healthservices.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\healthservices.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_blackboard_moodle.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_blackboard_moodle.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nursinged.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\nursinged.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/sci_2.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/sci_2.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classroom_bduilding.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\classroom_bduilding.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/lecture_building_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/lecture_building_b.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/news.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/news.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction_arrow.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\direction_arrow.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/csubakersfield_logo.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/csubakersfield_logo.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_offline.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_offline.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_transportation.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_transportation.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/bicyclestation.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/bicyclestation.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_3.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_3.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/ic_menu_mapmode.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_mapmode.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mylocation.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_mylocation.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/pa100029.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/pa100029.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\education.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\education.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/dining.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compass.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_compass.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/human_resource.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/human_resource.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icarrdo.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\icarrdo.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/dining.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/dining.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/book_store.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/book_store.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\directory.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/extended_university.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/extended_university.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/transportation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/transportation.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\events.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\events.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counselling.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\counselling.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/actionbar_compat_background.9.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/actionbar_compat_background.9.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\writing_labplus.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\writing_labplus.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\cafe.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\performingarts.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\performingarts.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/lecture_building.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/lecture_building.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/moreinfo_arrow_pressed.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/moreinfo_arrow_pressed.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\person.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_schedule.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_schedule.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bicyclestation.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\bicyclestation.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/busdevclass.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/busdevclass.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa070078.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa070078.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\busdevclass.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\busdevclass.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/previous.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/previous.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\center.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/peets.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/peets.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\donahoe_hall.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\donahoe_hall.jpg"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/book_store.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/book_store.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moreinfo_arrow_pressed.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\moreinfo_arrow_pressed.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/facultytower.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/facultytower.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_compat_background.9.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\actionbar_compat_background.9.png"
     },
     {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_map.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_map.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/fab_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/fab_b.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/ic_menu_mylocation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_mylocation.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/pa070078.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/pa070078.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/actionbar_compat_background.9.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/actionbar_compat_background.9.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_news.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_news.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/studentrec.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/studentrec.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/bonuspack_bubble.9.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/bonuspack_bubble.9.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/leadership_development.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/leadership_development.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/president.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/president.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/performingarts.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/performingarts.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/icarrdo.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/icarrdo.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/library.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/library.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/pa100030.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/pa100030.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/bus_dev_off.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/bus_dev_off.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/navto_small.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/navto_small.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/admin_east.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/admin_east.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_schedule.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_schedule.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/studentrec.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/studentrec.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/education_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/education_b.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/csub_logo.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/csub_logo.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/schedule.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/schedule.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/fab.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/fab.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/classroom_bduilding.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/classroom_bduilding.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/moreinfo_arrow.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/moreinfo_arrow.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/police.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/police.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/directory.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/directory.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/pa100035.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/pa100035.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/writingresourcelab.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/writingresourcelab.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_blackboard_moodle.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_blackboard_moodle.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/nursinged.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/nursinged.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/blackboard_moodle.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/blackboard_moodle.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/repographics.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/repographics.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/facultytower.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/facultytower.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_social_media.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_social_media.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/disabilities_services.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/disabilities_services.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/admin_east.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/admin_east.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/studentservices.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/studentservices.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/direction_arrow.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/direction_arrow.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/lecture_building.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/lecture_building.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/moreinfo_arrow_pressed.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/moreinfo_arrow_pressed.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/news.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/news.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/sci_3.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/sci_3.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/csub_logo.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/csub_logo.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/pe.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/pe.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/education.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/education.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/ic_menu_mapmode.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_mapmode.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/busdevclass.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/busdevclass.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/writing_labplus.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/writing_labplus.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/actionbar_background.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/actionbar_background.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/nursinged.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/nursinged.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/sci_3.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/sci_3.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/healthservices.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/healthservices.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/events.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/events.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/pa070078.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/pa070078.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_transportation.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_transportation.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_social_media.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_social_media.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/moreinfo_arrow.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/moreinfo_arrow.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/pa100024.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/pa100024.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/ic_menu_mylocation.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/ic_menu_mylocation.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/police.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/police.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/sci_1.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/sci_1.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/healthservices.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/healthservices.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/performingarts_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/performingarts_b.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/student_union.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/student_union.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/pa100035.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/pa100035.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/zoom_in.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/zoom_in.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/peets.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/peets.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/events.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/events.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/next.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/next.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/bonuspack_bubble.9.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/bonuspack_bubble.9.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/counselling.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/counselling.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/donahoe_hall.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/donahoe_hall.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/educational_oppourtunity.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/educational_oppourtunity.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/disabilities_services.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/disabilities_services.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/schedule.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/schedule.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/zoom_out.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/zoom_out.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/education_b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/education_b.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/telecommunications.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/telecommunications.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/finearts.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/finearts.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/sci_3b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/sci_3b.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/side_nav_bar.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/actionbar_background.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/res/drawable/actionbar_background.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/btn_directory.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/res/drawable/btn_directory.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/sci_3b.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/sci_3b.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_moreinfo.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/btn_moreinfo.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/next.png",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/res/drawable/next.png"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/extended_university.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/extended_university.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/sci_2.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/sci_2.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/performingarts.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/src/main/buildings/drawable/performingarts.jpg"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile v1.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/quypng/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/writingresourcelab.jpg",
-        "source": "/Users/quypng/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/writingresourcelab.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\library.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\library.jpg"
     }
 ]

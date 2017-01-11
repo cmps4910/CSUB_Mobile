@@ -45,6 +45,7 @@
     <uses-feature android:name="android.hardware.location" />
 
     <application
+        name="com.example.quypng.csub.appcontroller.AppController"
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"

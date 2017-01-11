@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 10 20:18:08 PST 2017
+#Tue Jan 10 20:40:38 PST 2017
 20.base=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 439.set=ANDROID_RESOURCE

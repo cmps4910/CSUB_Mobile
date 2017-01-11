@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\fab_b.jpg"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100035.jpg",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100035.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\previous.png"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\previous.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\human_resource.jpg",
@@ -146,6 +146,10 @@
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_twitter.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\icon_twitter.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
@@ -518,6 +522,10 @@
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fb.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\icon_fb.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",

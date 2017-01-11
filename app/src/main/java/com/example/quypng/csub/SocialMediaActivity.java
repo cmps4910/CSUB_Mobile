@@ -11,8 +11,10 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.ViewGroup;
 import android.widget.ListView;
 
 import com.android.volley.Cache;
@@ -24,6 +26,7 @@ import com.android.volley.toolbox.JsonObjectRequest;
 import com.example.quypng.csub.adapter.FeedListAdapter;
 import com.example.quypng.csub.appcontroller.AppController;
 import com.example.quypng.csub.data.FeedItem;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -47,6 +50,8 @@ public class SocialMediaActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.socialmedia_layout);
+        LayoutInflater inflater = getLayoutInflater();
+
 
         listView = (ListView) findViewById(R.id.list);
 
@@ -55,6 +60,10 @@ public class SocialMediaActivity extends AppCompatActivity
         listAdapter = new FeedListAdapter(SocialMediaActivity.this, feedItems);
 
         listView.setAdapter(listAdapter);
+
+        ViewGroup header = (ViewGroup)inflater.inflate(R.layout.socialmedia_header, listView, false);
+        listView.addHeaderView(header, null, false);
+
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

@@ -188,6 +188,10 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\layout\\app_bar_news.xml"
     },
     {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\socialmedia_header.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\layout\\socialmedia_header.xml"
+    },
+    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },

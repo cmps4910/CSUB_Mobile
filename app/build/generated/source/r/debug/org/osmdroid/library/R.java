@@ -16,16 +16,16 @@ public final class R {
 		public static final int ic_menu_mapmode = 0x7f0200ab;
 		public static final int ic_menu_mylocation = 0x7f0200ac;
 		public static final int ic_menu_offline = 0x7f0200ae;
-		public static final int marker_default = 0x7f0200c0;
-		public static final int marker_default_focused_base = 0x7f0200c1;
-		public static final int moreinfo_arrow = 0x7f0200c2;
-		public static final int moreinfo_arrow_pressed = 0x7f0200c3;
-		public static final int navto_small = 0x7f0200c5;
-		public static final int next = 0x7f0200c7;
-		public static final int person = 0x7f0200d2;
-		public static final int previous = 0x7f0200d5;
-		public static final int zoom_in = 0x7f0200e6;
-		public static final int zoom_out = 0x7f0200e7;
+		public static final int marker_default = 0x7f0200c2;
+		public static final int marker_default_focused_base = 0x7f0200c3;
+		public static final int moreinfo_arrow = 0x7f0200c4;
+		public static final int moreinfo_arrow_pressed = 0x7f0200c5;
+		public static final int navto_small = 0x7f0200c7;
+		public static final int next = 0x7f0200c9;
+		public static final int person = 0x7f0200d4;
+		public static final int previous = 0x7f0200d7;
+		public static final int zoom_in = 0x7f0200e8;
+		public static final int zoom_out = 0x7f0200e9;
 	}
 	public static final class id {
 		public static final int bubble_description = 0x7f0d0084;

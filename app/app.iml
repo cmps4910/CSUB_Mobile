@@ -178,5 +178,6 @@
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
     <orderEntry type="library" exported="" name="lost-1.1.1" level="project" />
     <orderEntry type="library" exported="" name="mapbox-android-sdk-4.2.0-beta.5" level="project" />
+    <orderEntry type="library" exported="" name="android-android-24" level="project" />
   </component>
 </module>

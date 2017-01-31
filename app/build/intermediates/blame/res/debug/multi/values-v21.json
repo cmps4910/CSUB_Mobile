@@ -1664,9 +1664,72 @@
                     "startLine": 227,
                     "startColumn": 4,
                     "startOffset": 16918,
-                    "endLine": 236,
+                    "endLine": 232,
                     "endColumn": 12,
-                    "endOffset": 17426
+                    "endOffset": 17326
+                },
+                "from": {
+                    "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 17331,
+                    "endLine": 238,
+                    "endColumn": 12,
+                    "endOffset": 17745
+                },
+                "from": {
+                    "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 17750,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 17913
+                },
+                "from": {
+                    "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17918,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 18426
                 },
                 "from": {
                     "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
@@ -1682,12 +1745,12 @@
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 17431,
-                    "endLine": 246,
+                    "startOffset": 18431,
+                    "endLine": 261,
                     "endColumn": 12,
-                    "endOffset": 17951
+                    "endOffset": 18951
                 },
                 "from": {
                     "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
@@ -1703,12 +1766,12 @@
             },
             {
                 "to": {
-                    "startLine": 247,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 17956,
-                    "endLine": 256,
+                    "startOffset": 18956,
+                    "endLine": 271,
                     "endColumn": 12,
-                    "endOffset": 18631
+                    "endOffset": 19631
                 },
                 "from": {
                     "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
@@ -1724,11 +1787,11 @@
             },
             {
                 "to": {
-                    "startLine": 257,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 18636,
+                    "startOffset": 19636,
                     "endColumn": 56,
-                    "endOffset": 18688
+                    "endOffset": 19688
                 },
                 "from": {
                     "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
@@ -1743,11 +1806,11 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 18693,
+                    "startOffset": 19693,
                     "endColumn": 57,
-                    "endOffset": 18746
+                    "endOffset": 19746
                 },
                 "from": {
                     "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
@@ -1762,12 +1825,12 @@
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 18751,
-                    "endLine": 261,
+                    "startOffset": 19751,
+                    "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 18940
+                    "endOffset": 19940
                 },
                 "from": {
                     "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-v21\\values-v21.xml",
@@ -1778,6 +1841,27 @@
                         "endLine": 4,
                         "endColumn": 12,
                         "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 19945,
+                    "endLine": 279,
+                    "endColumn": 12,
+                    "endOffset": 20086
+                },
+                "from": {
+                    "file": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 364
                     }
                 }
             }

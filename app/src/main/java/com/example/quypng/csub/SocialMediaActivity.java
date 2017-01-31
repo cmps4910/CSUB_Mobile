@@ -26,14 +26,16 @@ import com.android.volley.toolbox.JsonObjectRequest;
 import com.example.quypng.csub.adapter.FeedListAdapter;
 import com.example.quypng.csub.appcontroller.AppController;
 import com.example.quypng.csub.data.FeedItem;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
+import com.twitter.sdk.android.Twitter;
+import com.twitter.sdk.android.core.TwitterAuthConfig;
+import com.twitter.sdk.android.tweetui.TweetTimelineListAdapter;
+import com.twitter.sdk.android.tweetui.UserTimeline;
 
 public class SocialMediaActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -44,11 +46,18 @@ public class SocialMediaActivity extends AppCompatActivity
     private FeedListAdapter listAdapter;
     private List<FeedItem> feedItems;
     private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
+    private static final String TWITTER_KEY = "TrxDsWF5x1TqypCjDDVj9NVp6";
+    private static final String TWITTER_SECRET = "mYQ2R3EbS8TNXakluwROrjgdqWAkm7d63n9vxkxp3RqVxOvLVs";
+    private static final String TWITTER_HANDLE = "bbc";
+
 
     @SuppressLint("NewApi")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        TwitterAuthConfig authConfig = new TwitterAuthConfig(TWITTER_KEY, TWITTER_SECRET);
+        Fabric.with(this, new Twitter(authConfig));
+
         setContentView(R.layout.socialmedia_layout);
         LayoutInflater inflater = getLayoutInflater();
 
@@ -63,7 +72,6 @@ public class SocialMediaActivity extends AppCompatActivity
 
         ViewGroup header = (ViewGroup)inflater.inflate(R.layout.socialmedia_header, listView, false);
         listView.addHeaderView(header, null, false);
-
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

@@ -4,8 +4,8 @@
     api-level="23"
     density="xxxhdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="150457780112386"
+    plugin-version="2.2.3"
+    timestamp="708240255789214"
     token="7369716033707538031"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="150457780112386"
+        timestamp="708240255789214"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"

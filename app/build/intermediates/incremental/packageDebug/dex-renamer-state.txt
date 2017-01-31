@@ -1,4 +1,4 @@
-#Mon Jan 30 20:45:15 PST 2017
+#Mon Jan 30 21:55:30 PST 2017
 base.0=C\:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_53773026e41166aeef79fa267964f91e81e1c1f4
 renamed.1=classes2.dex
 renamed.0=classes.dex

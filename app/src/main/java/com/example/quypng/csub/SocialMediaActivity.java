@@ -14,7 +14,9 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.ListView;
 
 import com.android.volley.Cache;
@@ -49,18 +51,21 @@ public class SocialMediaActivity extends AppCompatActivity
     private ListView listView;
     private FeedListAdapter listAdapter;
     private List<FeedItem> feedItems;
-    private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
+    private View fb_bar, twitter_bar;
+    private ImageView fb_icon, twitter_icon;
 
     //Twitter API keys, probably should obfuscate before releasing
     private static final String TWITTER_KEY = "dGjbJtjsYlYOlqBvbOlpTxQqU";
     private static final String TWITTER_SECRET = "DoBqqboO1ATC55RNqNSQjXjyV1MWzIcfpSNQMctYyP8yviT8iu";
     private static final String TWITTER_HANDLE = "CSUBakersfield";
-
+    private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
 
     @SuppressLint("NewApi")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // Getting authenticated with Twitter API
         TwitterAuthConfig authConfig = new TwitterAuthConfig(TWITTER_KEY, TWITTER_SECRET);
         Fabric.with(this, new Twitter(authConfig));
 
@@ -71,16 +76,15 @@ public class SocialMediaActivity extends AppCompatActivity
         listView = (ListView) findViewById(R.id.list);
         feedItems = new ArrayList<FeedItem>();
         listAdapter = new FeedListAdapter(SocialMediaActivity.this, feedItems);
-        //listView.setAdapter(listAdapter);
+        listView.setAdapter(listAdapter);
 
-        // Showing Twitter timeline
+        // Making a  Twitter timeline list
         final UserTimeline userTimeline = new UserTimeline.Builder()
                 .screenName(TWITTER_HANDLE)
                 .build();
         final TweetTimelineListAdapter adapter = new TweetTimelineListAdapter.Builder(this)
                 .setTimeline(userTimeline)
                 .build();
-        listView.setAdapter(adapter);
 
         // Toolbar menu and navigation stuffs
         ViewGroup header = (ViewGroup)inflater.inflate(R.layout.socialmedia_header, listView, false);
@@ -95,6 +99,32 @@ public class SocialMediaActivity extends AppCompatActivity
         toggle.setDrawerIndicatorEnabled(false);
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        // getting header icons info
+        fb_bar = (View) findViewById(R.id.fb_bar);
+        twitter_bar = (View) findViewById(R.id.twitter_bar);
+        fb_icon = (ImageView) findViewById(R.id.fb_imgv);
+        twitter_icon = (ImageView) findViewById(R.id.twitter_imgv);
+
+        // Listener to switch between Facebook feed and Twitter Feed
+        fb_icon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                listView.setAdapter(listAdapter);
+                fb_bar.setVisibility(View.VISIBLE);
+                twitter_bar.setVisibility(View.INVISIBLE);
+
+            }
+        });
+
+        twitter_icon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                listView.setAdapter(adapter);
+                fb_bar.setVisibility(View.INVISIBLE);
+                twitter_bar.setVisibility(View.VISIBLE);
+            }
+        });
 
         // We first check for cached request
         Cache cache = AppController.getInstance().getRequestQueue().getCache();

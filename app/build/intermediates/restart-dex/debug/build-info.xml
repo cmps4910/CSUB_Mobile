@@ -5,47 +5,33 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="713095586342102"
+    timestamp="717030344029336"
     token="7369716033707538031"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="697" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="52" />
     <task
         name="verifier"
-        duration="0" />
+        duration="7" />
 
     <artifact
-        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="712813488998510"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="717030344029336"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="712961093428187"
-        verifier="FIELD_TYPE_CHANGE" >
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="713095586342102"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

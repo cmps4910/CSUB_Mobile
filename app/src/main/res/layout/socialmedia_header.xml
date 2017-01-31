@@ -7,11 +7,12 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             app:srcCompat="@drawable/icon_fb"
             android:id="@+id/imageView5"
             android:layout_weight="0.5"
@@ -22,8 +23,8 @@
             android:background="#FF0000FF" />
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             app:srcCompat="@drawable/icon_twitter"
             android:id="@+id/imageView6"
             android:layout_weight="0.5" />

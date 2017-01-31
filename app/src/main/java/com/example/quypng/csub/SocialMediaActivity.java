@@ -26,16 +26,20 @@ import com.android.volley.toolbox.JsonObjectRequest;
 import com.example.quypng.csub.adapter.FeedListAdapter;
 import com.example.quypng.csub.appcontroller.AppController;
 import com.example.quypng.csub.data.FeedItem;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
-import java.util.List;
 import com.twitter.sdk.android.Twitter;
 import com.twitter.sdk.android.core.TwitterAuthConfig;
 import com.twitter.sdk.android.tweetui.TweetTimelineListAdapter;
 import com.twitter.sdk.android.tweetui.UserTimeline;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
+
+import io.fabric.sdk.android.Fabric;
 
 public class SocialMediaActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -46,9 +50,11 @@ public class SocialMediaActivity extends AppCompatActivity
     private FeedListAdapter listAdapter;
     private List<FeedItem> feedItems;
     private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
-    private static final String TWITTER_KEY = "TrxDsWF5x1TqypCjDDVj9NVp6";
-    private static final String TWITTER_SECRET = "mYQ2R3EbS8TNXakluwROrjgdqWAkm7d63n9vxkxp3RqVxOvLVs";
-    private static final String TWITTER_HANDLE = "bbc";
+
+    //Twitter API keys, probably should obfuscate before releasing
+    private static final String TWITTER_KEY = "dGjbJtjsYlYOlqBvbOlpTxQqU";
+    private static final String TWITTER_SECRET = "DoBqqboO1ATC55RNqNSQjXjyV1MWzIcfpSNQMctYyP8yviT8iu";
+    private static final String TWITTER_HANDLE = "CSUBakersfield";
 
 
     @SuppressLint("NewApi")
@@ -61,28 +67,32 @@ public class SocialMediaActivity extends AppCompatActivity
         setContentView(R.layout.socialmedia_layout);
         LayoutInflater inflater = getLayoutInflater();
 
-
+        // listview
         listView = (ListView) findViewById(R.id.list);
-
         feedItems = new ArrayList<FeedItem>();
-
         listAdapter = new FeedListAdapter(SocialMediaActivity.this, feedItems);
+        //listView.setAdapter(listAdapter);
 
-        listView.setAdapter(listAdapter);
+        // Showing Twitter timeline
+        final UserTimeline userTimeline = new UserTimeline.Builder()
+                .screenName(TWITTER_HANDLE)
+                .build();
+        final TweetTimelineListAdapter adapter = new TweetTimelineListAdapter.Builder(this)
+                .setTimeline(userTimeline)
+                .build();
+        listView.setAdapter(adapter);
 
+        // Toolbar menu and navigation stuffs
         ViewGroup header = (ViewGroup)inflater.inflate(R.layout.socialmedia_header, listView, false);
         listView.addHeaderView(header, null, false);
-
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.addDrawerListener(toggle);
         toggle.syncState();
         toggle.setDrawerIndicatorEnabled(false);
-
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 

@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\fab_b.jpg"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100035.jpg",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100035.jpg"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100035.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100035.jpg"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -60,20 +60,16 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\previous.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\human_resource.jpg",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\human_resource.jpg"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.3.0\\res\\drawable\\dgts__digits_btn.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\human_resource.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\human_resource.jpg"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blackboard_moodle.png",
@@ -112,12 +108,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\drawable\\tw__btn_composer_tweet.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\csubakersfield_logo.png",
@@ -160,12 +156,16 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_media_badge.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__bg_media_badge.xml"
+    },
+    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lecture_building.jpg",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\lecture_building.jpg"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_media_badge.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__bg_media_badge.xml"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_2b.jpg",
@@ -176,20 +176,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\icon_twitter.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100029.jpg",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100029.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_pressed.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.3.0\\res\\drawable\\dgts__digits_btn_pressed.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
@@ -228,12 +220,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\admin_east.jpg"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_white.png",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\home_white.png"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_play_btn.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__video_play_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_white.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\home_white.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
@@ -264,12 +256,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\marker_default.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\repographics.jpg",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\repographics.jpg"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\repographics.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\repographics.jpg"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
@@ -308,12 +300,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\btn_moreinfo.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_default.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.3.0\\res\\drawable\\dgts__digits_btn_default.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_transportation.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_transportation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__transparent.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\drawable\\tw__transparent.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -322,18 +314,6 @@
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\educational_oppourtunity.jpg",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\educational_oppourtunity.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__transparent.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\drawable\\tw__transparent.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_tweet_compact.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.0.7\\res\\drawable\\tw__bg_tweet_compact.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_light.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.3.0\\res\\drawable\\progress_light.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_default_selector.xml",
@@ -364,12 +344,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\fab.jpg"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\education_b.jpg",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\education_b.jpg"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\actionbar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\education_b.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\education_b.jpg"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__seekbar_thumb.xml",
@@ -378,10 +358,6 @@
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_tweet.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.0.7\\res\\drawable\\tw__bg_tweet.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\performingarts_b.jpg",
@@ -400,12 +376,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__video_pause_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_1.jpg",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -472,12 +448,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\studentservices.jpg"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navto_small.png",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\navto_small.png"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__share_action.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__share_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navto_small.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\navto_small.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finearts.jpg",
@@ -490,10 +466,6 @@
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_dark.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.3.0\\res\\drawable\\progress_dark.xml"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
@@ -536,12 +508,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\healthservices.jpg",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\healthservices.jpg"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default_light.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\drawable\\tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\healthservices.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\healthservices.jpg"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nursinged.jpg",
@@ -584,12 +556,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_mylocation.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\education.jpg",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\education.jpg"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compass.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_compass.png"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\education.jpg",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\education.jpg"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_text_color_light.xml",
@@ -648,12 +620,12 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\icon_fb.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\person.png"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\person.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bicyclestation.jpg",
@@ -680,6 +652,10 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\up_arrow.png"
+    },
+    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moreinfo_arrow_pressed.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\moreinfo_arrow_pressed.png"
     },
@@ -692,11 +668,11 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\actionbar_compat_background.9.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_outline_24dp_selector.xml",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\4.2.0-beta.5\\res\\drawable\\ic_info_outline_24dp_selector.xml"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\library.jpg",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\library.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_outline_24dp_selector.xml",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\4.2.0-beta.5\\res\\drawable\\ic_info_outline_24dp_selector.xml"
     }
 ]

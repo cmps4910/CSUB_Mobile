@@ -3,6 +3,7 @@ package com.example.quypng.csub;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.NavUtils;
 import android.support.v4.view.GravityCompat;
@@ -16,6 +17,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AbsListView;
 import android.widget.ImageView;
 import android.widget.ListView;
 
@@ -59,6 +61,7 @@ public class SocialMediaActivity extends AppCompatActivity
     private static final String TWITTER_SECRET = "DoBqqboO1ATC55RNqNSQjXjyV1MWzIcfpSNQMctYyP8yviT8iu";
     private static final String TWITTER_HANDLE = "CSUBakersfield";
     private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
+    FloatingActionButton backtotop;
 
     @SuppressLint("NewApi")
     @Override
@@ -77,6 +80,47 @@ public class SocialMediaActivity extends AppCompatActivity
         feedItems = new ArrayList<FeedItem>();
         listAdapter = new FeedListAdapter(SocialMediaActivity.this, feedItems);
         listView.setAdapter(listAdapter);
+
+        // Back to top button
+        backtotop = (FloatingActionButton) findViewById(R.id.backtotop);
+        backtotop.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //listView.smoothScrollToPosition(0,0);
+                listView.smoothScrollBy(0, 0);
+                listView.setSelection(0);
+            }
+        });
+        listView.setOnScrollListener(new AbsListView.OnScrollListener() {
+
+            @Override
+            public void onScrollStateChanged(AbsListView view, int scrollState) {
+                // TODO Auto-generated method stub
+            }
+            @Override
+            public void onScroll(AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount) {
+                if (firstVisibleItem == 0) {
+                    // check if we reached the top or bottom of the list
+                    View v = listView.getChildAt(0);
+                    int offset = (v == null) ? 0 : v.getTop();
+                    if (offset == 0) {
+                        backtotop.hide();
+                        return;
+                    } else {
+                        backtotop.show();
+                        return;
+
+                    }
+                } else if (totalItemCount - visibleItemCount == firstVisibleItem){
+                    View v =  listView.getChildAt(totalItemCount-1);
+                    int offset = (v == null) ? 0 : v.getTop();
+                    if (offset == 0) {
+                        // reached the top:
+                        return;
+                    }
+                }
+            }
+        });
 
         // Making a  Twitter timeline list
         final UserTimeline userTimeline = new UserTimeline.Builder()
@@ -166,6 +210,7 @@ public class SocialMediaActivity extends AppCompatActivity
             AppController.getInstance().addToRequestQueue(jsonReq);
         }
     }
+
 
     private void parseJsonFeed(JSONObject response) {
         try {

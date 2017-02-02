@@ -28,10 +28,6 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_events.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schedule.png",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\schedule.png"
-    },
-    {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_transportation.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_transportation.png"
     },
@@ -40,12 +36,16 @@
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_blackboard.png"
     },
     {
-        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_dining.png",
-        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_dining.png"
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schedule.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\schedule.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_directory.png",
         "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_directory.png"
+    },
+    {
+        "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_dining.png",
+        "source": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_dining.png"
     },
     {
         "merged": "C:\\Users\\Ponism\\Documents\\GitHub\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\maps.png",

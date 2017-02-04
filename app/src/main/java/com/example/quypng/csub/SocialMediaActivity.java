@@ -3,6 +3,7 @@ package com.example.quypng.csub;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.NavUtils;
 import android.support.v4.view.GravityCompat;
@@ -14,7 +15,10 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AbsListView;
+import android.widget.ImageView;
 import android.widget.ListView;
 
 import com.android.volley.Cache;
@@ -26,16 +30,20 @@ import com.android.volley.toolbox.JsonObjectRequest;
 import com.example.quypng.csub.adapter.FeedListAdapter;
 import com.example.quypng.csub.appcontroller.AppController;
 import com.example.quypng.csub.data.FeedItem;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
-import java.util.List;
 import com.twitter.sdk.android.Twitter;
 import com.twitter.sdk.android.core.TwitterAuthConfig;
 import com.twitter.sdk.android.tweetui.TweetTimelineListAdapter;
 import com.twitter.sdk.android.tweetui.UserTimeline;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
+
+import io.fabric.sdk.android.Fabric;
 
 import io.fabric.sdk.android.Fabric;
 
@@ -47,46 +55,122 @@ public class SocialMediaActivity extends AppCompatActivity
     private ListView listView;
     private FeedListAdapter listAdapter;
     private List<FeedItem> feedItems;
-    private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
-    private static final String TWITTER_KEY = "TrxDsWF5x1TqypCjDDVj9NVp6";
-    private static final String TWITTER_SECRET = "mYQ2R3EbS8TNXakluwROrjgdqWAkm7d63n9vxkxp3RqVxOvLVs";
-    private static final String TWITTER_HANDLE = "bbc";
+    private View fb_bar, twitter_bar;
+    private ImageView fb_icon, twitter_icon;
 
+    //Twitter API keys, probably should obfuscate before releasing
+    private static final String TWITTER_KEY = "dGjbJtjsYlYOlqBvbOlpTxQqU";
+    private static final String TWITTER_SECRET = "DoBqqboO1ATC55RNqNSQjXjyV1MWzIcfpSNQMctYyP8yviT8iu";
+    private static final String TWITTER_HANDLE = "CSUBakersfield";
+    private String URL_FEED = "https://graph.facebook.com/csubakersfield/feed?fields=message,id,full_picture,permalink_url,created_time&&access_token=1723932957928857|zmGOoYjFPnaZM5XotHW8YYrqJpw";
+    FloatingActionButton backtotop;
 
     @SuppressLint("NewApi")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // Getting authenticated with Twitter API
         TwitterAuthConfig authConfig = new TwitterAuthConfig(TWITTER_KEY, TWITTER_SECRET);
         Fabric.with(this, new Twitter(authConfig));
 
         setContentView(R.layout.socialmedia_layout);
         LayoutInflater inflater = getLayoutInflater();
 
-
+        // listview
         listView = (ListView) findViewById(R.id.list);
-
         feedItems = new ArrayList<FeedItem>();
-
         listAdapter = new FeedListAdapter(SocialMediaActivity.this, feedItems);
-
         listView.setAdapter(listAdapter);
 
+        // Back to top button
+        backtotop = (FloatingActionButton) findViewById(R.id.backtotop);
+        backtotop.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //listView.smoothScrollToPosition(0,0);
+                listView.smoothScrollBy(0, 0);
+                listView.setSelection(0);
+            }
+        });
+        listView.setOnScrollListener(new AbsListView.OnScrollListener() {
+
+            @Override
+            public void onScrollStateChanged(AbsListView view, int scrollState) {
+                // TODO Auto-generated method stub
+            }
+            @Override
+            public void onScroll(AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount) {
+                if (firstVisibleItem == 0) {
+                    // check if we reached the top or bottom of the list
+                    View v = listView.getChildAt(0);
+                    int offset = (v == null) ? 0 : v.getTop();
+                    if (offset == 0) {
+                        backtotop.hide();
+                        return;
+                    } else {
+                        backtotop.show();
+                        return;
+
+                    }
+                } else if (totalItemCount - visibleItemCount == firstVisibleItem){
+                    View v =  listView.getChildAt(totalItemCount-1);
+                    int offset = (v == null) ? 0 : v.getTop();
+                    if (offset == 0) {
+                        // reached the top:
+                        return;
+                    }
+                }
+            }
+        });
+
+        // Making a  Twitter timeline list
+        final UserTimeline userTimeline = new UserTimeline.Builder()
+                .screenName(TWITTER_HANDLE)
+                .build();
+        final TweetTimelineListAdapter adapter = new TweetTimelineListAdapter.Builder(this)
+                .setTimeline(userTimeline)
+                .build();
+
+        // Toolbar menu and navigation stuffs
         ViewGroup header = (ViewGroup)inflater.inflate(R.layout.socialmedia_header, listView, false);
         listView.addHeaderView(header, null, false);
-
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.addDrawerListener(toggle);
         toggle.syncState();
         toggle.setDrawerIndicatorEnabled(false);
-
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        // getting header icons info
+        fb_bar = (View) findViewById(R.id.fb_bar);
+        twitter_bar = (View) findViewById(R.id.twitter_bar);
+        fb_icon = (ImageView) findViewById(R.id.fb_imgv);
+        twitter_icon = (ImageView) findViewById(R.id.twitter_imgv);
+
+        // Listener to switch between Facebook feed and Twitter Feed
+        fb_icon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                listView.setAdapter(listAdapter);
+                fb_bar.setVisibility(View.VISIBLE);
+                twitter_bar.setVisibility(View.INVISIBLE);
+
+            }
+        });
+
+        twitter_icon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                listView.setAdapter(adapter);
+                fb_bar.setVisibility(View.INVISIBLE);
+                twitter_bar.setVisibility(View.VISIBLE);
+            }
+        });
 
         // We first check for cached request
         Cache cache = AppController.getInstance().getRequestQueue().getCache();
@@ -128,6 +212,7 @@ public class SocialMediaActivity extends AppCompatActivity
             AppController.getInstance().addToRequestQueue(jsonReq);
         }
     }
+
 
     private void parseJsonFeed(JSONObject response) {
         try {

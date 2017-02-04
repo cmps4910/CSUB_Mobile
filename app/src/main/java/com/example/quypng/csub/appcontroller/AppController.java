@@ -8,8 +8,16 @@ import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.Volley;
 import com.example.quypng.csub.Volley.LruBitmapCache;
+import com.twitter.sdk.android.Twitter;
+import com.twitter.sdk.android.core.TwitterAuthConfig;
+import io.fabric.sdk.android.Fabric;
 
 public class AppController extends Application {
+
+    // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
+    private static final String TWITTER_KEY = "qKdKI9SEe1L8boKSljjNBwVKJ";
+    private static final String TWITTER_SECRET = "XRGkdVq7xAZFsCZvx7o9LQa2BoH8xrudjp4hTqjGWBuPaAsQ5P";
+
 
     public static final String TAG = AppController.class.getSimpleName();
 
@@ -22,6 +30,8 @@ public class AppController extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        TwitterAuthConfig authConfig = new TwitterAuthConfig(TWITTER_KEY, TWITTER_SECRET);
+        Fabric.with(this, new Twitter(authConfig));
         mInstance = this;
     }
 

@@ -135,6 +135,7 @@ public class SocialMediaActivity extends AppCompatActivity
         // Toolbar menu and navigation stuffs
         ViewGroup header = (ViewGroup)inflater.inflate(R.layout.socialmedia_header, listView, false);
         listView.addHeaderView(header, null, false);
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

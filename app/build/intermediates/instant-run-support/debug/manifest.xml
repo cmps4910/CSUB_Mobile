@@ -71,48 +71,41 @@
         <activity
             android:name="com.example.quypng.csub.MapActivity"
             android:label="@string/title_activity_map"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.NewsActivity"
             android:label="@string/title_activity_news"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.EventsActivity"
             android:label="@string/title_activity_events"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.DirectoryActivity"
             android:label="@string/title_activity_directory"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.SocialMediaActivity"
             android:label="@string/title_activity_socialmedia"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.DiningActivity"
             android:label="@string/title_activity_dining"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.TransportationActivity"
             android:label="@string/title_activity_transportation"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.ScheduleActivity"
             android:label="@string/title_activity_schedule"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
         <activity
             android:name="com.example.quypng.csub.Blackboard_MoodleActivity"
             android:label="@string/title_activity_moodle"
-            android:parentActivityName="com.example.quypng.csub.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+        <activity android:name="com.example.quypng.csub.SingleNewsView" >
+        </activity>
         // telemetry service for MapBox
         <service android:name="com.mapbox.mapboxsdk.telemetry.TelemetryService" />
         <!--

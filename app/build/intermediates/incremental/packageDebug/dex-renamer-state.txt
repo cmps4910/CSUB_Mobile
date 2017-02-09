@@ -1,7 +1,4 @@
-#Sat Feb 04 16:13:33 PST 2017
-base.0=D\:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da4e62985f579027cee648ee7d13e5edfb85f056
-renamed.1=classes2.dex
+#Thu Feb 09 04:26:27 PST 2017
+base.0=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=D\:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7c18ba5c5cfa4bfc8adace5c5037ceec69d04621\\classes.dex
-base.1=D\:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7c18ba5c5cfa4bfc8adace5c5037ceec69d04621
-file.0=D\:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_da4e62985f579027cee648ee7d13e5edfb85f056\\classes.dex
+file.0=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

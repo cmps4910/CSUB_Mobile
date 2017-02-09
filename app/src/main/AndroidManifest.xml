@@ -37,48 +37,42 @@
         <activity
             android:name=".MapActivity"
             android:label="@string/title_activity_map"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".NewsActivity"
             android:label="@string/title_activity_news"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".EventsActivity"
             android:label="@string/title_activity_events"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".DirectoryActivity"
             android:label="@string/title_activity_directory"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".SocialMediaActivity"
             android:label="@string/title_activity_socialmedia"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".DiningActivity"
             android:label="@string/title_activity_dining"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".TransportationActivity"
             android:label="@string/title_activity_transportation"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".ScheduleActivity"
             android:label="@string/title_activity_schedule"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".Blackboard_MoodleActivity"
             android:label="@string/title_activity_moodle"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SingleNewsView" >
+        </activity>
 
         // telemetry service for MapBox
         <service android:name="com.mapbox.mapboxsdk.telemetry.TelemetryService" /><!-- ATTENTION: This was auto-generated to add Google Play services to your project for

@@ -1,6 +1,8 @@
 package com.example.quypng.csub;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;
 import android.view.Gravity;
@@ -12,10 +14,29 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ListView;
+
+import java.util.ArrayList;
+import java.io.IOException;
+import java.util.HashMap;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 public class NewsActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     DrawerLayout drawer;
+
+    ListView listview;
+    ListViewAdapter adapter;
+    ProgressDialog mProgressDialog;
+    ArrayList<HashMap<String, String>> arraylist;
+    static String TITLE = "title";
+    static String LINK = "link";
+    // URL Address
+    String url = "http://www.csub.edu/news/news_archives/";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,9 +44,8 @@ public class NewsActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-/*        getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setHomeAsUpIndicator(R.drawable.home_white);*/
+        // Execute DownloadJSON AsyncTask
+        new JsoupListView().execute();
 
 /*        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -133,5 +153,108 @@ public class NewsActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.END);
         return true;
+    }
+    // Title AsyncTask
+    private class JsoupListView extends AsyncTask<Void, Void, Void> {
+
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
+            // Create a progressdialog
+            mProgressDialog = new ProgressDialog(NewsActivity.this);
+            // Set progressdialog title
+            mProgressDialog.setTitle("Android Jsoup ListView Tutorial");
+            // Set progressdialog message
+            mProgressDialog.setMessage("Loading...");
+            mProgressDialog.setIndeterminate(false);
+            // Show progressdialog
+            mProgressDialog.show();
+        }
+
+        @Override
+        protected Void doInBackground(Void... params) {
+            // Create an array
+            arraylist = new ArrayList<HashMap<String, String>>();
+
+//			try {
+//				// Connect to the Website URL
+//				Document doc = Jsoup.connect(url).get();
+//				// Identify Table Class "worldpopulation"
+//				for (Element table : doc.select("table[class=worldpopulation]")) {
+//
+//					// Identify all the table row's(tr)
+//					for (Element row : table.select("tr:gt(0)")) {
+//						HashMap<String, String> map = new HashMap<String, String>();
+//
+//						// Identify all the table cell's(td)
+//						Elements tds = row.select("td");
+//
+////						// Identify all img src's
+////						Elements imgSrc = row.select("img[src]");
+////						// Get only src from img src
+////						String imgSrcStr = imgSrc.attr("src");
+//
+//						// Retrive Jsoup Elements
+//						// Get the first td
+//						map.put("rank", tds.get(0).text());
+//						// Get the second td
+//						map.put("country", tds.get(1).text());
+//						// Get the third td
+//						map.put("population", tds.get(2).text());
+//						// Get the image src links
+////						map.put("flag", imgSrcStr);
+//						// Set all extracted Jsoup Elements into the array
+//						arraylist.add(map);
+//					}
+//				}
+//			} catch (IOException e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
+//			}
+
+            try {
+                // Connect to the Website URL
+                Document doc = Jsoup.connect(url).get();
+                // Identify Table Class "worldpopulation"
+                for (Element div : doc.select("div[class=article_text]")) {
+
+                    // Identify all the table row's(tr)
+                    for (Element row : div.select("a")) {
+                        HashMap<String, String> map = new HashMap<String, String>();
+
+                        // Identify all the table cell's(td)
+                        //Elements links = row.select("a");
+
+//						// Identify all img src's
+//						Elements imgSrc = row.select("img[src]");
+//						// Get only src from img src
+//						String imgSrcStr = imgSrc.attr("src");
+
+                        // Retrive Jsoup Elements
+                        map.put("title", row.text());
+                        map.put("link", row.attr("href"));
+
+                        arraylist.add(map);
+                    }
+                }
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(Void result) {
+            // Locate the listview in listview_main.xml
+            listview = (ListView) findViewById(R.id.news_list);
+            // Pass the results into ListViewAdapter.java
+            adapter = new ListViewAdapter(NewsActivity.this, arraylist);
+            // Set the adapter to the ListView
+            listview.setAdapter(adapter);
+            // Close the progressdialog
+            mProgressDialog.dismiss();
+        }
     }
 }

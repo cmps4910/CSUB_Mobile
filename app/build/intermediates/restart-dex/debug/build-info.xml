@@ -1,37 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="24"
-    density="420dpi"
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1695594563973002"
-    token="7121309900559151070"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="140435120075353"
+    token="4299348845270958918"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="12596" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="10572" />
+        duration="0" />
     <task
         name="verifier"
-        duration="9651" />
+        duration="0" />
 
     <artifact
-        location="D:\seniorproj\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="1695594563973002"
+        timestamp="140070184829542"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\seniorproj\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="140183999910730"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\intermediates\builds\debug\140183999910730\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="140435120075353"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

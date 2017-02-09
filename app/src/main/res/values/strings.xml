@@ -20,7 +20,7 @@
     <string name="title_activity_dining">Dining</string>
     <string name="title_activity_transportation">Transportation</string>
     <string name="title_activity_schedule">Schedule</string>
-    <string name="title_activity_moodle">Blackboard/Moddle</string>
+    <string name="title_activity_moodle">Blackboard/Moodle</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -30,5 +30,8 @@
 
     <string name="access_token">pk.eyJ1IjoicXV5cG5nIiwiYSI6ImNpdzdmbjZsMzAwMWMyd2xrcDFla2R5dTAifQ.Er6cEscvlKaD89-IWVcy-g</string>
     <string name="my_style_mapbox">mapbox://styles/quypng/civhzb2c9002x2ko4xb3qzcv2</string>
+
+    <string name="titlelabel">"Title : "</string>
+    <string name="link">"Date : "</string>
 
 </resources>

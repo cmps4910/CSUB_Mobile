@@ -48,6 +48,10 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\layout\\bonuspack_bubble.xml"
     },
     {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_singleview_layout.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\layout\\news_singleview_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
@@ -96,12 +100,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\layout\\tw__video_control.xml"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapview_internal.xml",
@@ -148,12 +152,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_singleview_constraint.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\layout\\news_singleview_constraint.xml"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_transportation.xml",
@@ -168,12 +172,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\layout\\tw__gallery_activity.xml"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapview_preview.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\4.2.0-beta.5\\res\\layout\\mapview_preview.xml"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_layout.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\layout\\news_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapview_preview.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.mapbox.mapboxsdk\\mapbox-android-sdk\\4.2.0-beta.5\\res\\layout\\mapview_preview.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",

@@ -1,6 +1,7 @@
 package com.example.quypng.csub;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;
 import android.view.Gravity;
@@ -12,6 +13,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 
 public class Blackboard_MoodleActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -32,6 +35,29 @@ public class Blackboard_MoodleActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        Button btn_moodle = (Button) findViewById(R.id.btn_moodle);
+        Button btn_blackboard = (Button) findViewById(R.id.btn_blackboard);
+
+       btn_moodle.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View view) {
+               Uri uri = Uri.parse("https://moodle.cs.csubak.edu/moodle/");
+
+               Intent i = new Intent(Intent.ACTION_VIEW, uri);
+               startActivity(i);
+           }
+       });
+
+        btn_blackboard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Uri uri = Uri.parse("https://bb.csub.edu/");
+
+                Intent i = new Intent(Intent.ACTION_VIEW, uri);
+                startActivity(i);
+            }
+        });
     }
 
     @Override

@@ -20,19 +20,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class SingleNewsView extends Activity {
-    // Declare Variables
-//	String rank;
-//	String country;
-//	String population;
-//	String flag;
-//	String position;
-//	ImageLoader imageLoader = new ImageLoader(this);
 
     TextView singletextview;
     TextView date;
     ProgressDialog mProgressDialog;
 
-    // Get link and store in url string
     String csubSite = "http://www.csub.edu/news/news_archives/";
     String title;
     String link;
@@ -41,21 +33,16 @@ public class SingleNewsView extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // Get the view from singleitemview.xml
         setContentView(R.layout.news_singleview_constraint);
 
         Intent i = getIntent();
-        // Get the result of rank
         title = i.getStringExtra("title");
-        // Get the result of country
         link = i.getStringExtra("link");
         //link = link.replaceAll("\\s+","%20");
         url = csubSite + link;
 
         TextView txtTitle = (TextView) findViewById(R.id.title);
-//        TextView txtLink = (TextView) findViewById(R.id.link);
         txtTitle.setText(title);
-//        txtLink.setText(url);
 
         // Execute DownloadJSON AsyncTask
         new JsoupListView().execute();
@@ -67,14 +54,10 @@ public class SingleNewsView extends Activity {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            // Create a progressdialog
             mProgressDialog = new ProgressDialog(SingleNewsView.this);
-            // Set progressdialog title
-            mProgressDialog.setTitle("Android Jsoup ListView Tutorial");
-            // Set progressdialog message
+            mProgressDialog.setTitle("Retrieving news content...\"");
             mProgressDialog.setMessage("Loading...");
             mProgressDialog.setIndeterminate(false);
-            // Show progressdialog
             mProgressDialog.show();
         }
 
@@ -107,14 +90,11 @@ public class SingleNewsView extends Activity {
 
         @Override
         protected void onPostExecute(Void result) {
-            // Locate the listview in listview_main.xml
             singletextview = (TextView) findViewById(R.id.contentView);
             singletextview.setText(newsContent);
-
             date = (TextView) findViewById(R.id.link);
             date.setText(articleDate);
 
-            // Close the progressdialog
             mProgressDialog.dismiss();
         }
     }

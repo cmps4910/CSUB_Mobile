@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Feb 09 04:26:28 PST 2017
+#Thu Feb 09 04:48:07 PST 2017
 20.base=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.base=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\resources-debug.ap_

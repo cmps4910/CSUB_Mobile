@@ -40,12 +40,12 @@
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_blackboard.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/dining.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/dining.png"
-    },
-    {
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_menu_transportation.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_transportation.png"
+    },
+    {
+        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/dining.png",
+        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-xxxhdpi/dining.png"
     },
     {
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/maps.png",

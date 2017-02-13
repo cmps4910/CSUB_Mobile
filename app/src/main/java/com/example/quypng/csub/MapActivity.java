@@ -80,65 +80,6 @@ public class MapActivity extends AppCompatActivity
 
     private static final int PERMISSIONS_LOCATION = 0;
 
- /*   @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-
-        // Mapbox access token is configured here. This needs to be called either in your application
-        // object or in the same activity which contains the mapview.
-        MapboxAccountManager.start(this, getString(R.string.access_token));
-
-        // This contains the MapView in XML and needs to be called after the account manager
-        setContentView(R.layout.map_layout);
-
-        // Alhambra landmark in Granada, Spain.
-        final Position origin = Position.fromCoordinates(-119.103579, 35.348849);
-
-        // Plaza del Triunfo in Granada, Spain.
-        final Position destination = Position.fromCoordinates(-119.092095, 35.336959);
-
-
-        // Setup the MapView
-        mapView = (MapView) findViewById(R.id.mapview);
-        mapView.onCreate(savedInstanceState);
-        mapView.getMapAsync(new OnMapReadyCallback() {
-            @Override
-            public void onMapReady(MapboxMap mapboxMap) {
-                map = mapboxMap;
-
-                // Add origin and destination to the map
-                mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(origin.getLatitude(), origin.getLongitude()))
-                        .title("Origin")
-                        .snippet("Alhambra"));
-                mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(destination.getLatitude(), destination.getLongitude()))
-                        .title("Destination")
-                        .snippet("Plaza del Triunfo"));
-
-                // Get route from API
-                try {
-                    getRoute(origin, destination);
-                } catch (ServicesException servicesException) {
-                    servicesException.printStackTrace();
-                }
-            }
-        });
-
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-        drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-        drawer.addDrawerListener(toggle);
-        toggle.syncState();
-        toggle.setDrawerIndicatorEnabled(false);
-
-        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
-        navigationView.setNavigationItemSelectedListener(this);
-    }*/
-
-    /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -291,9 +232,142 @@ public class MapActivity extends AppCompatActivity
 
                 // Fine Arts #2
                 mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(35.351211, -119.105479))
+                        .position(new LatLng(35.351323, -119.104985))
                         .title("Fine Arts")
                         .snippet("Fine Arts"));
+
+                // Faculty Towers #6
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350682, -119.105916))
+                        .title("Faculty Towers")
+                        .snippet("Faculty Towers"));
+
+                // Business Developement Center Admin & Faculty Offices #44A
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349086, -119.105032))
+                        .title("Business Admin & Faculty Offices")
+                        .snippet("Business Developement Center Admin & Faculty Offices"));
+
+                // Business Developement Center Classrooms #44B
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348793, -119.104765))
+                        .title("Business Developement Center Classrooms")
+                        .snippet("Business Developement Center Classrooms"));
+
+                // Business Developement Center Extended University #44C
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348381, -119.104897))
+                        .title("Extended University")
+                        .snippet("Extended University"));
+
+                // Business Developement Center Dezember Leadership Development Center #44D
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348473, -119.105294))
+                        .title("Dezember Leadership Development Center")
+                        .snippet("Dezember Leadership Development Center"));
+
+                // Business Developement Center Office of the President #44E
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348827, -119.105289))
+                        .title("Office of the President")
+                        .snippet("Office of the President"));
+
+                // Engineering Modulars #83
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348057, -119.104919))
+                        .title("Engineering Modulars")
+                        .snippet("Engineering Modulars FAB Lab"));
+
+                // Student Health Services #35
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.347882, -119.103873))
+                        .title("Student Health Services")
+                        .snippet("Student Health Services"));
+
+                // SPhysical Education #33
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348283, -119.102726))
+                        .title("Physical Education")
+                        .snippet("Physical Education"));
+
+                // Icardo Center #52
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.347566, -119.102673))
+                        .title("Icardo Center")
+                        .snippet("Icardo Center"));
+
+                // Coffee House #68
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349937, -119.104365))
+                        .title("Coffee House")
+                        .snippet("Coffee House - Peets Coffee"));
+
+                // University Police #60
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348785, -119.102974))
+                        .title("University Police")
+                        .snippet("University Police"));
+
+                // Student Recreation Center #67
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348866, -119.101842))
+                        .title("REC Center")
+                        .snippet("Student Recreation Center"));
+
+                // Student Union #67
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349827, -119.101502))
+                        .title("Student Union")
+                        .snippet("Student Union"));
+
+                // Greenhouse #66
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350395, -119.101187))
+                        .title("Greenhouse")
+                        .snippet("Greenhouse"));
+
+                // J. Antonino Sports Center #61
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348290, -119.101745))
+                        .title("Sports Center")
+                        .snippet("J. Antonino Sports Center"));
+
+                // Handball Courts #40
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.348067, -119.101514))
+                        .title("Handball Courts")
+                        .snippet("Handball Courts"));
+
+                // J.R. Hillman Aquatic Center #45
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.347874, -119.101487))
+                        .title("Aquatic Center")
+                        .snippet("J.R. Hillman Aquatic Center"));
+
+                // Doré Theatre #39
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.352230, -119.105465))
+                        .title("Doré Theatre")
+                        .snippet("Doré Theatre"));
+
+                // Music Building #39a
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.351849, -119.105892))
+                        .title("Music Building")
+                        .snippet("Music Building"));
+
+                // University Grill #23
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350202, -119.106847))
+                        .title("University Grill")
+                        .snippet("University Grill"));
+
+                // University Grill #13
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349099, -119.107183))
+                        .title("Modular West")
+                        .snippet("Modular West"));
+
 
                 mapboxMap.setInfoWindowAdapter(new MapboxMap.InfoWindowAdapter() {
                     @Nullable
@@ -316,6 +390,116 @@ public class MapActivity extends AppCompatActivity
                         ImageView buildingImage = new ImageView(MapActivity.this);
                         TextView description = new TextView(MapActivity.this);
                         switch (marker.getTitle()) {
+                            case "Modular West":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "University Grill":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Doré Theatre":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Music Building":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Aquatic Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Handball Courts":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Sports Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Greenhouse":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Student Union":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "REC Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.studentrec));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "University Police":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.police));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Physical Education":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.pe));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Icardo Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.icarrdo));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Coffee House":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.peets));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Student Health Services":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.healthservices));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Engineering Modulars":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.fab));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Office of the President":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.president));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Dezember Leadership Development Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.leadership_development));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Extended University":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.extended_university));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Business Developement Center Classrooms":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.busdevclass));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Business Admin & Faculty Offices":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.bus_dev_off));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Faculty Towers":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.facultytower));
+                                description.setText(marker.getSnippet());
+                                break;
                             case "Fine Arts":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.finearts));

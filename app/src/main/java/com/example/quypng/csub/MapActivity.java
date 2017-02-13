@@ -4,9 +4,13 @@ import android.Manifest;
 import android.annotation.TargetApi;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.location.Location;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.NavUtils;
@@ -16,43 +20,28 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
-
-import com.mapbox.mapboxsdk.MapboxAccountManager;
-import com.mapbox.mapboxsdk.location.LocationServices;
-import com.mapbox.mapboxsdk.maps.MapView;
-import org.osmdroid.api.IMapController;
-import org.osmdroid.tileprovider.tilesource.TileSourceFactory;
-import org.osmdroid.util.GeoPoint;
-
-import android.view.ViewGroup;
-
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-
-import com.mapbox.mapboxsdk.maps.MapboxMap;
-import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
-
-import com.mapbox.mapboxsdk.annotations.MarkerOptions;
-import com.mapbox.mapboxsdk.geometry.LatLng;
-
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import com.mapbox.mapboxsdk.annotations.Marker;
-
-import com.mapbox.mapboxsdk.camera.CameraUpdateFactory;
-import com.mapbox.mapboxsdk.location.LocationListener;
-
-import android.support.design.widget.FloatingActionButton;
-
-// Show direction on map
-import android.graphics.Color;
-import android.util.Log;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import com.mapbox.mapboxsdk.MapboxAccountManager;
+import com.mapbox.mapboxsdk.annotations.Marker;
+import com.mapbox.mapboxsdk.annotations.MarkerOptions;
 import com.mapbox.mapboxsdk.annotations.PolylineOptions;
+import com.mapbox.mapboxsdk.camera.CameraUpdateFactory;
+import com.mapbox.mapboxsdk.geometry.LatLng;
+import com.mapbox.mapboxsdk.location.LocationListener;
+import com.mapbox.mapboxsdk.location.LocationServices;
+import com.mapbox.mapboxsdk.maps.MapView;
+import com.mapbox.mapboxsdk.maps.MapboxMap;
+import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
 import com.mapbox.services.Constants;
 import com.mapbox.services.commons.ServicesException;
 import com.mapbox.services.commons.geojson.LineString;
@@ -61,10 +50,15 @@ import com.mapbox.services.directions.v5.DirectionsCriteria;
 import com.mapbox.services.directions.v5.MapboxDirections;
 import com.mapbox.services.directions.v5.models.DirectionsResponse;
 import com.mapbox.services.directions.v5.models.DirectionsRoute;
+
 import java.util.List;
+
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
+
+// Show direction on map
+import static android.R.attr.x;
 
 
 public class MapActivity extends AppCompatActivity
@@ -210,30 +204,42 @@ public class MapActivity extends AppCompatActivity
                         // have many markers using different images, extending Marker and
                         // baseMarkerOptions, adding additional options such as the image, might be
                         // a better choice.
-                        ImageView countryFlagImage = new ImageView(MapActivity.this);
+                        ImageView buildingImage = new ImageView(MapActivity.this);
+                        TextView description = new TextView(MapActivity.this);
                         switch (marker.getTitle()) {
                             case "SCI-III":
-                                countryFlagImage.setImageDrawable(ContextCompat.getDrawable(
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_3));
+                                description.setText("Science III Building");
+                                description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 300));
                                 break;
                             case "Library":
-                                countryFlagImage.setImageDrawable(ContextCompat.getDrawable(
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.library));
+                                description.setText("CSUB Library");
                                 break;
                             default:
                                 // By default all markers without a matching title will use the
                                 // SCI-III
-                                countryFlagImage.setImageDrawable(ContextCompat.getDrawable(
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_3));
+                                //description.setText("Testing");
                                 break;
                         }
 
                         // Set the size of the image
-                        countryFlagImage.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 600));
+                        buildingImage.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 550));
+                        buildingImage.setBackgroundColor(Color.parseColor("#ffffff"));
+
+                        // Adding text and stylizing it
+                        description.setBackgroundColor(Color.parseColor("#ffffff"));
+                        description.setPadding(10,5,5,5);
+                        description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 100));
 
                         // add the image view to the parent layout
-                        parent.addView(countryFlagImage);
-
+                        parent.addView(buildingImage);
+                        // add the textview to parent
+                        parent.addView(description);
                         return parent;
                     }
                 });

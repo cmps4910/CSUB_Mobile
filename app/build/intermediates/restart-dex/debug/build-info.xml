@@ -2,36 +2,64 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="xxhdpi"
+    density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="115230412510231"
-    token="-1639493003808405476"
-    verifier="BINARY_MANIFEST_FILE_CHANGE" >
+    timestamp="601046605743296"
+    token="7369716033707538031"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1681" />
+        duration="506" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="7" />
     <task
         name="instant-run-transform"
-        duration="171" />
+        duration="23" />
     <task
         name="verifier"
-        duration="50" />
+        duration="2" />
 
     <artifact
-        location="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="115230412510231"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="600693595177582"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="600846200636213"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\builds\debug\600846200636213\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="600872382749221"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\builds\debug\600872382749221\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="600885072811090"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\builds\debug\600885072811090\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="601046605743296"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

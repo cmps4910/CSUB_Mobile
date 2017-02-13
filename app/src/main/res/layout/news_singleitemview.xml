@@ -4,16 +4,6 @@
     android:layout_height="fill_parent" >
 
     <TextView
-        android:id="@+id/linklabel"
-        android:text="@string/link"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/flag"
-        android:layout_toRightOf="@+id/flag"
-        android:layout_toEndOf="@+id/flag"
-        android:padding="10dp" />
-
-    <TextView
         android:id="@+id/link"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -73,5 +63,15 @@
         android:layout_alignBaseline="@+id/titlelabel"
         android:layout_alignBottom="@+id/titlelabel"
         android:layout_toEndOf="@+id/titlelabel" />
+
+    <TextView
+        android:id="@+id/linklabel"
+        android:text="@string/link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_alignBaseline="@+id/link"
+        android:layout_alignBottom="@+id/link"
+        android:layout_toStartOf="@+id/title" />
 
 </RelativeLayout>

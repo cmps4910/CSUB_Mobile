@@ -1,367 +1,367 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:2:1-89:12
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:1-89:12
 	package
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:3:11-44
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:5:5-66
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:20:5-67
-MERGED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:20:5-66
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/AndroidManifest.xml:16:5-67
-MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:25:5-67
-MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:25:5-67
-MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:25:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/AndroidManifest.xml:25:5-67
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:20:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:20:5-66
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:16:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:6:5-80
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:17:5-81
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:9:5-81
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:17:5-81
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:7:5-78
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:16:5-79
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:10:5-79
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:16:5-79
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:8:5-75
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:18:5-76
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/AndroidManifest.xml:18:5-76
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:8:5-75
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:18:5-76
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:8:22-73
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:8:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:9:5-78
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:19:5-78
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/AndroidManifest.xml:17:5-79
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:9:5-78
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:19:5-78
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:10:5-80
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:21:5-81
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:21:5-81
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:10:22-78
 uses-feature#android.hardware.location.gps
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:12:5-65
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:27:5-29:36
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:16:5-66
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:27:5-29:36
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:16:5-66
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:12:19-63
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:12:19-63
 application
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:14:5-87:19
-MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/AndroidManifest.xml:5:5-19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:design:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
-MERGED from [com.twitter.sdk.android:twitter:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.1/AndroidManifest.xml:25:5-20
-MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:27:5-37:19
-MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:27:5-35:19
-MERGED from [com.android.support:support-v4:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:27:5-40:19
-MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/AndroidManifest.xml:27:5-20
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:14:5-87:19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.twitter.sdk.android:twitter:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.3.1\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:27:5-40:19
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\AndroidManifest.xml:27:5-20
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:18:9-41
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:18:9-41
 	android:supportsRtl
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:19:9-35
 	android:allowBackup
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:17:9-43
 	android:theme
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:20:9-40
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:20:9-40
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:15:9-75
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:15:9-75
 activity#com.example.quypng.csub.Splashscreen
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:21:9-27:20
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:21:19-47
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:21:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:23:17-68
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:23:17-68
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:25:17-76
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.quypng.csub.MainActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:28:9-36:20
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:theme
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:30:13-63
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:30:13-63
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:29:13-41
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:29:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:31:13-35:29
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:31:13-35:29
 category#android.intent.category.DEFAULT
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:34:17-75
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:34:17-75
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:34:27-73
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:34:27-73
 activity#com.example.quypng.csub.MapActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:37:9-40:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:37:9-40:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:39:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:39:13-55
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:40:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:40:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:38:13-40
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:38:13-40
 activity#com.example.quypng.csub.NewsActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:41:9-44:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:41:9-44:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:43:13-56
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:43:13-56
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:44:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:44:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:42:13-41
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:42:13-41
 activity#com.example.quypng.csub.EventsActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:45:9-48:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:45:9-48:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:47:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:47:13-58
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:48:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:48:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:46:13-43
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:46:13-43
 activity#com.example.quypng.csub.DirectoryActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:49:9-52:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:49:9-52:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:51:13-61
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:51:13-61
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:52:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:52:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:50:13-46
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:50:13-46
 activity#com.example.quypng.csub.SocialMediaActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:53:9-56:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:53:9-56:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:55:13-63
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:55:13-63
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:56:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:56:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:54:13-48
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:54:13-48
 activity#com.example.quypng.csub.DiningActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:57:9-60:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:57:9-60:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:59:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:59:13-58
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:60:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:60:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:58:13-43
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:58:13-43
 activity#com.example.quypng.csub.TransportationActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:61:9-64:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:61:9-64:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:63:13-66
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:63:13-66
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:64:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:64:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:62:13-51
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:62:13-51
 activity#com.example.quypng.csub.ScheduleActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:65:9-68:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:65:9-68:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:67:13-60
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:67:13-60
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:68:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:68:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:66:13-45
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:66:13-45
 activity#com.example.quypng.csub.Blackboard_MoodleActivity
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:69:9-72:58
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:69:9-72:58
 	android:label
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:71:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:71:13-58
 	android:parentActivityName
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:72:13-55
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:72:13-55
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:70:13-54
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:70:13-54
 activity#com.example.quypng.csub.SingleNewsView
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:73:9-75:20
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:73:9-75:20
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:74:13-43
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:74:13-43
 service#com.mapbox.mapboxsdk.telemetry.TelemetryService
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:78:9-83
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:78:9-83
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:78:18-80
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:78:18-80
 meta-data#com.google.android.gms.version
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:80:9-82:68
-MERGED from [com.google.android.gms:play-services-basement:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/AndroidManifest.xml:20:9-121
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:80:9-82:68
+MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:82:13-66
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:82:13-66
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:81:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:81:13-58
 meta-data#io.fabric.ApiKey
-ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:83:9-85:72
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:83:9-85:72
 	android:value
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:85:13-69
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:85:13-69
 	android:name
-		ADDED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:84:13-44
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:84:13-44
 uses-sdk
-INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/AndroidManifest.xml:3:5-72
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/AndroidManifest.xml:5:5-7:41
-MERGED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/AndroidManifest.xml:17:5-42
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
-MERGED from [com.twitter.sdk.android:twitter:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.1/AndroidManifest.xml:23:5-44
-MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:23:5-44
-MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:23:5-44
-MERGED from [com.android.support:support-v4:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:23:5-44
-MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/AndroidManifest.xml:23:5-43
+INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\AndroidManifest.xml:17:5-42
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.twitter.sdk.android:twitter:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.3.1\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:23:5-44
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\AndroidManifest.xml:23:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
 supports-screens
-ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:11:5-14:40
+ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:11:5-14:40
 	android:largeScreens
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:13:9-36
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:13:9-36
 	android:normalScreens
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:14:9-37
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:14:9-37
 	android:anyDensity
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:12:9-34
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:12:9-34
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:22:5-80
+ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:22:22-77
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:22:22-77
 uses-feature#android.hardware.location.network
-ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:24:5-26:36
+ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:24:5-26:36
 	android:required
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:26:9-33
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:26:9-33
 	android:name
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:25:9-57
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:25:9-57
 uses-feature#android.hardware.telephony
-ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:30:5-32:36
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:17:5-19:36
+ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:30:5-32:36
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:17:5-19:36
 	android:required
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:32:9-33
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:32:9-33
 	android:name
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:31:9-50
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:31:9-50
 uses-feature#android.hardware.wifi
-ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:33:5-35:36
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/AndroidManifest.xml:12:5-14:36
-MERGED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:20:5-58
+ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:33:5-35:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:12:5-14:36
+MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:20:5-58
 	android:required
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:35:9-33
-		MERGED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:33:5-35:36
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:35:9-33
+		MERGED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:33:5-35:36
 	android:name
-		ADDED from [org.osmdroid:osmdroid-android:5.5:release] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/AndroidManifest.xml:34:9-45
+		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:34:9-45
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/AndroidManifest.xml:2:1-89:12 reason: org.osmdroid.library requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:1-89:12 reason: org.osmdroid.library requested WRITE_EXTERNAL_STORAGE
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:21:5-77
-MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/AndroidManifest.xml:9:5-11:35
+ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:21:5-77
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:9:5-11:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:19:19-85
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:12:5-14:36
+ADDED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:12:5-14:36
 	android:required
-		ADDED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:14:9-33
+		ADDED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:14:9-33
 	android:name
-		ADDED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:13:9-61
+		ADDED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:13:9-61
 uses-feature#android.hardware.location
-ADDED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:15:5-62
+ADDED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:15:5-62
 	android:name
-		ADDED from [com.mapzen.android:lost:1.1.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/AndroidManifest.xml:15:19-59
+		ADDED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:15:19-59
 activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
-ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:28:9-31:71
+ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:28:9-31:71
 	android:exported
-		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:30:13-37
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:30:13-37
 	android:windowSoftInputMode
-		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:31:13-68
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:31:13-68
 	android:name
-		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:29:13-82
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:29:13-82
 service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
-ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:33:9-36:40
+ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:33:9-36:40
 	android:enabled
-		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:35:13-35
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:35:13-35
 	android:exported
-		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:36:13-37
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/AndroidManifest.xml:34:13-84
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:34:13-84
 activity#com.twitter.sdk.android.tweetui.PlayerActivity
-ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:28:9-31:49
+ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:28:9-31:49
 	android:configChanges
-		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:30:13-74
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:30:13-74
 	android:theme
-		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:31:13-46
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:31:13-46
 	android:name
-		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:29:13-74
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:29:13-74
 activity#com.twitter.sdk.android.tweetui.GalleryActivity
-ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:32:9-34:49
+ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:32:9-34:49
 	android:theme
-		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:34:13-46
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:34:13-46
 	android:name
-		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/AndroidManifest.xml:33:13-75
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:33:13-75
 activity#com.twitter.sdk.android.core.identity.OAuthActivity
-ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:28:9-32:40
+ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:28:9-32:40
 	android:excludeFromRecents
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:31:13-46
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:31:13-46
 	android:exported
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:30:13-59
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:30:13-59
 	android:name
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:29:13-79
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:29:13-79
 activity#com.twitter.sdk.android.core.identity.ShareEmailActivity
-ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:33:9-39:48
+ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:33:9-39:48
 	android:label
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:39:13-45
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:39:13-45
 	android:excludeFromRecents
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:36:13-46
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:36:13-46
 	android:exported
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:37:13-37
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:37:13-37
 	android:configChanges
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:35:13-59
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:35:13-59
 	android:icon
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:38:13-53
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:38:13-53
 	android:name
-		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] /Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/AndroidManifest.xml:34:13-84
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:34:13-84

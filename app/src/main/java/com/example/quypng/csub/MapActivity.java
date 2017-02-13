@@ -181,16 +181,119 @@ public class MapActivity extends AppCompatActivity
                     servicesException.printStackTrace();
                 }
 
+                // University Advancement #7
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350418, -119.106344))
+                        .title("University Advancement")
+                        .snippet("University Advancement"));
+
+                // Administration West #8
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350424, -119.106000))
+                        .title("Administration West")
+                        .snippet("Administration West"));
+
+                // Administration East #5
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350634, -119.105040))
+                        .title("Administration East")
+                        .snippet("Administration East"));
+
+                // Administration #9
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350371, -119.105524))
+                        .title("Administration")
+                        .snippet("Administration"));
+
+                // Education #34
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350200, -119.104463))
+                        .title("Education")
+                        .snippet("Education Building"));
+
+                // Student Services #10
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350212, -119.104998))
+                        .title("Student Services")
+                        .snippet("Student Services"));
+
+                // Dorothy Donahoe Hall #32
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350418, -119.103598))
+                        .title("Dorothy Donahoe Hall")
+                        .snippet("Dorothy Donahoe Hall"));
+
+                // Science I #30
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349666, -119.103787))
+                        .title("SCI-I")
+                        .snippet("Science I"));
+
+                // Science II #38
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349600, -119.103222))
+                        .title("SCI-II")
+                        .snippet("Science II"));
+
+                // Science III #48
                 mapboxMap.addMarker(new MarkerOptions()
                         .position(new LatLng(35.348849, -119.103579))
                         .title("SCI-III")
-                        .snippet("Computer Science and Mathematics Department."));
+                        .snippet("Science III"));
 
+                // Walter Stiern Library #43
                 mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(35.351264, -119.103211))
+                        .position(new LatLng(-119.103211, 35.351264))
                         .title("Library")
-                        .snippet("CSUB Library"));
+                        .snippet("Walter Stiern Library"));
 
+                // Plant Operation #11
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349692, -119.105106))
+                        .title("Plant Operation")
+                        .snippet("Plant Operation"));
+
+                // Lecture Building #3
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350909, -119.105053))
+                        .title("Lecture Building")
+                        .snippet("Lecture Building"));
+
+                // Performing Arts #4
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350996, -119.104625))
+                        .title("Performing Arts")
+                        .snippet("Performing Arts"));
+
+                // Romberg Nursing Center #31
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.349699, -119.104625))
+                        .title("Romberg Nursing Center")
+                        .snippet("Romberg Nursing Center"));
+
+                // Computing/Telecom Center #65
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.351315, -119.102745))
+                        .title("Computing/Telecom Center")
+                        .snippet("Computing/Telecom Center"));
+
+                // Runner Cafe #38
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350780, -119.102374))
+                        .title("Runner Cafe")
+                        .snippet("Runner Cafe"));
+
+                // Classroom Building #1
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.351211, -119.105479))
+                        .title("Classroom Building")
+                        .snippet("Classroom Building"));
+
+                // Fine Arts #2
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.351211, -119.105479))
+                        .title("Fine Arts")
+                        .snippet("Fine Arts"));
 
                 mapboxMap.setInfoWindowAdapter(new MapboxMap.InfoWindowAdapter() {
                     @Nullable
@@ -209,14 +312,95 @@ public class MapActivity extends AppCompatActivity
                         parent.setPadding(10,0,10,10);
                         drawBorder(parent);
 
-
-                        // Depending on the marker title, the correct image source is used. If you
-                        // have many markers using different images, extending Marker and
-                        // baseMarkerOptions, adding additional options such as the image, might be
-                        // a better choice.
+                        // Building Images and Text Descriptions
                         ImageView buildingImage = new ImageView(MapActivity.this);
                         TextView description = new TextView(MapActivity.this);
                         switch (marker.getTitle()) {
+                            case "Fine Arts":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.finearts));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Classroom Building":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.classroom_bduilding));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Runner Cafe":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.cafe));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Computing/Telecom Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.telecommunications));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Romberg Nursing Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.nursinged));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Performing Arts":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.performingarts));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Lecture Building":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.lecture_building));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Plant Operation":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.educational_oppourtunity));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "University Advancement":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.educational_oppourtunity));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Administration":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.admin_east));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Administration East":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.admin_east));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Administration West":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.admin_east));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Student Services":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.studentservices));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Education":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.education));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Dorothy Donahoe Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.donahoe_hall));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "SCI-I":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.sci_1));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "SCI-II":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.sci_2));
+                                description.setText(marker.getSnippet());
+                                break;
                             case "SCI-III":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_3));

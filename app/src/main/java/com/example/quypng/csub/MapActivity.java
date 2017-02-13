@@ -4,9 +4,8 @@ import android.Manifest;
 import android.annotation.TargetApi;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.content.res.Resources;
 import android.graphics.Color;
-import android.graphics.drawable.Drawable;
+import android.graphics.Typeface;
 import android.graphics.drawable.GradientDrawable;
 import android.location.Location;
 import android.os.Build;
@@ -61,7 +60,6 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 // Show direction on map
-import static android.R.attr.shape;
 
 
 public class MapActivity extends AppCompatActivity
@@ -383,7 +381,7 @@ public class MapActivity extends AppCompatActivity
 
                         // prettify this sucker
                         parent.setBackgroundColor(Color.parseColor("#ffffff"));
-                        parent.setPadding(10,0,10,10);
+                        parent.setPadding(10,0,10,15);
                         drawBorder(parent);
 
                         // Building Images and Text Descriptions
@@ -610,6 +608,8 @@ public class MapActivity extends AppCompatActivity
                         description.setBackgroundColor(Color.parseColor("#ffffff"));
                         description.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
                         description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, ViewGroup.LayoutParams.WRAP_CONTENT ));
+                        description.setTextSize(14);
+                        description.setTypeface(null, Typeface.BOLD);
 
                         // add imageview and textview to parent layout
                         parent.addView(buildingImage);

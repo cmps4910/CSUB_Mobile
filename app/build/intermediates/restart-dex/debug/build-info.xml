@@ -5,26 +5,188 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="620475817102916"
+    timestamp="626181455125851"
     token="7369716033707538031"
-    verifier="COMPATIBLE" >
+    verifier="DEPENDENCY_CHANGED" >
 
     <task
         name="javac"
-        duration="543" />
+        duration="1408" />
     <task
         name="instant-run-dex"
-        duration="49" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="125" />
+        duration="786" />
     <task
         name="verifier"
-        duration="11" />
+        duration="33" />
 
     <artifact
-        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f58689bf919f77812a984dd69c03a85823104c01\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_a280b625e4ca3d5a62dd5c92356c85db4b0e9f8f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.2_d1e0e67fcf1ff8ab3aa31c2a121924add3336f15\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta3_c4807e01bd2524eca738fff75b67a8e4f480951c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_619c579ed980fdc19a0f21e51142adf5dffc9f11\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_22efffa1f48f8e09840cbb9b8cc0d9e0f54823f9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_7850b22e37a8feb89076e4e7504ca6a671ed2b96\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_453aa40511c972f631ee52f70cf89564a96e374f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_2d20a7b650250be925a7982b49cd46261f0dc0ea\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_4a29c3c8bc8325e3782ee218c2e8f38cda7fd17c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ae8a1fd7e6f62de52c6f8c8200cacd10afc75f7d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_7325945a2b03edd1873af56ef4f57d38e9548ceb\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.3.1_78739806a7d14eea461f7420bc2ba37aafc845de\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d80645573eeb976b2b571b24667ab9578ebb4d57\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b388376f187736fb4052c8cd5fc1adf4d61aabe6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapzen.android-lost-1.1.1_257a2dc9c8f04b8b6494b98a2bdd03ba59e64c5c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_891853a8601d1688911ac1ed5f713774ff2c627c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_06cd8f61e9bcdc37b1cfdf8eceb64c09bd423c3f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_e77fd7b873a91d764b2d9a073405814f8e43b624\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0e741b1a3793ce85a66f7133d60759344a4e17ac\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ea483b0af8071ca8bd6f7faa7785bc85a214b8db\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_a921e106441aedc841ca6143a5ddc4d55f7339ab\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_b0dc1fea1c021c483e9af1679866db766511f242\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_7267872652ae9979f8355eed59a4a63a14230546\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\mapbox-java-services-1.3.1_c67d9d2ff69b938dd0ad66ca1a2648dbfd70e9f7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.3.1_18f43d6af60d873ba8d654f4ebe42a3cbe08028a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_1495e0115060db9fa346b28a27dbaa9bbd9aebe9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_685b74cdf2b116a00e19eb7fe350f128cc3b94ac\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_dac7c15c62a824aae46113da4b7475e3788fd378\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8d711e048eb042544626d7249607d8555a7f783\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.3.1_ac121e6db99044f8fda30f8864c82b1beb30674a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_303787336c1a4f800992de0133c7b4bbdc544c0a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.3.0_2e991c58f521587890d66bc913284926f6fbac87\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_f8f74a538b91442a89cf67d6c6db73804687b72b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_628f5b76eedab47493e29a458d6319a22502b4fc\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_32c9c6fc64da40b7fa84471fe3825a2e2e43086b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_53773026e41166aeef79fa267964f91e81e1c1f4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\osmdroid-android-5.5-release_831e253c7cccc25778719c78f3eb9bcc11689664\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_827dd9f4a7ba38f0f475609cdddcb4a80bfa0709\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3dac98f421b7f2a92ad9b85a80bfa02eb9a00ca6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_e17659b4e28c6c3c816613897fedc250ad1be5ec\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_38179aa066abb8149540d51a2c25abb067b5209a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78fbd50fa32cbde65743cc80449df3e87584c672\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_a58417ba0a38ec643e15f3933bcc3aae7e600208\classes.dex"
+        type="DEX" />
 
     <build
         timestamp="615789820974143"
@@ -34,29 +196,20 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="619984045079090"
-        verifier="DEPENDENCY_CHANGED" >
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex"
-            type="DEX" />
-    </build>
-    <build
         timestamp="620269804961151"
         verifier="DEPENDENCY_CHANGED" >
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_22efffa1f48f8e09840cbb9b8cc0d9e0f54823f9\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_550d06e9c3ba76d48699dfd96a219da083b9eb99\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="626181455125851"
+        verifier="DEPENDENCY_CHANGED" >
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f58689bf919f77812a984dd69c03a85823104c01\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_a280b625e4ca3d5a62dd5c92356c85db4b0e9f8f\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_453aa40511c972f631ee52f70cf89564a96e374f\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_2d20a7b650250be925a7982b49cd46261f0dc0ea\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.2_d1e0e67fcf1ff8ab3aa31c2a121924add3336f15\classes.dex"
@@ -65,16 +218,28 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta3_c4807e01bd2524eca738fff75b67a8e4f480951c\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ae8a1fd7e6f62de52c6f8c8200cacd10afc75f7d\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_619c579ed980fdc19a0f21e51142adf5dffc9f11\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_22efffa1f48f8e09840cbb9b8cc0d9e0f54823f9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_7850b22e37a8feb89076e4e7504ca6a671ed2b96\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_453aa40511c972f631ee52f70cf89564a96e374f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_2d20a7b650250be925a7982b49cd46261f0dc0ea\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_4a29c3c8bc8325e3782ee218c2e8f38cda7fd17c\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_7325945a2b03edd1873af56ef4f57d38e9548ceb\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ae8a1fd7e6f62de52c6f8c8200cacd10afc75f7d\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_619c579ed980fdc19a0f21e51142adf5dffc9f11\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_7325945a2b03edd1873af56ef4f57d38e9548ceb\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.3.1_78739806a7d14eea461f7420bc2ba37aafc845de\classes.dex"
@@ -83,16 +248,16 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d80645573eeb976b2b571b24667ab9578ebb4d57\classes.dex"
             type="DEX" />
         <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b388376f187736fb4052c8cd5fc1adf4d61aabe6\classes.dex"
+            type="DEX" />
+        <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapzen.android-lost-1.1.1_257a2dc9c8f04b8b6494b98a2bdd03ba59e64c5c\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_891853a8601d1688911ac1ed5f713774ff2c627c\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_7850b22e37a8feb89076e4e7504ca6a671ed2b96\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b388376f187736fb4052c8cd5fc1adf4d61aabe6\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_06cd8f61e9bcdc37b1cfdf8eceb64c09bd423c3f\classes.dex"
@@ -107,10 +272,7 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ea483b0af8071ca8bd6f7faa7785bc85a214b8db\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.3.1_18f43d6af60d873ba8d654f4ebe42a3cbe08028a\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_1495e0115060db9fa346b28a27dbaa9bbd9aebe9\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_a921e106441aedc841ca6143a5ddc4d55f7339ab\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_b0dc1fea1c021c483e9af1679866db766511f242\classes.dex"
@@ -119,16 +281,16 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_7267872652ae9979f8355eed59a4a63a14230546\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_a921e106441aedc841ca6143a5ddc4d55f7339ab\classes.dex"
-            type="DEX" />
-        <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\mapbox-java-services-1.3.1_c67d9d2ff69b938dd0ad66ca1a2648dbfd70e9f7\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.3.1_ac121e6db99044f8fda30f8864c82b1beb30674a\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.3.1_18f43d6af60d873ba8d654f4ebe42a3cbe08028a\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8d711e048eb042544626d7249607d8555a7f783\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_1495e0115060db9fa346b28a27dbaa9bbd9aebe9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_685b74cdf2b116a00e19eb7fe350f128cc3b94ac\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_dac7c15c62a824aae46113da4b7475e3788fd378\classes.dex"
@@ -137,16 +299,16 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_303787336c1a4f800992de0133c7b4bbdc544c0a\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8d711e048eb042544626d7249607d8555a7f783\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.3.1_ac121e6db99044f8fda30f8864c82b1beb30674a\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_685b74cdf2b116a00e19eb7fe350f128cc3b94ac\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_303787336c1a4f800992de0133c7b4bbdc544c0a\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.3.0_2e991c58f521587890d66bc913284926f6fbac87\classes.dex"
@@ -158,13 +320,13 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_f8f74a538b91442a89cf67d6c6db73804687b72b\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_550d06e9c3ba76d48699dfd96a219da083b9eb99\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_f8f74a538b91442a89cf67d6c6db73804687b72b\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
@@ -173,7 +335,7 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_628f5b76eedab47493e29a458d6319a22502b4fc\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_32c9c6fc64da40b7fa84471fe3825a2e2e43086b\classes.dex"
@@ -182,10 +344,16 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_628f5b76eedab47493e29a458d6319a22502b4fc\classes.dex"
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_53773026e41166aeef79fa267964f91e81e1c1f4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\osmdroid-android-5.5-release_831e253c7cccc25778719c78f3eb9bcc11689664\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_827dd9f4a7ba38f0f475609cdddcb4a80bfa0709\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3dac98f421b7f2a92ad9b85a80bfa02eb9a00ca6\classes.dex"
@@ -197,24 +365,11 @@
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_38179aa066abb8149540d51a2c25abb067b5209a\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\osmdroid-android-5.5-release_831e253c7cccc25778719c78f3eb9bcc11689664\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_827dd9f4a7ba38f0f475609cdddcb4a80bfa0709\classes.dex"
-            type="DEX" />
-        <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78fbd50fa32cbde65743cc80449df3e87584c672\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_a58417ba0a38ec643e15f3933bcc3aae7e600208\classes.dex"
             type="DEX" />
-    </build>
-    <build
-        timestamp="620475817102916"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

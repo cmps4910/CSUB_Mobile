@@ -608,7 +608,7 @@ public class MapActivity extends AppCompatActivity
                         description.setBackgroundColor(Color.parseColor("#ffffff"));
                         description.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
                         description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, ViewGroup.LayoutParams.WRAP_CONTENT ));
-                        description.setTextSize(14);
+                        description.setTextSize(18);
                         description.setTypeface(null, Typeface.BOLD);
 
                         // add imageview and textview to parent layout

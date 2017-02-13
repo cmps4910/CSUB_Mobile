@@ -34,4 +34,6 @@
     <string name="titlelabel">"Title : "</string>
     <string name="link">"Date : "</string>
 
+    <string name="sci3_des">Science III</string>
+
 </resources>

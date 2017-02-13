@@ -64,10 +64,10 @@ public final class R {
 		public static final int public_transport = 0x7f070083;
 		public static final int roads_nl = 0x7f070084;
 		public static final int samples = 0x7f070085;
-		public static final int set_mode_hide_me = 0x7f070087;
-		public static final int set_mode_offline = 0x7f070088;
-		public static final int set_mode_online = 0x7f070089;
-		public static final int set_mode_show_me = 0x7f07008a;
+		public static final int set_mode_hide_me = 0x7f070088;
+		public static final int set_mode_offline = 0x7f070089;
+		public static final int set_mode_online = 0x7f07008a;
+		public static final int set_mode_show_me = 0x7f07008b;
 		public static final int topo = 0x7f070045;
 		public static final int unknown = 0x7f070046;
 	}

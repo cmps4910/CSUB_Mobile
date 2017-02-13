@@ -4,7 +4,10 @@ import android.Manifest;
 import android.annotation.TargetApi;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.content.res.Resources;
 import android.graphics.Color;
+import android.graphics.drawable.Drawable;
+import android.graphics.drawable.GradientDrawable;
 import android.location.Location;
 import android.os.Build;
 import android.os.Bundle;
@@ -58,7 +61,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 // Show direction on map
-import static android.R.attr.x;
+import static android.R.attr.shape;
 
 
 public class MapActivity extends AppCompatActivity
@@ -188,6 +191,7 @@ public class MapActivity extends AppCompatActivity
                         .title("Library")
                         .snippet("CSUB Library"));
 
+
                 mapboxMap.setInfoWindowAdapter(new MapboxMap.InfoWindowAdapter() {
                     @Nullable
                     @Override
@@ -200,6 +204,12 @@ public class MapActivity extends AppCompatActivity
                                 ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT));
                         parent.setOrientation(LinearLayout.VERTICAL);
 
+                        // prettify this sucker
+                        parent.setBackgroundColor(Color.parseColor("#ffffff"));
+                        parent.setPadding(10,0,10,10);
+                        drawBorder(parent);
+
+
                         // Depending on the marker title, the correct image source is used. If you
                         // have many markers using different images, extending Marker and
                         // baseMarkerOptions, adding additional options such as the image, might be
@@ -210,36 +220,33 @@ public class MapActivity extends AppCompatActivity
                             case "SCI-III":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_3));
-                                description.setText("Science III Building");
-                                description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 300));
+                                description.setText(marker.getSnippet());
                                 break;
                             case "Library":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.library));
-                                description.setText("CSUB Library");
+                                description.setText(marker.getSnippet());
                                 break;
                             default:
                                 // By default all markers without a matching title will use the
                                 // SCI-III
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_3));
-                                //description.setText("Testing");
                                 break;
                         }
 
                         // Set the size of the image
                         buildingImage.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 550));
-                        buildingImage.setBackgroundColor(Color.parseColor("#ffffff"));
 
-                        // Adding text and stylizing it
+                        // Stylizing description box
                         description.setBackgroundColor(Color.parseColor("#ffffff"));
-                        description.setPadding(10,5,5,5);
-                        description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, 100));
+                        description.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
+                        description.setLayoutParams(new android.view.ViewGroup.LayoutParams(700, ViewGroup.LayoutParams.WRAP_CONTENT ));
 
-                        // add the image view to the parent layout
+                        // add imageview and textview to parent layout
                         parent.addView(buildingImage);
-                        // add the textview to parent
                         parent.addView(description);
+
                         return parent;
                     }
                 });
@@ -269,6 +276,21 @@ public class MapActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+    }
+
+    private void drawBorder(LinearLayout parent) {
+        GradientDrawable border = new GradientDrawable();
+        border.setColor(0xFFFFFFFF); //white bg
+        border.setStroke(3, 0xFF000000); //black border
+        border.setCornerRadii(new float[] { 8, 8, 8, 8, 8, 8, 8, 8 }); // rounded corner
+
+        if(Build.VERSION.SDK_INT < Build.VERSION_CODES.JELLY_BEAN) {
+            // deprecated but just in case user runs sdk lower than jellybean
+            parent.setBackgroundDrawable(border);
+        } else {
+            parent.setBackground(border);
+        }
+
     }
 
     private void getRoute(Position origin, Position destination) throws ServicesException {

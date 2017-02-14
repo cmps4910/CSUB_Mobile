@@ -35,5 +35,6 @@
     <string name="link">"Date : "</string>
 
     <string name="sci3_des">Science III</string>
+    <string name="textview">TextView</string>
 
 </resources>

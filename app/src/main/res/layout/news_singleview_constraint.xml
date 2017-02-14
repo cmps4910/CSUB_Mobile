@@ -6,95 +6,64 @@
     android:layout_height="fill_parent" >
 
     <TextView
-        android:id="@+id/linklabel"
-        android:text="@string/link"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/flag"
-        android:layout_toRightOf="@+id/flag"
-        android:layout_toEndOf="@+id/flag"
-        android:padding="10dp"
-        android:layout_marginStart="8dp"
-        app:layout_constraintLeft_toRightOf="@+id/flag"
-        app:layout_constraintTop_toTopOf="@+id/flag" />
-
-    <TextView
-        android:id="@+id/link"
+        android:id="@+id/newsDate"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@+id/linklabel"
         android:layout_alignBottom="@+id/flag"
         android:padding="10dp"
+        tools:ignore="RtlHardcoded"
         android:layout_marginEnd="16dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginStart="16dp"
-        app:layout_constraintLeft_toRightOf="@+id/linklabel"
-        app:layout_constraintTop_toTopOf="@+id/linklabel"
-        app:layout_constraintBottom_toBottomOf="@+id/linklabel"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintVertical_bias="0.0" />
-
-    <TextView
-        android:id="@+id/titlelabel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/titlelabel"
-        android:padding="10dp"
-        android:layout_alignTop="@+id/flag"
-        android:layout_toEndOf="@+id/flag"
-        app:layout_constraintBottom_toBottomOf="@+id/flag"
-        android:layout_marginStart="8dp"
-        app:layout_constraintLeft_toRightOf="@+id/flag" />
+        app:layout_constraintLeft_toRightOf="@+id/flag"
+        android:textAlignment="viewStart"
+        android:textStyle="normal|italic"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintBottom_toBottomOf="@+id/flag" />
 
     <TextView
         android:id="@+id/title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:layout_alignBaseline="@+id/titlelabel"
-        android:layout_alignBottom="@+id/titlelabel"
-        android:layout_toEndOf="@+id/titlelabel"
-        app:layout_constraintTop_toTopOf="@+id/titlelabel"
-        app:layout_constraintLeft_toRightOf="@+id/titlelabel"
+        android:textAlignment="viewStart"
+        android:textStyle="normal|bold"
+        app:layout_constraintBottom_toTopOf="@+id/newsDate"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintTop_toTopOf="@+id/flag"
         android:layout_marginEnd="16dp"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintBottom_toBottomOf="@+id/titlelabel"
-        app:layout_constraintVertical_bias="0.0"
-        android:layout_marginStart="16dp" />
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toRightOf="@+id/flag" />
 
     <ImageView
         android:id="@+id/flag"
         android:src="@drawable/csub_logo9"
         android:padding="1dp"
-        android:layout_margin="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#000000"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
         app:layout_constraintLeft_toLeftOf="@+id/scrollView3"
-        app:layout_constraintBottom_toTopOf="@+id/scrollView3"
-        android:layout_marginBottom="8dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="24dp"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        android:contentDescription=""
+        tools:ignore="ContentDescription"
+        android:layout_marginStart="16dp" />
 
     <ScrollView
-        android:layout_below="@+id/linklabel"
         android:id="@+id/scrollView3"
-        android:layout_marginEnd="16dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_height="0dp"
         android:layout_width="0dp"
-        android:layout_marginStart="16dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginTop="150dp"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.46"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="16dp"
-        app:layout_constraintVertical_bias="0.9">
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/newsDate">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -108,22 +77,16 @@
             android:id="@+id/linearLayout"
             android:weightSum="1"
             app:layout_constraintHorizontal_bias="0.56"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content">
 
             <TextView
-                android:text="TextView"
-                android:layout_height="match_parent"
-                android:layout_below="@+id/flag"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentStart="true"
+                android:text="@string/textview"
+                android:layout_height="wrap_content"
                 android:id="@+id/contentView"
-                android:layout_alignParentBottom="true"
-                android:layout_alignParentRight="true"
-                android:layout_alignParentEnd="true"
-                android:padding="20dp"
-                android:layout_margin="20dp"
                 android:layout_width="match_parent"
-                android:layout_weight="1.02" />
+                android:layout_weight="1.02"
+                tools:ignore="InefficientWeight"
+                android:layout_marginTop="10dp" />
         </LinearLayout>
     </ScrollView>
 

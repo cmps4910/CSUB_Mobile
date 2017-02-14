@@ -26,8 +26,9 @@ public class SingleNewsView extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     DrawerLayout drawer;
 
-    TextView singletextview;
-    TextView date;
+    TextView newsTitle;
+    TextView newsContent;
+    TextView newsDate;
     ProgressDialog mProgressDialog;
 
     String csubSite = "http://www.csub.edu/news/news_archives/";
@@ -165,8 +166,9 @@ public class SingleNewsView extends AppCompatActivity
             mProgressDialog.show();
         }
 
-        String newsContent = "";
-        String articleDate;
+        String articleContent = "";
+        String articleDate = "";
+        String articleTitle = "";
 
         @Override
         protected Void doInBackground(Void... params) {
@@ -177,11 +179,13 @@ public class SingleNewsView extends AppCompatActivity
                 for (Element div : doc.select("div[class=article_text]")) {
 
                     for (Element row : div.select("p")) {
-                        newsContent += row.text();
+                        articleContent += row.text();
                     }
-                    newsContent = div.text();
                 }
                 for (Element div : doc.select("div[class=articleDate]")) {
+                    for (Element header1 : div.select("h1")) {
+                        articleTitle = header1.text();
+                    }
                     articleDate = div.text();
                 }
             } catch (IOException e) {
@@ -194,10 +198,10 @@ public class SingleNewsView extends AppCompatActivity
 
         @Override
         protected void onPostExecute(Void result) {
-            singletextview = (TextView) findViewById(R.id.contentView);
-            singletextview.setText(newsContent);
-            date = (TextView) findViewById(R.id.link);
-            date.setText(articleDate);
+            newsContent = (TextView) findViewById(R.id.contentView);
+            newsContent.setText(articleContent);
+            newsDate = (TextView) findViewById(R.id.newsDate);
+            newsDate.setText(articleDate);
             mProgressDialog.dismiss();
         }
     }

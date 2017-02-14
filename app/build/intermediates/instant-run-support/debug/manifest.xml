@@ -45,14 +45,14 @@
     <uses-feature android:name="android.hardware.location" />
 
     <application
-        name="com.example.quypng.csub.appcontroller.AppController"
+        name="com.app.csubmobile.appcontroller.AppController"
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.quypng.csub.Splashscreen" >
+        <activity android:name="com.app.csubmobile.Splashscreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -60,7 +60,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.quypng.csub.MainActivity"
+            android:name="com.app.csubmobile.MainActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -69,42 +69,42 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.quypng.csub.MapActivity"
+            android:name="com.app.csubmobile.MapActivity"
             android:label="@string/title_activity_map"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.NewsActivity"
+            android:name="com.app.csubmobile.NewsActivity"
             android:label="@string/title_activity_news"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.EventsActivity"
+            android:name="com.app.csubmobile.EventsActivity"
             android:label="@string/title_activity_events"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.DirectoryActivity"
+            android:name="com.app.csubmobile.DirectoryActivity"
             android:label="@string/title_activity_directory"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.SocialMediaActivity"
+            android:name="com.app.csubmobile.SocialMediaActivity"
             android:label="@string/title_activity_socialmedia"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.DiningActivity"
+            android:name="com.app.csubmobile.DiningActivity"
             android:label="@string/title_activity_dining"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.TransportationActivity"
+            android:name="com.app.csubmobile.TransportationActivity"
             android:label="@string/title_activity_transportation"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.ScheduleActivity"
+            android:name="com.app.csubmobile.ScheduleActivity"
             android:label="@string/title_activity_schedule"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
-            android:name="com.example.quypng.csub.Blackboard_MoodleActivity"
+            android:name="com.app.csubmobile.Blackboard_MoodleActivity"
             android:label="@string/title_activity_moodle"
-            android:parentActivityName="com.example.quypng.csub.MainActivity" />
-        <activity android:name="com.example.quypng.csub.SingleNewsView" >
+            android:parentActivityName="com.app.csubmobile.MainActivity" />
+        <activity android:name="com.app.csubmobile.SingleNewsView" >
         </activity>
         // telemetry service for MapBox
         <service android:name="com.mapbox.mapboxsdk.telemetry.TelemetryService" />

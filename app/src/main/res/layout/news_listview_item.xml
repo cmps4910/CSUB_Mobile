@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_height="fill_parent"
-    android:layout_width="match_parent">
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
 
     <TextView
         android:id="@+id/linklabel"
@@ -23,13 +23,14 @@
 
     <ImageView
         android:id="@+id/flag"
-        android:src="@drawable/csub_logo10"
+        android:src="@drawable/csub_logo9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
         android:background="#000000"
-        android:padding="1dp"
-        android:layout_margin="10dp"/>
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="14dp" />
 
     <TextView
         android:id="@+id/titlelabel"
@@ -38,7 +39,7 @@
         android:text="@string/titlelabel"
         android:padding="10dp"
         android:layout_alignTop="@+id/flag"
-        android:layout_toEndOf="@+id/flag" />
+        android:layout_alignStart="@+id/linklabel" />
 
     <TextView
         android:id="@+id/title"
@@ -47,6 +48,6 @@
         android:padding="10dp"
         android:layout_alignBaseline="@+id/titlelabel"
         android:layout_alignBottom="@+id/titlelabel"
-        android:layout_toEndOf="@+id/titlelabel" />
+        android:layout_toEndOf="@+id/linklabel" />
 
 </RelativeLayout>

@@ -128,6 +128,8 @@ public class MapActivity extends AppCompatActivity
                     servicesException.printStackTrace();
                 }
 
+
+
                 // University Advancement #7
                 mapboxMap.addMarker(new MarkerOptions()
                         .position(new LatLng(35.350418, -119.106344))

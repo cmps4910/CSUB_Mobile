@@ -11,6 +11,7 @@ import android.graphics.drawable.GradientDrawable;
 import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationManager;
+import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -25,6 +26,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.TextUtils;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
@@ -56,6 +58,14 @@ import com.mapbox.services.directions.v5.MapboxDirections;
 import com.mapbox.services.directions.v5.models.DirectionsResponse;
 import com.mapbox.services.directions.v5.models.DirectionsRoute;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.nio.charset.Charset;
+import java.util.ArrayList;
 import java.util.List;
 
 import retrofit2.Call;
@@ -82,7 +92,7 @@ public class MapActivity extends AppCompatActivity
     private LocationManager locationManager;
     public Criteria criteria;
     public String bestProvider;
-
+    private PolylineOptions newroute;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -101,7 +111,7 @@ public class MapActivity extends AppCompatActivity
         origin = Position.fromCoordinates(-119.103579, 35.348849);
 
         // Library location
-        destination = Position.fromCoordinates(-119.107183,35.349099);
+        //destination = Position.fromCoordinates(-119.107183,35.349099);
 
         // Create a mapView
         mapView = (MapView) findViewById(R.id.mapview);
@@ -110,26 +120,9 @@ public class MapActivity extends AppCompatActivity
             @Override
             public void onMapReady(MapboxMap mapboxMap) {
                 map = mapboxMap;
+                new ParseCSUBGeoJson().execute();
 
-                // Add origin and destination to the map
-                mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(origin.getLatitude(), origin.getLongitude()))
-                        .title("SCI-III")
-                        .snippet("Computer Science and Mathematics Department."));
-                mapboxMap.addMarker(new MarkerOptions()
-                        .position(new LatLng(destination.getLatitude(), destination.getLongitude()))
-                        .title("Library")
-                        .snippet("CSUB Library"));
-
-                // Get route from API
-                try {
-                    getRoute(origin, destination);
-                } catch (ServicesException servicesException) {
-                    servicesException.printStackTrace();
-                }
-
-
-
+                /*
                 // University Advancement #7
                 mapboxMap.addMarker(new MarkerOptions()
                         .position(new LatLng(35.350418, -119.106344))
@@ -393,6 +386,7 @@ public class MapActivity extends AppCompatActivity
                         .position(new LatLng(35.350047, -119.101774))
                         .title("Rowdy")
                         .snippet("Rowdy"));
+                 */
 
                 mapboxMap.setInfoWindowAdapter(new MapboxMap.InfoWindowAdapter() {
                     @Nullable
@@ -414,7 +408,79 @@ public class MapActivity extends AppCompatActivity
                         // Building Images and Text Descriptions
                         ImageView buildingImage = new ImageView(MapActivity.this);
                         TextView description = new TextView(MapActivity.this);
+                        destination = Position.fromCoordinates(marker.getPosition().getLongitude(),marker.getPosition().getLatitude());
+
                         switch (marker.getTitle()) {
+                            case "Well Core Repository":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Facilities/Corporation Yard":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Emergency Operation Center":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Modular East I":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Modular East II":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Modular East III":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Rohan Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Numenor Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Rivendell Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Dobry Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Entwood Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Lorien Hall":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Child Care":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Tennis Shower Locker":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
                             case "Rowdy":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.student_union));
@@ -450,7 +516,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.student_union));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Aquatic Center":
+                            case "J.R. Hillman Aquatic Center":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.student_union));
                                 description.setText(marker.getSnippet());
@@ -460,7 +526,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.student_union));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Sports Center":
+                            case "J. Antonino Sports Center":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.student_union));
                                 description.setText(marker.getSnippet());
@@ -475,7 +541,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.student_union));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "REC Center":
+                            case "Student Recreation Center":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.studentrec));
                                 description.setText(marker.getSnippet());
@@ -495,7 +561,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.icarrdo));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Coffee House":
+                            case "Coffee House - Peets Coffee":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.peets));
                                 description.setText(marker.getSnippet());
@@ -505,7 +571,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.healthservices));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Engineering Modulars":
+                            case "Engineering Modulars FAB Lab":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.fab));
                                 description.setText(marker.getSnippet());
@@ -525,7 +591,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.extended_university));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Business Developement Center Classrooms":
+                            case "Business Development Center Classrooms":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.busdevclass));
                                 description.setText(marker.getSnippet());
@@ -575,7 +641,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.lecture_building));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Plant Operation":
+                            case "Central Plant Operations":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.educational_oppourtunity));
                                 description.setText(marker.getSnippet());
@@ -605,7 +671,7 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.studentservices));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "Education":
+                            case "Education Building":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.education));
                                 description.setText(marker.getSnippet());
@@ -615,17 +681,17 @@ public class MapActivity extends AppCompatActivity
                                         MapActivity.this, R.drawable.donahoe_hall));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "SCI-I":
+                            case "Science I":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_1));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "SCI-II":
+                            case "Science II":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_2));
                                 description.setText(marker.getSnippet());
                                 break;
-                            case "SCI-III":
+                            case "Science III":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.sci_3));
                                 description.setText(marker.getSnippet());
@@ -667,7 +733,6 @@ public class MapActivity extends AppCompatActivity
                     public void onClick(View view) {
                         if (map != null) {
                             toggleGps(!map.isMyLocationEnabled());
-
                             if(map.getMyLocation() != null) {
                                 // Set the origin as user location only if we can get their location
                                 origin = Position.fromCoordinates(map.getMyLocation().getLongitude(), map.getMyLocation().getLatitude());
@@ -675,23 +740,19 @@ public class MapActivity extends AppCompatActivity
                                 return;
                             }
 
-                            //Toast.makeText(MapActivity.this, map.getMyLocation().getLongitude()+"", Toast.LENGTH_SHORT).show();
-                            // Add origin and destination to the map
-                            map.addMarker(new MarkerOptions()
-                                    .position(new LatLng(origin.getLatitude(), origin.getLongitude()))
-                                    .title("SCI-III")
-                                    .snippet("Computer Science and Mathematics Department."));
-                            map.addMarker(new MarkerOptions()
-                                    .position(new LatLng(destination.getLatitude(), destination.getLongitude()))
-                                    .title("Library")
-                                    .snippet("CSUB Library"));
+                            // check for crashes if destination/origin is empty or not selected
+                            if (destination != null && origin != null) {
+                                try {
+                                    getRoute(origin, destination);
+                                } catch (ServicesException servicesException) {
+                                    servicesException.printStackTrace();
+                                }
 
-                            // Get route from API
-                            try {
-                                getRoute(origin, destination);
-                            } catch (ServicesException servicesException) {
-                                servicesException.printStackTrace();
+                            } else {
+                                Toast.makeText(MapActivity.this, "Please select a destination first.", Toast.LENGTH_SHORT).show();
                             }
+                            // Get route from API
+
                         }
                     }
                 });
@@ -715,7 +776,70 @@ public class MapActivity extends AppCompatActivity
 
     }
 
+    private class ParseCSUBGeoJson extends AsyncTask<Void, Void, List<LatLng>> {
 
+        ArrayList<String> titles = new ArrayList<>();
+        ArrayList<LatLng> markers = new ArrayList<>();
+        @Override
+        protected List<LatLng> doInBackground(Void... voids) {
+            try {
+                // Load GeoJSON file
+                InputStream inputStream = getAssets().open("features.geojson");
+                BufferedReader rd = new BufferedReader(new InputStreamReader(inputStream, Charset.forName("UTF-8")));
+                StringBuilder sb = new StringBuilder();
+                int cp;
+                while ((cp = rd.read()) != -1) {
+                    sb.append((char) cp);
+                }
+                inputStream.close();
+                // Parse JSON
+                JSONObject json = new JSONObject(sb.toString());
+                JSONArray features = json.getJSONArray("features");
+                for (int i = 0; i < features.length(); i++) {
+                    JSONObject feature = features.getJSONObject(i);
+                    JSONObject geometry = feature.getJSONObject("geometry");
+                    if (geometry != null) {
+                        String type = geometry.getString("type");
+
+                        // Checking for Point only~~~
+                        if (!TextUtils.isEmpty(type) && type.equalsIgnoreCase("Point")) {
+                            JSONObject properties = feature.getJSONObject("properties");
+                            if (!TextUtils.isEmpty(properties.getString("title"))) {
+                                String title = properties.getString("title");
+                                Log.d(TAG, title);
+                                // Get the marker coordinates here~~~
+                                JSONArray coords = geometry.getJSONArray("coordinates");
+                                LatLng latLng = new LatLng(coords.getDouble(1), coords.getDouble(0));
+                                markers.add(latLng);
+                                titles.add(title);
+                            }
+                        }
+                    }
+                }
+            } catch (Exception exception) {
+                Log.e(TAG, "Exception Loading GeoJSON: " + exception.toString());
+            }
+
+            return markers;
+        }
+
+        @Override
+        protected void onPostExecute(List<LatLng> points) {
+            super.onPostExecute(points);
+            /*map.addMarker(new MarkerOptions()
+                    .position(new LatLng(35.349827, -119.101502))
+                    .title("Student Union")
+                    .snippet("Student Union"));*/
+            if (markers.size() > 0) {
+                for (int i = 0; i < points.size(); i++) {
+                    map.addMarker(new MarkerOptions()
+                            .position(markers.get(i))
+                            .title(titles.get(i))
+                            .snippet(titles.get(i)));
+                }
+            }
+        }
+    }
 
 
     private void drawBorder(LinearLayout parent) {
@@ -776,6 +900,11 @@ public class MapActivity extends AppCompatActivity
     }
 
     private void drawRoute(DirectionsRoute route) {
+        // remove any routes if exists
+        if (!map.getPolylines().isEmpty()) {
+            map.removePolyline(newroute.getPolyline());
+        }
+
         // Convert LineString coordinates into LatLng[]
         LineString lineString = LineString.fromPolyline(route.getGeometry(), Constants.OSRM_PRECISION_V5);
         List<Position> coordinates = lineString.getCoordinates();
@@ -785,12 +914,15 @@ public class MapActivity extends AppCompatActivity
                     coordinates.get(i).getLatitude(),
                     coordinates.get(i).getLongitude());
         }
-
-        // Draw Points on MapView
-        map.addPolyline(new PolylineOptions()
+        if (!map.getPolylines().isEmpty()) {
+            map.removePolyline(newroute.getPolyline());
+        }
+        newroute = new PolylineOptions()
                 .add(points)
                 .color(Color.parseColor("#009688"))
-                .width(10));
+                .width(10);
+        // Draw Points on MapView
+        map.addPolyline(newroute);
     }
 
     @Override

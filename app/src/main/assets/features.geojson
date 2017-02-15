@@ -983,7 +983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Faculty Tower"
+        "title": "Faculty Towers"
       },
       "geometry": {
         "coordinates": [
@@ -2157,8 +2157,8 @@
       },
       "geometry": {
         "coordinates": [
-          -119.104973,
-          35.350154
+          -119.104969,
+          35.350161
         ],
         "type": "Point"
       },
@@ -2861,7 +2861,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Business Development Faculty Offices"
+        "title": "Business Admin & Faculty Offices"
       },
       "geometry": {
         "coordinates": [
@@ -3313,24 +3313,24 @@
         "coordinates": [
           [
             [
-              -119.101983,
-              35.348346
+              -119.101987,
+              35.348345
             ],
             [
-              -119.101566,
-              35.34835
+              -119.10157,
+              35.348349
             ],
             [
-              -119.101561,
-              35.348237
+              -119.101565,
+              35.348236
             ],
             [
-              -119.10198,
-              35.348235
+              -119.101984,
+              35.348234
             ],
             [
-              -119.101983,
-              35.348346
+              -119.101987,
+              35.348345
             ]
           ]
         ],
@@ -3913,7 +3913,7 @@
     {
       "type": "Feature",
       "properties": {
-        "buildingName": "Faculty Tower"
+        "buildingName": "Faculty Towers"
       },
       "geometry": {
         "coordinates": [
@@ -4177,7 +4177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "buildingName": "University Advancement"
+        "title": "University Advancement"
       },
       "geometry": {
         "coordinates": [
@@ -4395,18 +4395,6 @@
         "type": "Point"
       },
       "id": "f01f2f110def91590fcf16777a7fe284"
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -119.104974,
-          35.350154
-        ],
-        "type": "Point"
-      },
-      "id": "f0c5a08c6854d7f3448406d78b2d53bb"
     },
     {
       "type": "Feature",

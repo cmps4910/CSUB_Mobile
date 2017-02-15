@@ -2,12 +2,15 @@ package com.app.csubmobile;
 
 import android.Manifest;
 import android.annotation.TargetApi;
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.GradientDrawable;
+import android.location.Criteria;
 import android.location.Location;
+import android.location.LocationManager;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -60,21 +63,25 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 // Show direction on map
+
+
 public class MapActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     DrawerLayout drawer;
-
     private static final String TAG = "MapActivity";
     private DirectionsRoute currentRoute;
     private MapboxDirections client;
-
     private MapView mapView;
     private MapboxMap map;
     private FloatingActionButton floatingActionButton;
     private LocationServices locationServices;
-
     private static final int PERMISSIONS_LOCATION = 0;
+    private Position origin;
+    private Position destination;
+    private LocationManager locationManager;
+    public Criteria criteria;
+    public String bestProvider;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -86,12 +93,15 @@ public class MapActivity extends AppCompatActivity
         setContentView(R.layout.map_layout);
 
         locationServices = LocationServices.getLocationServices(MapActivity.this);
+        locationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
+        criteria = new Criteria();
+        bestProvider = String.valueOf(locationManager.getBestProvider(criteria, true)).toString();
 
         // SCI-III location
-        final Position origin = Position.fromCoordinates(-119.103579, 35.348849);
+        origin = Position.fromCoordinates(-119.103579, 35.348849);
 
         // Library location
-        final Position destination = Position.fromCoordinates(-119.103211, 35.351264);
+        destination = Position.fromCoordinates(-119.107183,35.349099);
 
         // Create a mapView
         mapView = (MapView) findViewById(R.id.mapview);
@@ -364,6 +374,23 @@ public class MapActivity extends AppCompatActivity
                         .title("Modular West")
                         .snippet("Modular West"));
 
+                // Hardt Field
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.347644, -119.107519))
+                        .title("Hardt Field")
+                        .snippet("Hardt Field"));
+
+                // Amphitheatre #62
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.353452, -119.102502))
+                        .title("Amphitheatre")
+                        .snippet("Amphitheatre"));
+
+                // Rowdy
+                mapboxMap.addMarker(new MarkerOptions()
+                        .position(new LatLng(35.350047, -119.101774))
+                        .title("Rowdy")
+                        .snippet("Rowdy"));
 
                 mapboxMap.setInfoWindowAdapter(new MapboxMap.InfoWindowAdapter() {
                     @Nullable
@@ -386,6 +413,21 @@ public class MapActivity extends AppCompatActivity
                         ImageView buildingImage = new ImageView(MapActivity.this);
                         TextView description = new TextView(MapActivity.this);
                         switch (marker.getTitle()) {
+                            case "Rowdy":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Amphitheatre":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
+                            case "Hardt Field":
+                                buildingImage.setImageDrawable(ContextCompat.getDrawable(
+                                        MapActivity.this, R.drawable.student_union));
+                                description.setText(marker.getSnippet());
+                                break;
                             case "Modular West":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
                                         MapActivity.this, R.drawable.student_union));
@@ -623,6 +665,31 @@ public class MapActivity extends AppCompatActivity
                     public void onClick(View view) {
                         if (map != null) {
                             toggleGps(!map.isMyLocationEnabled());
+
+                            if(map.getMyLocation() != null) {
+                                // Set the origin as user location only if we can get their location
+                                origin = Position.fromCoordinates(map.getMyLocation().getLongitude(), map.getMyLocation().getLatitude());
+                            }else{
+                                return;
+                            }
+
+                            //Toast.makeText(MapActivity.this, map.getMyLocation().getLongitude()+"", Toast.LENGTH_SHORT).show();
+                            // Add origin and destination to the map
+                            map.addMarker(new MarkerOptions()
+                                    .position(new LatLng(origin.getLatitude(), origin.getLongitude()))
+                                    .title("SCI-III")
+                                    .snippet("Computer Science and Mathematics Department."));
+                            map.addMarker(new MarkerOptions()
+                                    .position(new LatLng(destination.getLatitude(), destination.getLongitude()))
+                                    .title("Library")
+                                    .snippet("CSUB Library"));
+
+                            // Get route from API
+                            try {
+                                getRoute(origin, destination);
+                            } catch (ServicesException servicesException) {
+                                servicesException.printStackTrace();
+                            }
                         }
                     }
                 });
@@ -642,15 +709,20 @@ public class MapActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+
     }
+
+
+
 
     private void drawBorder(LinearLayout parent) {
         GradientDrawable border = new GradientDrawable();
         border.setColor(0xFFFFFFFF); //white bg
         border.setStroke(3, 0xFF000000); //black border
-        border.setCornerRadii(new float[]{8, 8, 8, 8, 8, 8, 8, 8}); // rounded corner
+        border.setCornerRadii(new float[] { 8, 8, 8, 8, 8, 8, 8, 8 }); // rounded corner
 
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.JELLY_BEAN) {
+        if(Build.VERSION.SDK_INT < Build.VERSION_CODES.JELLY_BEAN) {
             // deprecated but just in case user runs sdk lower than jellybean
             parent.setBackgroundDrawable(border);
         } else {
@@ -765,7 +837,7 @@ public class MapActivity extends AppCompatActivity
             if (ActivityCompat.shouldShowRequestPermissionRationale(this,
                     Manifest.permission.ACCESS_FINE_LOCATION)) {
 
-                // show explanation to user here
+                // show explaination to user here
 
             } else {
                 ActivityCompat.requestPermissions(this,
@@ -896,6 +968,7 @@ public class MapActivity extends AppCompatActivity
         return true;
     }
 
+
     // Display User location------------------------------------------------------------------------ //
     private void toggleGps(boolean enableGps) {
         if (enableGps) {
@@ -929,7 +1002,7 @@ public class MapActivity extends AppCompatActivity
                         // changes. When the user disables and then enables the location again, this
                         // listener is registered again and will adjust the camera once again.
                         map.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(location), 16));
-                        locationServices.removeLocationListener(this);
+                        //locationServices.removeLocationListener(this);
                     }
                 }
             });
@@ -950,4 +1023,6 @@ public class MapActivity extends AppCompatActivity
             }
         }
     }
+
+
 }

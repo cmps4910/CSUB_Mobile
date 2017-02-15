@@ -16,24 +16,24 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\drawable\\tw__login_btn_light.xml"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\president.jpg",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\president.jpg"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\csub_logo9.png",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\csub_logo9.png"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\president.jpg",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\president.jpg"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_moreinfo.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\btn_moreinfo.xml"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow.png",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\up_arrow.png"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__like_action.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__like_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\up_arrow.png"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_media_badge.xml",

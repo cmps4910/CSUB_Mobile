@@ -1,4 +1,4 @@
-#Tue Feb 14 05:11:53 PST 2017
+#Tue Feb 14 22:08:49 PST 2017
 base.0=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

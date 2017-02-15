@@ -18,6 +18,7 @@ import android.widget.TextView;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+
 import java.io.IOException;
 
 
@@ -64,6 +65,7 @@ public class SingleNewsView extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
     }
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -174,17 +176,22 @@ public class SingleNewsView extends AppCompatActivity
             try {
                 // Connect to the Website URL
                 Document doc = Jsoup.connect(url).get();
-
                 for (Element div : doc.select("div[class=article_text]")) {
-
-                    for (Element row : div.select("p")) {
-                        articleContent += row.text();
-                    }
-                }
-                for (Element div : doc.select("div[class=articleDate]")) {
                     for (Element header1 : div.select("h1")) {
                         articleTitle = header1.text();
                     }
+                    // check if div element has its own text
+                    // if is not empty, fetch the content else
+                    // fetch the content in <p>
+                    if (!div.ownText().isEmpty()) {
+                        articleContent += div.ownText();
+                    } else {
+                        for (Element para : div.select("p")) {
+                            articleContent += para.text() + "\n\n";
+                        }
+                    }
+                }
+                for (Element div : doc.select("div[class=articleDate]")) {
                     articleDate = div.text();
                 }
             } catch (IOException e) {

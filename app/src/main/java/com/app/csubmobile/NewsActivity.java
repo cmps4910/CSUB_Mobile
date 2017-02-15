@@ -53,9 +53,9 @@ public class NewsActivity extends AppCompatActivity
         backtotop.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //listView.smoothScrollToPosition(0,0);
-                listview.smoothScrollBy(0, 0);
-                listview.setSelection(0);
+                listview.smoothScrollToPosition(0,0);
+                //listview.smoothScrollBy(0, 0);
+                //listview.setSelection(0);
             }
         });
 

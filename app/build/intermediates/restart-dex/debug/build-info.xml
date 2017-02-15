@@ -5,33 +5,40 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="574794089798956"
+    timestamp="636146460810869"
     token="4299348845270958918"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1315" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="59" />
+        duration="0" />
     <task
         name="verifier"
-        duration="8" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="574794089798956"
-        verifier="R_CLASS_CHANGE" >
+        timestamp="635792964397341"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="636146460810869"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.quypng.csubmobile.test" >
+    package="com.example.quypng.csub.test" >
 
     <uses-sdk
         android:minSdkVersion="19"

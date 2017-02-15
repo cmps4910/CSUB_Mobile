@@ -11,7 +11,7 @@
         android:layout_alignBottom="@+id/flag"
         android:layout_toRightOf="@+id/flag"
         android:layout_toEndOf="@+id/flag"
-        android:padding="10dp"/>
+        android:padding="10dp" />
 
     <TextView
         android:id="@+id/link"
@@ -19,7 +19,9 @@
         android:layout_height="wrap_content"
         android:layout_toRightOf="@+id/linklabel"
         android:layout_alignBottom="@+id/flag"
-        android:padding="10dp"/>
+        android:padding="10dp"
+        android:ellipsize="end"
+        android:maxLines="1" />
 
     <ImageView
         android:id="@+id/flag"
@@ -48,6 +50,8 @@
         android:padding="10dp"
         android:layout_alignBaseline="@+id/titlelabel"
         android:layout_alignBottom="@+id/titlelabel"
-        android:layout_toEndOf="@+id/linklabel" />
+        android:layout_toEndOf="@+id/linklabel"
+        android:ellipsize="end"
+        android:maxLines="2" />
 
 </RelativeLayout>

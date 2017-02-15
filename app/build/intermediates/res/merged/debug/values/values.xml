@@ -921,7 +921,7 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="button">Button</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">e3b880f9-56dd-473f-b6f9-29c9770b119c</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">fda85cb8-24a9-4089-9055-dc4ff0ff9202</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -959,7 +959,7 @@
     <string name="infoWindowDescription">Description</string>
     <string name="infoWindowTitle">Title</string>
     <string name="kit_name">Twitter</string>
-    <string name="link">"Date/Link : "</string>
+    <string name="link">"Date : "</string>
     <string name="map">Map Screen</string>
     <string name="map_mode">Map Source</string>
     <string name="mapbox">MapBox</string>
@@ -992,6 +992,7 @@
     <string name="style_outdoors">mapbox://styles/mapbox/outdoors-v9</string>
     <string name="style_satellite">mapbox://styles/mapbox/satellite-v9</string>
     <string name="style_satellite_streets">mapbox://styles/mapbox/satellite-streets-v9</string>
+    <string name="textview">TextView</string>
     <string name="title_activity_dining">Dining</string>
     <string name="title_activity_directory">Directory</string>
     <string name="title_activity_events">Events</string>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:1-89:12
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:1-93:12
 	package
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:3:11-39
 		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
@@ -61,28 +61,32 @@ MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSU
 	android:name
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:12:19-63
 application
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:14:5-87:19
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:14:5-91:19
 MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:5:5-19
 MERGED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-tasks:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:design:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
 MERGED from [com.twitter.sdk.android:twitter:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.3.1\AndroidManifest.xml:25:5-20
 MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:27:5-37:19
 MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:27:5-35:19
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:27:5-40:19
 MERGED from [io.fabric.sdk.android:fabric:1.3.14] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\AndroidManifest.xml:27:5-20
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.github.arimorty\floatingsearchview\2.0.3\AndroidManifest.xml:12:5-20
+MERGED from [com.lapism:searchview:4.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.lapism\searchview\4.0\AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta5\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:18:9-41
@@ -146,75 +150,83 @@ ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidMani
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:48:13-73
 	android:name
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:46:13-61
-activity#com.app.csubmobile.DirectoryActivity
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:49:9-52:76
+activity#com.app.csubmobile.BuildingsActivity
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:49:9-52:75
 	android:label
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:51:13-61
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:51:13-58
 	android:parentActivityName
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:52:13-73
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:52:13-72
 	android:name
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:50:13-64
-activity#com.app.csubmobile.SocialMediaActivity
+activity#com.app.csubmobile.DirectoryActivity
 ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:53:9-56:76
 	android:label
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:55:13-63
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:55:13-61
 	android:parentActivityName
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:56:13-73
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:54:13-66
-activity#com.app.csubmobile.DiningActivity
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:54:13-64
+activity#com.app.csubmobile.SocialMediaActivity
 ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:57:9-60:76
 	android:label
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:59:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:59:13-63
 	android:parentActivityName
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:60:13-73
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:58:13-61
-activity#com.app.csubmobile.TransportationActivity
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:58:13-66
+activity#com.app.csubmobile.DiningActivity
 ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:61:9-64:76
 	android:label
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:63:13-66
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:63:13-58
 	android:parentActivityName
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:64:13-73
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:62:13-69
-activity#com.app.csubmobile.ScheduleActivity
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:62:13-61
+activity#com.app.csubmobile.TransportationActivity
 ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:65:9-68:76
 	android:label
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:67:13-60
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:67:13-66
 	android:parentActivityName
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:68:13-73
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:66:13-63
-activity#com.app.csubmobile.Blackboard_MoodleActivity
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:66:13-69
+activity#com.app.csubmobile.ScheduleActivity
 ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:69:9-72:76
 	android:label
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:71:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:71:13-60
 	android:parentActivityName
 		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:72:13-73
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:70:13-72
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:70:13-63
+activity#com.app.csubmobile.Blackboard_MoodleActivity
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:73:9-76:76
+	android:label
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:75:13-58
+	android:parentActivityName
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:76:13-73
+	android:name
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:74:13-72
 activity#com.app.csubmobile.SingleNewsView
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:73:9-75:20
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:77:9-79:20
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:74:13-61
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:78:13-61
 service#com.mapbox.mapboxsdk.telemetry.TelemetryService
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:78:9-83
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:82:9-83
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:78:18-80
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:82:18-80
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:80:9-82:68
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:84:9-86:68
 MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:82:13-66
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:86:13-66
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:81:13-58
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:85:13-58
 meta-data#io.fabric.ApiKey
-ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:83:9-85:72
+ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:87:9-89:72
 	android:value
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:85:13-69
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:89:13-69
 	android:name
-		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:84:13-44
+		ADDED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:88:13-44
 uses-sdk
 INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:3:5-72
@@ -224,26 +236,31 @@ MERGED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\Ponism\D
 MERGED from [com.google.android.gms:play-services-tasks:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\AndroidManifest.xml:17:5-42
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
 MERGED from [com.twitter.sdk.android:twitter:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.3.1\AndroidManifest.xml:23:5-44
 MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\AndroidManifest.xml:23:5-44
 MERGED from [com.twitter.sdk.android:tweet-ui:2.3.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\AndroidManifest.xml:23:5-44
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
 MERGED from [com.twitter.sdk.android:twitter-core:2.3.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\AndroidManifest.xml:23:5-44
 MERGED from [io.fabric.sdk.android:fabric:1.3.14] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\AndroidManifest.xml:23:5-43
+MERGED from [com.github.arimorty:floatingsearchview:2.0.3] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.github.arimorty\floatingsearchview\2.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bartoszlipinski:viewpropertyobjectanimator:1.2.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.bartoszlipinski\viewpropertyobjectanimator\1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lapism:searchview:4.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.lapism\searchview\4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta5\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml
@@ -285,7 +302,7 @@ MERGED from [com.mapzen.android:lost:1.1.1] C:\Users\Ponism\Documents\GitHub\CSU
 	android:name
 		ADDED from [org.osmdroid:osmdroid-android:5.5:release] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\AndroidManifest.xml:34:9-45
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:1-89:12 reason: org.osmdroid.library requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\src\main\AndroidManifest.xml:2:1-93:12 reason: org.osmdroid.library requested WRITE_EXTERNAL_STORAGE
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:10.0.0] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\AndroidManifest.xml:21:5-77
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:4.2.0-beta.5] C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\AndroidManifest.xml:9:5-11:35

@@ -80,6 +80,10 @@
             android:label="@string/title_activity_events"
             android:parentActivityName="com.app.csubmobile.MainActivity" />
         <activity
+            android:name="com.app.csubmobile.BuildingsActivity"
+            android:label="@string/title_activity_events"
+            android:parentActivityName="com.app.csubmobile.MapActivity" />
+        <activity
             android:name="com.app.csubmobile.DirectoryActivity"
             android:label="@string/title_activity_directory"
             android:parentActivityName="com.app.csubmobile.MainActivity" />

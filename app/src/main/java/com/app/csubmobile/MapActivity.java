@@ -38,10 +38,12 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.app.csubmobile.data.BuildingItem;
 import com.mapbox.mapboxsdk.MapboxAccountManager;
 import com.mapbox.mapboxsdk.annotations.Marker;
 import com.mapbox.mapboxsdk.annotations.MarkerOptions;
 import com.mapbox.mapboxsdk.annotations.PolylineOptions;
+import com.mapbox.mapboxsdk.camera.CameraPosition;
 import com.mapbox.mapboxsdk.camera.CameraUpdateFactory;
 import com.mapbox.mapboxsdk.geometry.LatLng;
 import com.mapbox.mapboxsdk.location.LocationListener;
@@ -64,6 +66,7 @@ import org.json.JSONObject;
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.Serializable;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
@@ -93,6 +96,9 @@ public class MapActivity extends AppCompatActivity
     public Criteria criteria;
     public String bestProvider;
     private PolylineOptions newroute;
+    private DrawerLayout mDrawerLayout;
+    public List<BuildingItem> buildings = new ArrayList<BuildingItem>();
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -388,6 +394,8 @@ public class MapActivity extends AppCompatActivity
                         .snippet("Rowdy"));
                  */
 
+
+
                 mapboxMap.setInfoWindowAdapter(new MapboxMap.InfoWindowAdapter() {
                     @Nullable
                     @Override
@@ -408,7 +416,12 @@ public class MapActivity extends AppCompatActivity
                         // Building Images and Text Descriptions
                         ImageView buildingImage = new ImageView(MapActivity.this);
                         TextView description = new TextView(MapActivity.this);
+
+                        // set destination to marker clicked and center
                         destination = Position.fromCoordinates(marker.getPosition().getLongitude(),marker.getPosition().getLatitude());
+                        map.setCameraPosition(new CameraPosition.Builder()
+                                .target(marker.getPosition())
+                                .build());
 
                         switch (marker.getTitle()) {
                             case "Well Core Repository":
@@ -731,7 +744,7 @@ public class MapActivity extends AppCompatActivity
                 floatingActionButton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        if (map != null) {
+                        /*if (map != null) {
                             toggleGps(!map.isMyLocationEnabled());
                             if(map.getMyLocation() != null) {
                                 // Set the origin as user location only if we can get their location
@@ -753,7 +766,10 @@ public class MapActivity extends AppCompatActivity
                             }
                             // Get route from API
 
-                        }
+                        }*/
+                        Intent i = new Intent(getApplicationContext(), BuildingsActivity.class);
+                        i.putExtra("Buildings", (Serializable) buildings);
+                        startActivity(i);
                     }
                 });
             }
@@ -806,11 +822,13 @@ public class MapActivity extends AppCompatActivity
                             JSONObject properties = feature.getJSONObject("properties");
                             if (!TextUtils.isEmpty(properties.getString("title"))) {
                                 String title = properties.getString("title");
-                                Log.d(TAG, title);
                                 // Get the marker coordinates here~~~
                                 JSONArray coords = geometry.getJSONArray("coordinates");
+                                double lng = coords.getDouble(1);
+                                double lat = coords.getDouble(0);
                                 LatLng latLng = new LatLng(coords.getDouble(1), coords.getDouble(0));
                                 markers.add(latLng);
+                                buildings.add(new BuildingItem(title,title,lng,lat));
                                 titles.add(title);
                             }
                         }

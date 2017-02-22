@@ -5,22 +5,22 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="56050347581499"
+    timestamp="182159793597848"
     token="7369716033707538031"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2120" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="140" />
     <task
         name="verifier"
-        duration="0" />
+        duration="6" />
 
     <artifact
         location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
@@ -41,7 +41,7 @@
             type="DEX" />
     </build>
     <build
-        timestamp="56050347581499"
+        timestamp="182159793597848"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"

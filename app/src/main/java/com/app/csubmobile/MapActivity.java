@@ -66,7 +66,6 @@ import org.json.JSONObject;
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.Serializable;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
@@ -744,7 +743,7 @@ public class MapActivity extends AppCompatActivity
                 floatingActionButton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        /*if (map != null) {
+                        if (map != null) {
                             toggleGps(!map.isMyLocationEnabled());
                             if(map.getMyLocation() != null) {
                                 // Set the origin as user location only if we can get their location
@@ -756,6 +755,7 @@ public class MapActivity extends AppCompatActivity
                             // check for crashes if destination/origin is empty or not selected
                             if (destination != null && origin != null) {
                                 try {
+                                    // Get route from API
                                     getRoute(origin, destination);
                                 } catch (ServicesException servicesException) {
                                     servicesException.printStackTrace();
@@ -764,12 +764,12 @@ public class MapActivity extends AppCompatActivity
                             } else {
                                 Toast.makeText(MapActivity.this, "Please select a destination first.", Toast.LENGTH_SHORT).show();
                             }
-                            // Get route from API
+                        }
 
-                        }*/
-                        Intent i = new Intent(getApplicationContext(), BuildingsActivity.class);
+                        // intent to launch building list
+                        /*Intent i = new Intent(getApplicationContext(), BuildingsActivity.class);
                         i.putExtra("Buildings", (Serializable) buildings);
-                        startActivity(i);
+                        startActivity(i);*/
                     }
                 });
             }

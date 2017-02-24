@@ -108,8 +108,10 @@
             android:name="com.app.csubmobile.Blackboard_MoodleActivity"
             android:label="@string/title_activity_moodle"
             android:parentActivityName="com.app.csubmobile.MainActivity" />
-        <activity android:name="com.app.csubmobile.SingleNewsView" >
-        </activity>
+        <activity
+            android:name="com.app.csubmobile.SingleNewsView"
+            android:label="@string/title_activity_news"
+            android:parentActivityName="com.app.csubmobile.NewsActivity" />
         // telemetry service for MapBox
         <service android:name="com.mapbox.mapboxsdk.telemetry.TelemetryService" />
         <!--

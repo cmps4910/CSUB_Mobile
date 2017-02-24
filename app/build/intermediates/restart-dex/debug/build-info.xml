@@ -1,51 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
-    density="560dpi"
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="182159793597848"
-    token="7369716033707538031"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="8746630301128"
+    token="4299348845270958918"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2120" />
+        duration="5927" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="140" />
+        duration="1636" />
     <task
         name="verifier"
-        duration="6" />
+        duration="114" />
 
     <artifact
-        location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="54494255492455"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="8746630301128"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="55942556873054"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="182159793597848"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Ponism\Documents\GitHub\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

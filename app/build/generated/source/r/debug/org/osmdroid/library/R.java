@@ -28,11 +28,11 @@ public final class R {
 		public static final int zoom_out = 0x7f02017a;
 	}
 	public static final class id {
-		public static final int bubble_description = 0x7f0f0095;
-		public static final int bubble_image = 0x7f0f0092;
-		public static final int bubble_moreinfo = 0x7f0f0094;
-		public static final int bubble_subdescription = 0x7f0f0096;
-		public static final int bubble_title = 0x7f0f0093;
+		public static final int bubble_description = 0x7f0f008f;
+		public static final int bubble_image = 0x7f0f008c;
+		public static final int bubble_moreinfo = 0x7f0f008e;
+		public static final int bubble_subdescription = 0x7f0f0090;
+		public static final int bubble_title = 0x7f0f008d;
 	}
 	public static final class layout {
 		public static final int bonuspack_bubble = 0x7f040020;

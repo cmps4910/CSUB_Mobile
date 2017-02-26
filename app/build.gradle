@@ -10,7 +10,7 @@ buildscript {
 }
 apply plugin: 'io.fabric'
 android {
-    compileSdkVersion 24
+    compileSdkVersion 25
     buildToolsVersion "24.0.3"
     defaultConfig {
         applicationId "com.example.quypng.csub"
@@ -51,11 +51,10 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:design:24.2.1'
+    compile 'com.android.support:design:25.0.1'
     compile 'com.mcxiaoke.volley:library-aar:1.0.0'
-    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta3'
     compile 'org.osmdroid:osmdroid-android:5.5:release@aar'
     compile 'com.google.android.gms:play-services-maps:8.3.0'
     //compile 'com.google.firebase:firebase-appindexing:10.0.0'
@@ -67,6 +66,7 @@ dependencies {
         transitive = true;
     }
     compile 'org.jsoup:jsoup:1.10.2'
+<<<<<<< HEAD
 
 
     compile 'pub.devrel:easypermissions:0.2.1'
@@ -76,4 +76,9 @@ dependencies {
     compile('com.google.apis:google-api-services-calendar:v3-rev232-1.22.0') {
         exclude group: 'org.apache.httpcomponents'
     }
+=======
+    compile 'com.github.arimorty:floatingsearchview:2.0.3'
+    compile 'com.lapism:searchview:4.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha8'
+>>>>>>> origin/master
 }

@@ -11,7 +11,7 @@
         android:layout_alignBottom="@+id/flag"
         android:layout_toRightOf="@+id/flag"
         android:layout_toEndOf="@+id/flag"
-        android:padding="10dp"/>
+        android:padding="10dp" />
 
     <TextView
         android:id="@+id/link"
@@ -19,17 +19,20 @@
         android:layout_height="wrap_content"
         android:layout_toRightOf="@+id/linklabel"
         android:layout_alignBottom="@+id/flag"
-        android:padding="10dp"/>
+        android:padding="10dp"
+        android:ellipsize="end"
+        android:maxLines="1" />
 
     <ImageView
         android:id="@+id/flag"
-        android:src="@drawable/csub_logo10"
+        android:src="@drawable/csub_logo9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
         android:background="#000000"
-        android:padding="1dp"
-        android:layout_margin="10dp"/>
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="14dp" />
 
     <TextView
         android:id="@+id/titlelabel"
@@ -38,7 +41,7 @@
         android:text="@string/titlelabel"
         android:padding="10dp"
         android:layout_alignTop="@+id/flag"
-        android:layout_toEndOf="@+id/flag" />
+        android:layout_alignStart="@+id/linklabel" />
 
     <TextView
         android:id="@+id/title"
@@ -47,6 +50,8 @@
         android:padding="10dp"
         android:layout_alignBaseline="@+id/titlelabel"
         android:layout_alignBottom="@+id/titlelabel"
-        android:layout_toEndOf="@+id/titlelabel" />
+        android:layout_toEndOf="@+id/linklabel"
+        android:ellipsize="end"
+        android:maxLines="2" />
 
 </RelativeLayout>

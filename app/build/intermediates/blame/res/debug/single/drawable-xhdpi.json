@@ -1,13 +1,23 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png"
+=======
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\schedule.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\schedule.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_directory.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_directory.png"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_news.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_news.png"
+>>>>>>> origin/master
     },
     {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_schedule.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_schedule.png"
+    },
+    {
+<<<<<<< HEAD
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png"
     },
@@ -30,12 +40,33 @@
     {
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+=======
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\maps.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\maps.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_socialmedia.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_socialmedia.png"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_events.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_events.png"
     },
     {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_blackboard.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_blackboard.png"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\directory.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\directory.png"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\map.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\map.png"
+>>>>>>> origin/master
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\events.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\events.png"
+    },
+    {
+<<<<<<< HEAD
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png"
     },
@@ -70,12 +101,21 @@
     {
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/blackboard_moodle.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/blackboard_moodle.png"
+=======
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_dining.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_dining.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_events.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_events.png"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_map.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_map.png"
+>>>>>>> origin/master
     },
     {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dining.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\dining.png"
+    },
+    {
+<<<<<<< HEAD
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png"
     },
@@ -94,12 +134,33 @@
     {
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/news.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/news.png"
+=======
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_directory.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_directory.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/transportation.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-xhdpi/transportation.png"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\news.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\news.png"
     },
     {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_socialmedia.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_socialmedia.png"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transportation.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\transportation.png"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\social_media.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\social_media.png"
+>>>>>>> origin/master
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_transportation.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_transportation.png"
+    },
+    {
+<<<<<<< HEAD
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png"
     },
@@ -206,5 +267,9 @@
     {
         "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png",
         "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+=======
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blackboard_moodle.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable-xhdpi\\blackboard_moodle.png"
+>>>>>>> origin/master
     }
 ]

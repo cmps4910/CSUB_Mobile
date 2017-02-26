@@ -32,6 +32,7 @@
     <string name="my_style_mapbox">mapbox://styles/quypng/civhzb2c9002x2ko4xb3qzcv2</string>
 
     <string name="titlelabel">"Title : "</string>
-    <string name="link">"Date : "</string>
+    <string name="link">"Date/Link : "</string>
 
+    <string name="sci3_des">Science III</string>
 </resources>

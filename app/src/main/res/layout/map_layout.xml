@@ -25,6 +25,8 @@
                 layout="@layout/content_map" />
         </android.support.design.widget.CoordinatorLayout>
 
+
+
     </LinearLayout>
 
     <android.support.design.widget.NavigationView

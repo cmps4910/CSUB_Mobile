@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="x86_64,x86"
     api-level="23"
     density="xxhdpi"
@@ -7,30 +8,54 @@
     plugin-version="2.2.3"
     timestamp="142704370632701"
     token="-1639493003808405476"
+=======
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="8746630301128"
+    token="4299348845270958918"
+>>>>>>> origin/master
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
+<<<<<<< HEAD
         duration="5146" />
+=======
+        duration="5927" />
+>>>>>>> origin/master
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="1109" />
     <task
         name="verifier"
         duration="120" />
+=======
+        duration="1636" />
+    <task
+        name="verifier"
+        duration="114" />
+>>>>>>> origin/master
 
     <artifact
-        location="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
+        location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
+<<<<<<< HEAD
         timestamp="142704370632701"
+=======
+        timestamp="8746630301128"
+>>>>>>> origin/master
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\qpngd\Desktop\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

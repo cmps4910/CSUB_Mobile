@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_directions_car_black_24dp.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_directions_car_black_24dp.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_directions_car_black_24dp.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/mipmap-mdpi/ic_directions_car_black_24dp.png"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

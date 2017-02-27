@@ -52,17 +52,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classroom_bduilding.jpg",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\classroom_bduilding.jpg"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default_light.xml",
@@ -137,17 +132,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\nursinged.jpg"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/dining.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable/dining.png"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pa100035.jpg",
@@ -191,7 +181,7 @@
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\performingarts_b.jpg",
@@ -278,21 +268,16 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\next.png"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_offline.png",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\ic_menu_offline.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_dark.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.png",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\actionbar_background.png"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -311,10 +296,6 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\studentservices.jpg"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -331,8 +312,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\drawable\\tw__call_to_action.xml"
     },
     {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_mylocation.png",
@@ -363,13 +348,8 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100030.jpg"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_dark.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schedule.png",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\schedule.png"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peets.jpg",
@@ -412,17 +392,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\org.osmdroid\\osmdroid-android\\5.5\\release\\res\\drawable\\marker_default_focused_base.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/btn_map.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable/btn_map.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finearts.jpg",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\finearts.jpg"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -439,6 +414,10 @@
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\drawable\\tw__login_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -462,16 +441,11 @@
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_light.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_map.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_map.xml"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counselling.jpg",
@@ -514,17 +488,8 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_schedule.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/president.jpg",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/president.jpg"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -543,17 +508,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.github.arimorty\\floatingsearchview\\2.0.3\\res\\drawable\\suggestion_item_background.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_light.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__app_info_layout_border.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\drawable\\tw__app_info_layout_border.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\events.png",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\events.png"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_b.jpg",
@@ -588,17 +548,8 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\pa100024.jpg"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/writingresourcelab.jpg",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/buildings/drawable/writingresourcelab.jpg"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sci_1.jpg",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_1.jpg"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
@@ -649,21 +600,8 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\sci_3b.jpg"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
-=======
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blackboard_moodle.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\btn_blackboard_moodle.xml"
->>>>>>> origin/master
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -703,7 +641,7 @@
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\csubakersfield_logo.png",
@@ -742,12 +680,12 @@
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.github.arimorty\\floatingsearchview\\2.0.3\\res\\drawable\\divider_background.xml"
     },
     {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news.png",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\news.png"
-    },
-    {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news.png",
+        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\res\\drawable\\news.png"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -776,10 +714,6 @@
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\studentrec.jpg",
         "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\src\\main\\buildings\\drawable\\studentrec.jpg"
-    },
-    {
-        "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moreinfo_arrow_pressed.png",

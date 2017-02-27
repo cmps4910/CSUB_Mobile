@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+        "outputFile": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 232
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 363
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 494
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 613
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 721
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -112,7 +112,7 @@
                     "endOffset": 844
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 952
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -150,7 +150,7 @@
                     "endOffset": 1069
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -169,7 +169,7 @@
                     "endOffset": 1157
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -188,7 +188,7 @@
                     "endOffset": 1263
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -207,7 +207,7 @@
                     "endOffset": 1384
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -226,7 +226,7 @@
                     "endOffset": 1463
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -245,7 +245,7 @@
                     "endOffset": 1541
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -264,7 +264,7 @@
                     "endOffset": 1625
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -283,7 +283,7 @@
                     "endOffset": 1734
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -302,7 +302,7 @@
                     "endOffset": 1845
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -321,7 +321,7 @@
                     "endOffset": 1946
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2056
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2173
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2281
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -397,7 +397,7 @@
                     "endOffset": 2404
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 2506
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2703
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 2893
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -473,7 +473,7 @@
                     "endOffset": 3010
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -492,7 +492,7 @@
                     "endOffset": 3301
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -511,7 +511,7 @@
                     "endOffset": 3429
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -530,7 +530,7 @@
                     "endOffset": 3638
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -549,7 +549,7 @@
                     "endOffset": 3771
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -568,7 +568,7 @@
                     "endOffset": 3939
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -587,7 +587,7 @@
                     "endOffset": 4071
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -606,7 +606,7 @@
                     "endOffset": 4296
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -625,7 +625,7 @@
                     "endOffset": 4519
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -644,7 +644,7 @@
                     "endOffset": 4655
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 4853
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4982
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -701,7 +701,7 @@
                     "endOffset": 5160
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -720,7 +720,7 @@
                     "endOffset": 5346
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -739,7 +739,7 @@
                     "endOffset": 5473
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -758,7 +758,7 @@
                     "endOffset": 5658
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -777,7 +777,7 @@
                     "endOffset": 5801
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -796,7 +796,7 @@
                     "endOffset": 5980
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -815,7 +815,7 @@
                     "endOffset": 6109
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -834,7 +834,7 @@
                     "endOffset": 6264
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -853,7 +853,7 @@
                     "endOffset": 6537
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -872,7 +872,7 @@
                     "endOffset": 6669
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -891,7 +891,7 @@
                     "endOffset": 6778
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -910,7 +910,7 @@
                     "endOffset": 6987
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -929,7 +929,7 @@
                     "endOffset": 7127
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -948,7 +948,7 @@
                     "endOffset": 7348
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -967,7 +967,7 @@
                     "endOffset": 7487
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -986,7 +986,7 @@
                     "endOffset": 7584
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-tl\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-tl/common_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1005,7 +1005,7 @@
                     "endOffset": 7680
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\values-tl\\base_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values-tl/base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1024,7 +1024,7 @@
                     "endOffset": 7791
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\values-tl\\base_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values-tl/base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1043,7 +1043,7 @@
                     "endOffset": 7875
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1062,7 +1062,7 @@
                     "endOffset": 7976
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1081,7 +1081,7 @@
                     "endOffset": 8030
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1100,7 +1100,7 @@
                     "endOffset": 8094
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1119,7 +1119,7 @@
                     "endOffset": 8150
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1138,7 +1138,7 @@
                     "endOffset": 8200
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1157,7 +1157,7 @@
                     "endOffset": 8262
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1176,7 +1176,7 @@
                     "endOffset": 8323
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1195,7 +1195,7 @@
                     "endOffset": 8389
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1214,7 +1214,7 @@
                     "endOffset": 8464
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1233,7 +1233,7 @@
                     "endOffset": 8516
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1252,7 +1252,7 @@
                     "endOffset": 8577
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1271,7 +1271,7 @@
                     "endOffset": 8623
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1290,7 +1290,7 @@
                     "endOffset": 8667
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1309,7 +1309,7 @@
                     "endOffset": 8720
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1328,7 +1328,7 @@
                     "endOffset": 8784
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1347,7 +1347,7 @@
                     "endOffset": 8849
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 8900
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1385,7 +1385,7 @@
                     "endOffset": 8971
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1404,7 +1404,7 @@
                     "endOffset": 9086
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1423,7 +1423,7 @@
                     "endOffset": 9389
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1442,7 +1442,7 @@
                     "endOffset": 9468
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1461,7 +1461,7 @@
                     "endOffset": 9550
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1480,7 +1480,7 @@
                     "endOffset": 9612
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1499,7 +1499,7 @@
                     "endOffset": 9688
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1518,7 +1518,7 @@
                     "endOffset": 9747
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-tl\\values-tl.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-tl/values-tl.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,

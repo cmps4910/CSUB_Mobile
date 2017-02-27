@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+        "outputFile": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 232
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 363
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 494
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 590
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 697
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -112,7 +112,7 @@
                     "endOffset": 820
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 915
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -150,7 +150,7 @@
                     "endOffset": 1015
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -169,7 +169,7 @@
                     "endOffset": 1097
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -188,7 +188,7 @@
                     "endOffset": 1194
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -207,7 +207,7 @@
                     "endOffset": 1300
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -226,7 +226,7 @@
                     "endOffset": 1376
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -245,7 +245,7 @@
                     "endOffset": 1452
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -264,7 +264,7 @@
                     "endOffset": 1530
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -283,7 +283,7 @@
                     "endOffset": 1626
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -302,7 +302,7 @@
                     "endOffset": 1722
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -321,7 +321,7 @@
                     "endOffset": 1817
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 1914
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2009
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2107
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -397,7 +397,7 @@
                     "endOffset": 2219
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 2313
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2483
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 2636
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -473,7 +473,7 @@
                     "endOffset": 2742
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -492,7 +492,7 @@
                     "endOffset": 2928
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -511,7 +511,7 @@
                     "endOffset": 3044
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -530,7 +530,7 @@
                     "endOffset": 3205
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -549,7 +549,7 @@
                     "endOffset": 3319
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -568,7 +568,7 @@
                     "endOffset": 3480
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -587,7 +587,7 @@
                     "endOffset": 3597
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -606,7 +606,7 @@
                     "endOffset": 3767
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -625,7 +625,7 @@
                     "endOffset": 3939
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -644,7 +644,7 @@
                     "endOffset": 4053
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 4182
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4295
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -701,7 +701,7 @@
                     "endOffset": 4426
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -720,7 +720,7 @@
                     "endOffset": 4560
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -739,7 +739,7 @@
                     "endOffset": 4671
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -758,7 +758,7 @@
                     "endOffset": 4813
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -777,7 +777,7 @@
                     "endOffset": 4935
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -796,7 +796,7 @@
                     "endOffset": 5059
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -815,7 +815,7 @@
                     "endOffset": 5171
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -834,7 +834,7 @@
                     "endOffset": 5292
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -853,7 +853,7 @@
                     "endOffset": 5481
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -872,7 +872,7 @@
                     "endOffset": 5599
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -891,7 +891,7 @@
                     "endOffset": 5702
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -910,7 +910,7 @@
                     "endOffset": 5863
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -929,7 +929,7 @@
                     "endOffset": 5978
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -948,7 +948,7 @@
                     "endOffset": 6141
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -967,7 +967,7 @@
                     "endOffset": 6260
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -986,7 +986,7 @@
                     "endOffset": 6345
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\values-zh-rCN\\common_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1005,7 +1005,7 @@
                     "endOffset": 6432
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\values-zh-rCN\\base_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values-zh-rCN/base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1024,7 +1024,7 @@
                     "endOffset": 6536
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\values-zh-rCN\\base_strings.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/values-zh-rCN/base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1043,7 +1043,7 @@
                     "endOffset": 6614
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1062,7 +1062,7 @@
                     "endOffset": 6715
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1081,7 +1081,7 @@
                     "endOffset": 6764
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1100,7 +1100,7 @@
                     "endOffset": 6820
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1119,7 +1119,7 @@
                     "endOffset": 6872
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1138,7 +1138,7 @@
                     "endOffset": 6915
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1157,7 +1157,7 @@
                     "endOffset": 6963
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1176,7 +1176,7 @@
                     "endOffset": 7012
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1195,7 +1195,7 @@
                     "endOffset": 7063
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1214,7 +1214,7 @@
                     "endOffset": 7120
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1233,7 +1233,7 @@
                     "endOffset": 7172
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1252,7 +1252,7 @@
                     "endOffset": 7225
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1271,7 +1271,7 @@
                     "endOffset": 7266
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1290,7 +1290,7 @@
                     "endOffset": 7306
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1309,7 +1309,7 @@
                     "endOffset": 7352
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1328,7 +1328,7 @@
                     "endOffset": 7416
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1347,7 +1347,7 @@
                     "endOffset": 7480
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 7522
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1385,7 +1385,7 @@
                     "endOffset": 7584
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1404,7 +1404,7 @@
                     "endOffset": 7688
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1423,7 +1423,7 @@
                     "endOffset": 7832
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1442,7 +1442,7 @@
                     "endOffset": 7893
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\2.3.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1461,7 +1461,7 @@
                     "endOffset": 7967
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1480,7 +1480,7 @@
                     "endOffset": 8016
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1499,7 +1499,7 @@
                     "endOffset": 8092
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1518,7 +1518,7 @@
                     "endOffset": 8141
                 },
                 "from": {
-                    "file": "C:\\Users\\qpngd\\Desktop\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.3.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,

@@ -425,127 +425,127 @@ public class MapActivity extends AppCompatActivity
                         switch (marker.getTitle()) {
                             case "Well Core Repository":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Facilities/Corporation Yard":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Emergency Operation Center":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Modular East I":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Modular East II":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Modular East III":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Rohan Hall":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.rohan));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Numenor Hall":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.numenor));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Rivendell Hall":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.rivendell));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Dobry Hall":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.dobry));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Entwood Hall":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.entwood));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Lorien Hall":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Child Care":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.childcare));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Tennis Shower Locker":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Rowdy":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Amphitheatre":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.ampitheatre));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Hardt Field":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Modular West":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "University Grill":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Doré Theatre":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.dore_theatre));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Music Building":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.music_building));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "J.R. Hillman Aquatic Center":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Handball Courts":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "J. Antonino Sports Center":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Greenhouse":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.student_union));
+                                        MapActivity.this, R.drawable.coming_soon));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Student Union":
@@ -665,7 +665,7 @@ public class MapActivity extends AppCompatActivity
                                 break;
                             case "Administration":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.admin_east));
+                                        MapActivity.this, R.drawable.admin_west_a));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Administration East":
@@ -675,7 +675,7 @@ public class MapActivity extends AppCompatActivity
                                 break;
                             case "Administration West":
                                 buildingImage.setImageDrawable(ContextCompat.getDrawable(
-                                        MapActivity.this, R.drawable.admin_east));
+                                        MapActivity.this, R.drawable.admin_west));
                                 description.setText(marker.getSnippet());
                                 break;
                             case "Student Services":

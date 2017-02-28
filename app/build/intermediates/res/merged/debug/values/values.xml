@@ -943,7 +943,7 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="button">Button</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">71e8e94b-88ea-4f94-94b0-517127f50a12</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">b064bdbc-c1bd-49eb-b3cb-ad8735bd0da0</string>
     <string name="common_android_wear_notification_needs_update_text"><ns2:g id="app_name">%1$s</ns2:g> requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run unless you update the Android Wear app.</string>
     <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>

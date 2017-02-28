@@ -8,24 +8,24 @@ package org.osmdroid.library;
 
 public final class R {
 	public static final class drawable {
-		public static final int bonuspack_bubble = 0x7f02005c;
-		public static final int btn_moreinfo = 0x7f020063;
-		public static final int center = 0x7f02006c;
-		public static final int direction_arrow = 0x7f0200a6;
-		public static final int ic_menu_compass = 0x7f0200c7;
-		public static final int ic_menu_mapmode = 0x7f0200ce;
-		public static final int ic_menu_mylocation = 0x7f0200cf;
-		public static final int ic_menu_offline = 0x7f0200d1;
-		public static final int marker_default = 0x7f0200e9;
-		public static final int marker_default_focused_base = 0x7f0200ea;
-		public static final int moreinfo_arrow = 0x7f0200eb;
-		public static final int moreinfo_arrow_pressed = 0x7f0200ec;
-		public static final int navto_small = 0x7f0200ee;
-		public static final int next = 0x7f0200f0;
-		public static final int person = 0x7f020106;
-		public static final int previous = 0x7f020109;
-		public static final int zoom_in = 0x7f02018e;
-		public static final int zoom_out = 0x7f02018f;
+		public static final int bonuspack_bubble = 0x7f020060;
+		public static final int btn_moreinfo = 0x7f020067;
+		public static final int center = 0x7f020070;
+		public static final int direction_arrow = 0x7f0200ad;
+		public static final int ic_menu_compass = 0x7f0200d4;
+		public static final int ic_menu_mapmode = 0x7f0200db;
+		public static final int ic_menu_mylocation = 0x7f0200dc;
+		public static final int ic_menu_offline = 0x7f0200de;
+		public static final int marker_default = 0x7f0200f6;
+		public static final int marker_default_focused_base = 0x7f0200f7;
+		public static final int moreinfo_arrow = 0x7f0200f8;
+		public static final int moreinfo_arrow_pressed = 0x7f0200f9;
+		public static final int navto_small = 0x7f0200fc;
+		public static final int next = 0x7f0200ff;
+		public static final int person = 0x7f02011b;
+		public static final int previous = 0x7f020121;
+		public static final int zoom_in = 0x7f0201ae;
+		public static final int zoom_out = 0x7f0201af;
 	}
 	public static final class id {
 		public static final int bubble_description = 0x7f0f008f;

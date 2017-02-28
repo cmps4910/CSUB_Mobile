@@ -1,210 +1,210 @@
 [
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_news.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_news.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\schedule.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\schedule.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/events.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/events.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_blackboard.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_blackboard.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_transportation.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_transportation.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_schedule.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_schedule.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_events.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_events.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/maps.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/maps.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\map.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\map.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/blackboard_moodle.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/blackboard_moodle.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_socialmedia.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_socialmedia.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/directory.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/directory.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\blackboard_moodle.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\blackboard_moodle.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/map.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/map.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dining.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\dining.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_blackboard.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_blackboard.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_directory.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_directory.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/news.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/news.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_news.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_news.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_map.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_map.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_directory.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_directory.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\directory.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\directory.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_dining.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_dining.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_transportation.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_transportation.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_full_open_on_phone.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/drawable-mdpi/common_full_open_on_phone.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\transportation.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\transportation.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\events.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\events.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\social_media.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\social_media.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\maps.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\maps.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_map.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_map.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_socialmedia.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_socialmedia.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/dining.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/dining.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_dining.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_dining.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_events.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_events.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_schedule.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_schedule.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/social_media.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/social_media.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\news.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\src\\main\\res\\drawable-mdpi\\news.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/transportation.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/transportation.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/res/merged/debug/drawable-mdpi/schedule.png",
-        "source": "/Users/kevinjenkin/Desktop/CSUB_Mobile/app/src/main/res/drawable-mdpi/schedule.png"
+        "merged": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\seniorproj\\CSUB_Mobile\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
     }
 ]

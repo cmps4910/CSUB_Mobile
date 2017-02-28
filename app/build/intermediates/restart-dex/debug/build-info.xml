@@ -1,37 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="23"
+    abi="x86"
+    api-level="24"
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2705659789806"
-    token="-1639493003808405476"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="939379707566666"
+    token="7121309900559151070"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="4475" />
+        duration="18968" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="874" />
+        duration="517" />
     <task
         name="verifier"
-        duration="143" />
+        duration="456" />
 
     <artifact
-        location="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="2705659789806"
+        timestamp="937689257245333"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/outputs/apk/app-debug.apk"
+            location="D:\seniorproj\CSUB_Mobile\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="939379707566666"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

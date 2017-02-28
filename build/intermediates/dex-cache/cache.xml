@@ -3,543 +3,543 @@
 
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="92bfc3179c0bb6e950bbffa761ac96c93e7580cc">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_e578493a688a58cf92f4e02bdef12c8a0dc9c6d3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_68d254b3410b123f650948aa022b0627c3a98eaf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.10.2_88c8f6ea49688526115130bd300a5de13840eb9f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-2.3.1_83d4750bbc5302509af30099e4aea1a75c7ed4e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha8/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha8_e15cb618821ec673240d4f0edb4d21bbecfdde3d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_9c079aa3eb6ba944d237a054af1a3b1b2f048fde/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e440280fa1956d614ae6a15cd631dc47b5daf67f">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-2.3.1_21d7577d6202d12b1997370b5dde36566da4ed3e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_415bc99b5e5fd1eff3fa83300f32d8f5af393819/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dd2b777855fc2c66b034f80eb9b285d94c6da589">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-2.3.1_057b26a1cdaa11e78a2c0625bf9c5f38ba35c61a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dd4d2aa61e1b9e59ddf3b1f3c4f0e2e6b716f0c8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_b121262d8a8e395374b0295f60936e02fd27953f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_55b5b96e555614b7933890e5b15ac0cd74ec549c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ebe27e42548d78ec8c8729a494af468d4b2d3991/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_ce05600b5d46defb9df85befcc3e5572c5bd1a41/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.14_2823b577044c1612050eb5987e136f8ff4bfe829/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_357d71c60cecc2932b510b64cf7469b6708777b2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_25b310322f3954b0942985be30b1d865be1994b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_06aa9fd96a32dcdeb1b50a610213bc7538c07ebc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c62423966e97071131e9c16d89ffaa003fe6a5d1">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.2.1_2dd9859d03c561c0bd3119c6dbace4538dcac201/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a2ef49bc4a5846a9fed11705a026a23fbe6b5da0">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8b8bdf0e684e8efc85d7a09c30efa686ae0be39a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_7b9f26be8934a961b37dc6aa6b45166ef27229c4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_d040c93a7a8e5449ee140c70bd73845b3815a8ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_14b5d3dc884b451ccfe2c84b74295ccf40c82ab6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.bartoszlipinski/viewpropertyobjectanimator/1.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.bartoszlipinski-viewpropertyobjectanimator-1.2.0_3131d200e5ab7fefe1fc58752508e9a8441808e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.3.0_ccb126302270df2df52d3fdde06b1052442f22ce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_8244dcc8e2ff3f26c9246f85dd39c8e1d21d98df/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_20bc4d1047488334a660bb2e0af60f0d744d34b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_6f924c24d52dc075746fd9dd02cf667fb3e593e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.22.0_ab55f1496855f3bcb0fcc664938ed59ce83a6153/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-calendar/v3-rev232-1.22.0/8a2cd34a87e887d1c91a0aa89733a2bb4078662/google-api-services-calendar-v3-rev232-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="08a2cd34a87e887d1c91a0aa89733a2bb4078662">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-calendar-v3-rev232-1.22.0_747977e930f7b4d9dd495740025626541236c473/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.22.0_73def9f9b428c3c5b3334024b7a0c6e5c21d84d0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_fedcd8781d6748424483df9a614fc965c75150ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_8963f42f46344cbc8818b7c71194ee10ae1dacb9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.5/release/jars/classes.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.5\release\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="27817500586893687f35a2d97b2c5c39a6e56011">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/osmdroid-android-5.5-release_eb95e6292baba3cc992dc4805a201c7f48609236/classes.dex" />
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\osmdroid-android-5.5-release_d5a6148cfb4e5cc37e80558dc08b0db679c92a71\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/1.3.1/6bda5f2cf57af827c1a9703a77ed9e451e6d6d25/mapbox-java-services-1.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6bda5f2cf57af827c1a9703a77ed9e451e6d6d25">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/mapbox-java-services-1.3.1_2e2d518201c1ecb6935bd1d090626db41f0fe05a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mapzen.android-lost-1.1.1_6186423cf07516dfd01ff768a93924385ca140f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_3a8f95cd5138d2d22c10a2430b831e1713a60b91/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.github.arimorty/floatingsearchview/2.0.3/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.arimorty-floatingsearchview-2.0.3_e16833dd20823158b5a1516e697b01aea43b64a7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_bee4c43bc360cbe6bb54d0ef29f8bf6798c75558/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_209eadefa027b79b466a12340c9545994a076a70/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_249f78cc7becaca7163ea50c935a522f39318632/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_1880cf9e76670502fa17d12fb8c9942c96103f24/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.lapism/searchview/4.0/jars/classes.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.lapism\searchview\4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="65737643c78ef07171636358badd699866452c5a">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.lapism-searchview-4.0_0bca5e51d574112184747e0d38a27aa4f0f676cd/classes.dex" />
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lapism-searchview-4.0_bb6d135a920b7f0a193b3bbc86dbdaf1eceb9330\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.3.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_b01a9fb3c37a431886fe5f90d8bab65e053b4e4f/classes.dex" />
+        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-2.3.1_12c509cd541a4935f00d855ac33604dd6bef201b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_bd3188de45fe4d2a13c5eaa9bf500841055a1816/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_ca75efef4ac4307b9b475a36bb113a1480de59ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1d63f369ac78e4838a3197147012026e791008cb">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_29afc5c37ad0850a13e32c381b8b068300183ae5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-2.3.0_e51f9480dbb740b8baee5703000c57cf0afb96a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="77f9593d979f4347344be233bd0d888315f79517">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.3.0_0ee9cebe1d18c54e824af4b8a860fee27b890aed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b725c740ab574e939261718ab3dd42c8b76e6254/classes.dex" />
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7d54a424cc711362fe86d037776e254546dfc230\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.0-beta.5\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_1901572f95540ad77123a321b76eb1579cc879d3/classes.dex" />
+        sha1="92bfc3179c0bb6e950bbffa761ac96c93e7580cc">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_7b0a6e1791097ec0dbb0dcb4cdc0a321c29629b9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mcxiaoke.volley-library-aar-1.0.0_d10c031fcda4f2b72343a53c59e7563cca62ac8b/classes.dex" />
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bc188df575c63a72df4b77be01572bea836f8b23\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-services\1.3.1\6bda5f2cf57af827c1a9703a77ed9e451e6d6d25\mapbox-java-services-1.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha8_4e29ff466e9d29669e3201008b4ddbdae8aaf95a/classes.dex" />
+        sha1="6bda5f2cf57af827c1a9703a77ed9e451e6d6d25">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\mapbox-java-services-1.3.1_7d6f23384e3adeac5843de31cd63c8bc2666874f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_efbce9fda213040a510175e5f2bd65d7e0e54d1a/classes.dex" />
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c129baca33779dc9e8a7e5785d4ff0494bc094d0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="30e2ae3d8d43d4e4141aeb34d2a59e4b9b7ed867">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c0aa7e247fadcc1f7a963900cf427621e2b3a7e/classes.dex" />
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_0e43d2b92c0e3a2f3d33611a27e82379e7c996d1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.bartoszlipinski\viewpropertyobjectanimator\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bartoszlipinski-viewpropertyobjectanimator-1.2.0_4db8246d94aeef9a1f0654f7f1888a6a8dc18210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_87eaf8c11cdf027fce88694296a698adf2c5d052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_0000a7a02e228f5032a46a2a4da83e375e850cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_068d6e8e46df09c20c0b64626d60c94eceb553b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_3beb5afe8e038eb45d74a57efb5cb22ecdc7c7e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_1535a60ac9a80d24af41d8effadfd034ebfc5336/classes.dex" />
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_bf0abaac7bc1abaf8d548184ae798956c810505e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_db42f120f086c25539bc7aca8b0ec97472276784\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.3.0_a43eb02a4f30a6d8755ec4d1352edbf111f353cc/classes.dex" />
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.3.0_2fa1b052361cc267e23f12405ec0a3eceed9fc0e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_cef8dba88a330d6c1d70793cd48c66e5ac3467e5/classes.dex" />
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_33046c6c87be4fb7f20a0dd29144834fc3fd5f14\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.22.0_32295ed1a8aae4e15f2e214b1ecd86260a99eba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/kevinjenkin/Desktop/CSUB_Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_869e1f75e6dfe35726a0a449455910c34b744674/classes.dex" />
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f889dc9af95b2615591f29dc39f036724bbaf441\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_0b385089a6ac080a0aa9a02efdd6a49ae59135e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f8564bb992f16e4bcc566dcbf505b153d396c13a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-2.3.0_f7ce6da134958ce049b73d42a71009ad847514c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_76f3d2f8ff034a7f5c62f1db41dfd6acf89ecfff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1d6b67013846e0e850cb0c7c6b8a14e369bad80b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.3.0_ee815ac8d4857e1d5a11312afe2f192de98bdc11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.2\33ee82e324f4b1e40167f3dc5e01234a1c5cab61\jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.2_cbe23a6a87442dae100a4f014ea33698a56720bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b97f64fa88422d8753df5d82c618c53ea45cf06d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="db67f7de1dfdc0869c6c6caf403511a2576a9820">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da4e62985f579027cee648ee7d13e5edfb85f056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_bb9378deedbd47062d300ce560d82a519c6debb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="96e1b6db3d451e2b29e6d2a535e38e66e26377f9">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7c18ba5c5cfa4bfc8adace5c5037ceec69d04621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_a1190f81f943b19e2fc1a28455767c96d32045e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_07f047963684757b71d6cda47f86545f49634298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e440280fa1956d614ae6a15cd631dc47b5daf67f">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-2.3.1_eb85acf342413bb2497d93b02e48cb9bb83292ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_090f9f6ffaa415abb5651b3713da08b299eedbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3d24d773fbdabbaed62db222df98019ed4d607c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.14_04f526d5375feaab7dee43332ed39184d692482b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_02b630bababd023284c63f1049ed3bd79ebbd304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_452149d39caf249893a712d22f3ec8b288759425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_e080e2d65c32980e14e9a832020b7047e54c94ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_329c13ec71ff0cf9382c32a3d7a252267d58037d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_62bc7824ce94e3dd617b1ea53fc90edf17816872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.22.0_803dfac14748069837ed0a5c6118acdb5cfe5c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_5ffdd3f9fe3369f44c80b2bb1c5951cb5097b3ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_1a6b7129248ff18853180666015fd81b0f1f9a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_5edb37ed523bd3b6d36f04ce8f153d8b332b56d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.github.arimorty\floatingsearchview\2.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.arimorty-floatingsearchview-2.0.3_66364b87fa23c88ff1d42c3c748a30cc69e5ff3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_8968a6dddbd506262320a411f445a4d09581ac84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd2b777855fc2c66b034f80eb9b285d94c6da589">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-2.3.1_16a601ac199dac4944694fd8085dea9646b4968c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mapzen.android-lost-1.1.1_f08fc40afabd123bf6a8acbd3a37ae8e668ede90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c62423966e97071131e9c16d89ffaa003fe6a5d1">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.2.1_04e27e0149e681a4d1b70aaf468aa63a11d3d51f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_20d9b00eefea389778857866f31b5a0e5d062492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_1e57bf0ac1bf5be6592c0ff0cbb20d6e5e44e9ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_c12f1a0656df593a645cb4c9bda73ca8b6094dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.3.0_2c608309f7a613d2a6dafd1a02441f0055178fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-calendar\v3-rev232-1.22.0\8a2cd34a87e887d1c91a0aa89733a2bb4078662\google-api-services-calendar-v3-rev232-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="08a2cd34a87e887d1c91a0aa89733a2bb4078662">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-calendar-v3-rev232-1.22.0_d3661a9d14f0deee8fd87dc14d7fd547af890f00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_7e42e5a213356016cd42c9dc4cfa578bed335d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\seniorproj\CSUB_Mobile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_11f031dbeb26fba3dad401dcded3e263db548b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\captnemo\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="D:\seniorproj\CSUB_Mobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_504de8e34662852ce99963804dcd0b5da496f66d\classes.dex" />
     </item>
 
 </items>
